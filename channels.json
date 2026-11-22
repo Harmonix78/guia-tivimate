@@ -215,6 +215,150 @@
   "CA2",
   "Sportsnet.One.ca2"
  ],
+ "CINE Y SERIES HD | A3 SERIES": [
+  "MX1",
+  "Canal.Atreseries.(Internacional).mx"
+ ],
+ "CINE Y SERIES HD | AMC": [
+  "MX1",
+  "Canal.AMC.(México).mx"
+ ],
+ "CINE Y SERIES HD | AXN": [
+  "MX1",
+  "Canal.AXN.(México).mx"
+ ],
+ "CINE Y SERIES HD | CINE LATINO": [
+  "CL1",
+  "Canal.Cinelatino.cl"
+ ],
+ "CINE Y SERIES HD | CINECANAL": [
+  "MX1",
+  "Canal.Cinecanal.(México).mx"
+ ],
+ "CINE Y SERIES HD | CINEMAX": [
+  "MX1",
+  "Canal.Cinemax.(México).mx"
+ ],
+ "CINE Y SERIES HD | DHE": [
+  "CO1",
+  "DHE.HD.co"
+ ],
+ "CINE Y SERIES HD | EUROPA": [
+  "MX1",
+  "Canal.Europa.Europa.mx"
+ ],
+ "CINE Y SERIES HD | FX": [
+  "MX1",
+  "Canal.FX.(México).mx"
+ ],
+ "CINE Y SERIES HD | HBO": [
+  "MX1",
+  "Canal.HBO.(México).mx"
+ ],
+ "CINE Y SERIES HD | HBO 2": [
+  "MX1",
+  "Canal.HBO.2.Latinoamérica.mx"
+ ],
+ "CINE Y SERIES HD | HBO FAMILY": [
+  "MX1",
+  "Canal.HBO.Family.Latinoamérica.mx"
+ ],
+ "CINE Y SERIES HD | HBO MUNDI": [
+  "MX1",
+  "Canal.HBO.Mundi.mx"
+ ],
+ "CINE Y SERIES HD | HBO PLUS": [
+  "MX1",
+  "Canal.HBO.Plus.mx"
+ ],
+ "CINE Y SERIES HD | HBO POP": [
+  "MX1",
+  "Canal.HBO.Pop.mx"
+ ],
+ "CINE Y SERIES HD | HBO SIGNATURE": [
+  "MX1",
+  "Canal.HBO.Signature.Latinoamérica.mx"
+ ],
+ "CINE Y SERIES HD | HBO XTREME": [
+  "MX1",
+  "Canal.HBO.Xtreme.mx"
+ ],
+ "CINE Y SERIES HD | MULTIPREMIER": [
+  "CL1",
+  "Canal.Multipremier.cl"
+ ],
+ "CINE Y SERIES HD | PARAMOUNT": [
+  "MX1",
+  "Canal.Paramount.Channel.(México).mx"
+ ],
+ "CINE Y SERIES HD | SONY": [
+  "MX1",
+  "Canal.Sony.(México).mx"
+ ],
+ "CINE Y SERIES HD | SPACE": [
+  "MX1",
+  "Canal.Space.(México).mx"
+ ],
+ "CINE Y SERIES HD | STAR CHANNEL": [
+  "MX1",
+  "Canal.Star.Channel.(México).mx"
+ ],
+ "CINE Y SERIES HD | STUDIO UNIVERSAL": [
+  "MX1",
+  "Canal.Studio.Universal.(México).mx"
+ ],
+ "CINE Y SERIES HD | TNT": [
+  "MX1",
+  "Canal.TNT.(México).mx"
+ ],
+ "CINE Y SERIES HD | TNT NOVELAS": [
+  "MX1",
+  "Canal.TNT.Novelas.(México).mx"
+ ],
+ "CINE Y SERIES HD | TNT SERIES": [
+  "MX1",
+  "Canal.TNT.Series.(México).mx"
+ ],
+ "CINE Y SERIES HD | ULTRA CINE": [
+  "SV1",
+  "Canal.Ultra.Cine.sv"
+ ],
+ "CINE Y SERIES HD | ULTRA DOCU": [
+  "SV1",
+  "Canal.Ultra.Docu.sv"
+ ],
+ "CINE Y SERIES HD | ULTRA KIDS": [
+  "SV1",
+  "Canal.Ultra.Kidz.sv"
+ ],
+ "CINE Y SERIES HD | UNIVERSAL CINEMA": [
+  "MX1",
+  "Canal.Universal.Cinema.mx"
+ ],
+ "CINE Y SERIES HD | UNIVERSAL COMEDY": [
+  "MX1",
+  "Canal.Universal.Comedy.mx"
+ ],
+ "CINE Y SERIES HD | UNIVERSAL CRIME": [
+  "MX1",
+  "Canal.Universal.Crime.mx"
+ ],
+ "CINE Y SERIES HD | UNIVERSAL PREMIERE": [
+  "MX1",
+  "Canal.Universal.Premiere.mx"
+ ],
+ "CINE Y SERIES HD | UNIVERSAL REALITY": [
+  "MX1",
+  "Canal.Universal.Reality.mx"
+ ],
+ "CINE Y SERIES HD | UNIVERSAL TV": [
+  "MX1",
+  "Canal.Universal.TV.(México).mx"
+ ],
+ "CINE Y SERIES HD | WARNER": [
+  "MX1",
+  "Canal.Warner.TV.(México).mx"
+ ],
  "CINE Y SERIES |  DE PELICULA FHD": [
   "MX1",
   "Canal.De.Película.mx"
@@ -246,6 +390,10 @@
  "CINE Y SERIES | CINECANAL FHD": [
   "MX1",
   "Canal.Cinecanal.(México).mx"
+ ],
+ "CINE Y SERIES | CINEMA +": [
+  "SV1",
+  "Canal.Cinema.+.sv"
  ],
  "CINE Y SERIES | CINEMAX FHD": [
   "MX1",
@@ -407,6 +555,10 @@
   "CO1",
   "Warner.Channel.co"
  ],
+ "CO |  RCN Novelas HD": [
+  "CO1",
+  "RCN.Novelas.co"
+ ],
  "CULTURA HD | AE": [
   "MX1",
   "Canal.A&E.(México).mx"
@@ -506,6 +658,10 @@
  "CULTURA |  FHD DISCOVERY TURBO FHD": [
   "MX1",
   "Canal.Discovery.Turbo.(Latinoamérica).mx"
+ ],
+ "CULTURA | A&E HD": [
+  "MX1",
+  "Canal.A&E.(México).mx"
  ],
  "CULTURA | ANIMAL PLANET FHD": [
   "MX1",
@@ -623,13 +779,737 @@
   "MX1",
   "Canal.WOBI.mx"
  ],
+ "DAZN ES | DAZN 1 HD": [
+  "ES1",
+  "DAZN.1.es"
+ ],
+ "DAZN ES | DAZN 2 HD": [
+  "ES1",
+  "DAZN.2.es"
+ ],
+ "DAZN ES | DAZN 3 HD": [
+  "ES1",
+  "DAZN.3.es"
+ ],
+ "DAZN ES | DAZN 4 HD": [
+  "ES1",
+  "DAZN.4.es"
+ ],
+ "DAZN ES | DAZN F1 HD": [
+  "ES1",
+  "DAZN.F1.es"
+ ],
+ "DAZN ES | DAZN LIGA 2 HD": [
+  "ES1",
+  "DAZN.LaLiga.2.es"
+ ],
+ "DAZN ES | DAZN LIGA HD": [
+  "ES1",
+  "DAZN.LaLiga.es"
+ ],
+ "ENTRETENIMIENTO | AZCORAZON": [
+  "ES1",
+  "AZ.Corazón.es"
+ ],
+ "ENTRETENIMIENTO | COMEDY CENTRAL": [
+  "MX1",
+  "Canal.Comedy.Central.(México).mx"
+ ],
+ "ENTRETENIMIENTO | DISTRITO COMEDIA": [
+  "MX1",
+  "Canal.Distrito.Comedia.mx"
+ ],
+ "ENTRETENIMIENTO | El GOURMET HD": [
+  "CO1",
+  "El.Gourmet.co"
+ ],
+ "ENTRETENIMIENTO | FOOD NETWORK HD": [
+  "CO1",
+  "Food.Network.co"
+ ],
+ "ENTRETENIMIENTO | GALAVISION": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "ENTRETENIMIENTO | HOLA TV HD": [
+  "MX1",
+  "Canal.¡HOLA!.TV.mx"
+ ],
+ "ENTRETENIMIENTO | LAS ESTRELLAS HD": [
+  "SV1",
+  "Canal.Las.Estrellas.Latinoamérica.sv"
+ ],
+ "ENTRETENIMIENTO | MAS CHIC": [
+  "MX1",
+  "Canal.Más.Chic.Latinoamérica.mx"
+ ],
+ "ENTRETENIMIENTO | MTV": [
+  "MX1",
+  "Canal.MTV.(México).mx"
+ ],
+ "ENTRETENIMIENTO | NOVELAS MX": [
+  "MX1",
+  "Canal.TLNovelas.(México).mx"
+ ],
+ "ENTRETENIMIENTO | TELEMUNDO MIAMI HD": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "ENTRETENIMIENTO | UNICABLE HD": [
+  "MX1",
+  "Canal.Unicable.(México).mx"
+ ],
+ "ENTRETENIMIENTO | UNIMAS HD": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "ENTRETENIMIENTO | UNIVISION MIAMI HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "ES| BETIS FHD": [
+  "ES1",
+  "BetisTV.es"
+ ],
+ "ES| DAZN 01": [
+  "ES1",
+  "DAZN.1.es"
+ ],
+ "ES| DAZN 02": [
+  "ES1",
+  "DAZN.2.es"
+ ],
+ "ES| DAZN 03": [
+  "ES1",
+  "DAZN.3.es"
+ ],
+ "ES| DAZN 04": [
+  "ES1",
+  "DAZN.4.es"
+ ],
+ "ES| DAZN 1 ESPAÑA FHD": [
+  "ES1",
+  "DAZN.1.es"
+ ],
+ "ES| DAZN 1 ESPAÑA HEVC": [
+  "ES1",
+  "DAZN.1.es"
+ ],
+ "ES| DAZN 1 ESPAÑA SD": [
+  "ES1",
+  "DAZN.1.es"
+ ],
+ "ES| DAZN 1 ESPAÑA HD": [
+  "ES1",
+  "DAZN.1.es"
+ ],
+ "ES| DAZN 2 ESPAÑA FHD": [
+  "ES1",
+  "DAZN.2.es"
+ ],
+ "ES| DAZN 2 ESPAÑA HD": [
+  "ES1",
+  "DAZN.2.es"
+ ],
+ "ES| DAZN 2 ESPAÑA HEVC": [
+  "ES1",
+  "DAZN.2.es"
+ ],
+ "ES| DAZN 2 ESPAÑA SD": [
+  "ES1",
+  "DAZN.2.es"
+ ],
+ "ES| DAZN 3 ESPAÑA FHD": [
+  "ES1",
+  "DAZN.3.es"
+ ],
+ "ES| DAZN 3 ESPAÑA HD": [
+  "ES1",
+  "DAZN.3.es"
+ ],
+ "ES| DAZN 3 ESPAÑA HEVC": [
+  "ES1",
+  "DAZN.3.es"
+ ],
+ "ES| DAZN 3 ESPAÑA SD": [
+  "ES1",
+  "DAZN.3.es"
+ ],
+ "ES| DAZN 4 ESPAÑA FHD": [
+  "ES1",
+  "DAZN.4.es"
+ ],
+ "ES| DAZN 4 ESPAÑA HD": [
+  "ES1",
+  "DAZN.4.es"
+ ],
+ "ES| DAZN 4 ESPAÑA HEVC": [
+  "ES1",
+  "DAZN.4.es"
+ ],
+ "ES| DAZN 4 ESPAÑA SD": [
+  "ES1",
+  "DAZN.4.es"
+ ],
+ "ES| DAZN F1 ESPAÑA FHD": [
+  "ES1",
+  "DAZN.F1.es"
+ ],
+ "ES| DAZN F1 ESPAÑA HD": [
+  "ES1",
+  "DAZN.F1.es"
+ ],
+ "ES| DAZN F1 ESPAÑA HEVC": [
+  "ES1",
+  "DAZN.F1.es"
+ ],
+ "ES| DAZN F1 ESPAÑA SD": [
+  "ES1",
+  "DAZN.F1.es"
+ ],
+ "ES| DAZN LA LIGA 1 FHD": [
+  "ES1",
+  "DAZN.LaLiga.es"
+ ],
+ "ES| DAZN LA LIGA 1 HD": [
+  "ES1",
+  "DAZN.LaLiga.es"
+ ],
+ "ES| DAZN LA LIGA 1 HEVC": [
+  "ES1",
+  "DAZN.LaLiga.es"
+ ],
+ "ES| DAZN LA LIGA 1 SD": [
+  "ES1",
+  "DAZN.LaLiga.es"
+ ],
+ "ES| DAZN LA LIGA 2 FHD": [
+  "ES1",
+  "DAZN.LaLiga.2.es"
+ ],
+ "ES| DAZN LA LIGA 2 HD": [
+  "ES1",
+  "DAZN.LaLiga.2.es"
+ ],
+ "ES| DAZN LA LIGA 2 HEVC": [
+  "ES1",
+  "DAZN.LaLiga.2.es"
+ ],
+ "ES| DAZN LA LIGA 2 SD": [
+  "ES1",
+  "DAZN.LaLiga.2.es"
+ ],
+ "ES| DBIKE FHD": [
+  "ES1",
+  "DBike.es"
+ ],
+ "ES| DBIKE HD": [
+  "ES1",
+  "DBike.es"
+ ],
+ "ES| DBIKE SD": [
+  "ES1",
+  "DBike.es"
+ ],
+ "ES| EL TORO TV FHD": [
+  "ES1",
+  "El.Toro.TV.es"
+ ],
+ "ES| EL TORO TV HD": [
+  "ES1",
+  "El.Toro.TV.es"
+ ],
+ "ES| EUROSPORT 1 FHD": [
+  "ES1",
+  "Eurosport.1.es"
+ ],
+ "ES| EUROSPORT 1 HD": [
+  "ES1",
+  "Eurosport.1.es"
+ ],
+ "ES| EUROSPORT 1 SD": [
+  "ES1",
+  "Eurosport.1.es"
+ ],
+ "ES| EUROSPORT 2 FHD": [
+  "ES1",
+  "Eurosport.2.es"
+ ],
+ "ES| EUROSPORT 2 HD": [
+  "ES1",
+  "Eurosport.2.es"
+ ],
+ "ES| EUROSPORT 2 SD": [
+  "ES1",
+  "Eurosport.2.es"
+ ],
+ "ES| Esport3 HD": [
+  "ES1",
+  "Esport.3.es"
+ ],
+ "ES| FEDERACION FHD (LaLiga+)": [
+  "ES1",
+  "Primera.Federación.es"
+ ],
+ "ES| FEDERACION FHD (Movistar+)": [
+  "ES1",
+  "Primera.Federación.es"
+ ],
+ "ES| FEDERACION HD": [
+  "ES1",
+  "Primera.Federación.es"
+ ],
+ "ES| FEDERACION SD": [
+  "ES1",
+  "Primera.Federación.es"
+ ],
+ "ES| GOL FHD": [
+  "ES1",
+  "GOL.PLAY.es"
+ ],
+ "ES| GOL HD": [
+  "ES1",
+  "GOL.PLAY.es"
+ ],
+ "ES| GOL SD": [
+  "ES1",
+  "GOL.PLAY.es"
+ ],
+ "ES| LA 1 FHD [BK]": [
+  "ES1",
+  "La.1.es"
+ ],
+ "ES| LA 1 HD [BK]": [
+  "ES1",
+  "La.1.es"
+ ],
+ "ES| M+ COPA DEL REY FHD": [
+  "ES1",
+  "M+.Copa.del.Rey.es"
+ ],
+ "ES| M+ COPA DEL REY HD": [
+  "ES1",
+  "M+.Copa.del.Rey.es"
+ ],
+ "ES| M+ DEPORTES 1 FHD": [
+  "ES1",
+  "Movistar.Deportes.1.es"
+ ],
+ "ES| M+ DEPORTES 1 HD": [
+  "ES1",
+  "Movistar.Deportes.1.es"
+ ],
+ "ES| M+ DEPORTES 1 HEVC": [
+  "ES1",
+  "Movistar.Deportes.1.es"
+ ],
+ "ES| M+ DEPORTES 1 SD": [
+  "ES1",
+  "Movistar.Deportes.1.es"
+ ],
+ "ES| M+ DEPORTES 2 FHD": [
+  "ES1",
+  "Movistar.Deportes.2.es"
+ ],
+ "ES| M+ DEPORTES 2 HD": [
+  "ES1",
+  "Movistar.Deportes.2.es"
+ ],
+ "ES| M+ DEPORTES 2 HEVC": [
+  "ES1",
+  "Movistar.Deportes.2.es"
+ ],
+ "ES| M+ DEPORTES 2 SD": [
+  "ES1",
+  "Movistar.Deportes.2.es"
+ ],
+ "ES| M+ DEPORTES 3 FHD": [
+  "ES1",
+  "Movistar.Deportes.3.es"
+ ],
+ "ES| M+ DEPORTES 3 HD": [
+  "ES1",
+  "Movistar.Deportes.3.es"
+ ],
+ "ES| M+ DEPORTES 3 HEVC": [
+  "ES1",
+  "Movistar.Deportes.3.es"
+ ],
+ "ES| M+ DEPORTES 3 SD": [
+  "ES1",
+  "Movistar.Deportes.3.es"
+ ],
+ "ES| M+ GOLF 2 FHD": [
+  "ES1",
+  "Movistar.Golf.2.es"
+ ],
+ "ES| M+ GOLF 2 HD": [
+  "ES1",
+  "Movistar.Golf.2.es"
+ ],
+ "ES| M+ GOLF 2 SD": [
+  "ES1",
+  "Movistar.Golf.2.es"
+ ],
+ "ES| M+ GOLF FHD": [
+  "ES1",
+  "Movistar.Golf.es"
+ ],
+ "ES| M+ GOLF HD": [
+  "ES1",
+  "Movistar.Golf.es"
+ ],
+ "ES| M+ GOLF HEVC": [
+  "ES1",
+  "Movistar.Golf.es"
+ ],
+ "ES| M+ GOLF SD": [
+  "ES1",
+  "Movistar.Golf.es"
+ ],
+ "ES| M+ LALIGA 2 FHD": [
+  "ES1",
+  "M+.LALIGA.TV.2.es"
+ ],
+ "ES| M+ LALIGA 2 HD": [
+  "ES1",
+  "M+.LALIGA.TV.2.es"
+ ],
+ "ES| M+ LALIGA 2 SD": [
+  "ES1",
+  "M+.LALIGA.TV.2.es"
+ ],
+ "ES| M+ LALIGA 3 FHD": [
+  "ES1",
+  "M+.LALIGA.TV.3.es"
+ ],
+ "ES| M+ LALIGA 3 HD": [
+  "ES1",
+  "M+.LALIGA.TV.3.es"
+ ],
+ "ES| M+ LALIGA 4 FHD": [
+  "ES1",
+  "M+.LALIGA.TV.4.es"
+ ],
+ "ES| M+ LALIGA 4 HD": [
+  "ES1",
+  "M+.LALIGA.TV.4.es"
+ ],
+ "ES| M+ LALIGA FHD": [
+  "ES1",
+  "M+.LALIGA.TV.es"
+ ],
+ "ES| M+ LALIGA HD": [
+  "ES1",
+  "M+.LALIGA.TV.es"
+ ],
+ "ES| M+ LALIGA HEVC": [
+  "ES1",
+  "M+.LALIGA.TV.es"
+ ],
+ "ES| M+ LALIGA SD": [
+  "ES1",
+  "M+.LALIGA.TV.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION FHD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION HD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION M2 FHD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.2.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION M2 HD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.2.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION M2 SD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.2.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION M3 FHD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.3.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION M3 HD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.3.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION M3 SD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.3.es"
+ ],
+ "ES| M+ LALIGA TV HYPERMOTION SD": [
+  "ES1",
+  "LaLiga.TV.Hypermotion.es"
+ ],
+ "ES| M+ LCAMPEONS 4K": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 1 FHD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 1 FHD [BK]": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 1 HD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 1 HD [BK]": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 1 HEVC": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 1 SD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 2 FHD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.2.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 2 HD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.2.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 2 HEVC": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.2.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 2 SD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.2.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 3 FHD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.3.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 3 HD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.3.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 3 HEVC": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.3.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 3 SD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.3.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 4 FHD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.4.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 4 HD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.4.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 4 HEVC": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.4.es"
+ ],
+ "ES| M+ LIGA DE CAMPEONES 4 SD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.4.es"
+ ],
+ "ES| M+ PLUS HD  [BK]": [
+  "ES1",
+  "Movistar.Plus+.es"
+ ],
+ "ES| M+ PRIMERA FEDERACION FHD": [
+  "ES1",
+  "Primera.Federación.es"
+ ],
+ "ES| M+ PRIMERA FEDERACION HD": [
+  "ES1",
+  "Primera.Federación.es"
+ ],
+ "ES| ONE TORO TV FHD": [
+  "ES1",
+  "OneToro.TV.es"
+ ],
+ "ES| ONE TORO TV HEVC": [
+  "ES1",
+  "OneToro.TV.es"
+ ],
+ "ES| ONE TORO TV SD": [
+  "ES1",
+  "OneToro.TV.es"
+ ],
+ "ES| REAL MADRID TV FHD": [
+  "ES1",
+  "Real.Madrid.TV.es"
+ ],
+ "ES| REAL MADRID TV HD": [
+  "ES1",
+  "Real.Madrid.TV.es"
+ ],
+ "ES| REAL MADRID TV SD": [
+  "ES1",
+  "Real.Madrid.TV.es"
+ ],
+ "ES| TELEDEPORTE FHD": [
+  "ES1",
+  "Teledeporte.es"
+ ],
+ "ES| TELEDEPORTE HD": [
+  "ES1",
+  "Teledeporte.es"
+ ],
+ "ES| TELEDEPORTE SD": [
+  "ES1",
+  "Teledeporte.es"
+ ],
+ "ES| ToroleTV FHD": [
+  "ES1",
+  "Torolé.es"
+ ],
+ "ES| ToroleTV HD": [
+  "ES1",
+  "Torolé.es"
+ ],
+ "ES| ToroleTV SD": [
+  "ES1",
+  "Torolé.es"
+ ],
+ "ES| UBEAT FHD": [
+  "ES1",
+  "Ubeat.es"
+ ],
+ "ES| UBEAT HD": [
+  "ES1",
+  "Ubeat.es"
+ ],
+ "HBO 2 HD": [
+  "MX1",
+  "Canal.HBO.2.Latinoamérica.mx"
+ ],
+ "LAT |  Telemundo Dallas": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "LAT |  Telemundo Denver": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "LAT |  Telemundo Houston HD": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "LAT |  Telemundo Las Vegas": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "LAT |  Telemundo San Antonio": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "LAT |  Telemundo33 Chicago": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "LAT |  Unimas50 Denver - KTFD": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "LAT |  Univision Atlanta HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Austin HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Chicago HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Dallas HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision East UHD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Houston HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Los Angeles HD": [
+  "US2",
+  "Univision.Network.(Pacific).us2"
+ ],
+ "LAT |  Univision Miami HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision New York HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Philadelphia HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Phoenix HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Puerto Rico HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Raleigh HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision San Antonio HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision San Francisco HD": [
+  "US2",
+  "Univision.Network.(Pacific).us2"
+ ],
+ "LAT |  Univision TLNovelas": [
+  "US2",
+  "Univision.TL.Novelas.us2"
+ ],
+ "LAT |  Univision23 Dallas HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision34 Los Angeles HD": [
+  "US2",
+  "Univision.Network.(Pacific).us2"
+ ],
  "LAT | Love Nature": [
   "CO1",
   "Love.Nature.co"
  ],
+ "LAT | Telemundo Tulsa - KUTU": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
  "MEX: A&E": [
   "MX1",
   "Canal.A&E.(México).mx"
+ ],
+ "MEX: CNN EN ESPANOL": [
+  "MX1",
+  "Canal.CNN.en.Español.mx"
  ],
  "MX (HD) TP PX Sports": [
   "MX1",
@@ -734,6 +1614,478 @@
  "MX |* TVC DEPORTES FHD": [
   "MX1",
   "Canal.TVC.Deportes.mx"
+ ],
+ "NOTICIAS | 24H ESPAÑA HD": [
+  "ES1",
+  "Canal.24.horas.es"
+ ],
+ "NOTICIAS | ABC NEWS US": [
+  "US2",
+  "ABC.News.Live.us2"
+ ],
+ "NOTICIAS | Aljazeera": [
+  "ES1",
+  "Al.Jazeera.English.es"
+ ],
+ "NOTICIAS | BBC WORLD NEWS": [
+  "MX1",
+  "Canal.BBC.World.News.mx"
+ ],
+ "NOTICIAS | BBC Worls News": [
+  "MX1",
+  "Canal.BBC.World.News.mx"
+ ],
+ "NOTICIAS | CABLE NOTICIAS": [
+  "CO1",
+  "CableNoticias.co"
+ ],
+ "NOTICIAS | CNN CHILE UHD": [
+  "CL1",
+  "Canal.CNN.Chile.cl"
+ ],
+ "NOTICIAS | DW NOTICIAS MX": [
+  "MX1",
+  "Canal.DW.(Latinoamérica).mx"
+ ],
+ "NOTICIAS | EURONEWS FR": [
+  "SV1",
+  "Canal.Euronews.sv"
+ ],
+ "NOTICIAS | FORO TV": [
+  "MX1",
+  "Canal.Foro.TV.mx"
+ ],
+ "NOTICIAS | FOX NEWS US": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "NOTICIAS | MILENIO NOTICIAS MX": [
+  "CO1",
+  "Milenio.Tv.co"
+ ],
+ "NOTICIAS | NEWS: CNN ESPAÑOL opc 2": [
+  "CO1",
+  "CNN.Español.co"
+ ],
+ "NOTICIAS | NEWS: CNN INTERNATIONAL SD": [
+  "US2",
+  "CNN.International.us2"
+ ],
+ "NOTICIAS | NEWS: FRANCE 24": [
+  "ES1",
+  "France.24.es"
+ ],
+ "NOTICIAS | NTN 24 HORAS": [
+  "MX1",
+  "Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).mx"
+ ],
+ "NOTICIAS | Telesur": [
+  "ES1",
+  "teleSUR.es"
+ ],
+ "NOTICIAS | WEATHER CHANNEL US": [
+  "US2",
+  "The.Weather.Channel.HD.us2"
+ ],
+ "US LAT |  UNIVISION 41 NEW YORK": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT |  Univision 44 Washington": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT |  Univision TLnovelas": [
+  "US2",
+  "Univision.TL.Novelas.us2"
+ ],
+ "US LAT | Centroamerica TV": [
+  "US2",
+  "CentroAméricaTV.us2"
+ ],
+ "US LAT | GALAVISION": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION ATLANTA": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION CLEVELAND": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION EAST": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION HOUSTON": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION LAS VEGAS": [
+  "US2",
+  "Galavision.Cable.Network.HD.(Pacific).us2"
+ ],
+ "US LAT | GALAVISION MIAMI": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION NY": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION PHILADELPHIA": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | GALAVISION SAN FRANCISCO": [
+  "US2",
+  "Galavision.Cable.Network.HD.(Pacific).us2"
+ ],
+ "US LAT | Galavision (Los Angeles)": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | Galavision East (SHD)": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "US LAT | Galavision West": [
+  "US2",
+  "Galavision.Cable.Network.HD.(Pacific).us2"
+ ],
+ "US LAT | TELEMUNDO 44 CHARLOTTE": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | TELEMUNDO 47 NEW YORK": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | TELEMUNDO 51 MIAMI": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | TELEMUNDO LOS ANGELES": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | TELEMUNDO PHOENIX": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | TELEMUNDO SAN FRANCISCO": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo  El Paso": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 13 Colorado Springs": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 14 Sioux City": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 17 Providence": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 20 Salt Lake City": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 44 BALTIMORE": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 45 Richmond": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 47 Atlanta": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 47 New York": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 48 Seattle": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo 51": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 51 Fresno": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo 52 Corona": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo 52 Honolulu": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo 62 Philadelphia": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Albuquerque": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Boston": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Fayetteville": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Kansas City": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Lincoln": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo McAllen 40": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Medford": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo Miami": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Orlando": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Phoenix": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Poway Etc": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo Rio Grande City": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Sacramento": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo San Antonio": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo San Diego": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo San Francisco": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo San Jose": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo San Luis Obispo": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "US LAT | Telemundo Tampa": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Tyler": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Washington": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | Telemundo Washington DC 44": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "US LAT | UNIMAS 31 AUSTIN": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UNIMAS Blanco": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UNIMAS EAST": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UNIMAS HOUSTON": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UNIVISION  TELENOVELAS": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | UNIVISION 32 SALT LAKE": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | UNIVISION Colorado Springs": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | UNIVISION TELENOVELAS HD": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | UniMas 17 San Antonio": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas 28 Philadelphia": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas 3 Tucson": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas 46 Los Angeles": [
+  "US2",
+  "UniMas.HD.(Pacific).us2"
+ ],
+ "US LAT | UniMas 60 Chicago": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas 61 Fresno": [
+  "US2",
+  "UniMas.HD.(Pacific).us2"
+ ],
+ "US LAT | UniMas 64 Sacramento": [
+  "US2",
+  "UniMas.HD.(Pacific).us2"
+ ],
+ "US LAT | UniMas 67 Houston": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas 68 Newark": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas 69 MIAMI": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas El Paso": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | UniMas TAMPA": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | Unimas NewYork": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | Unimas Orlando": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "US LAT | Univision 19 Sacramento": [
+  "US2",
+  "Univision.Network.(Pacific).us2"
+ ],
+ "US LAT | Univision 21 Fresno": [
+  "US2",
+  "Univision.Network.(Pacific).us2"
+ ],
+ "US LAT | Univision 23 MIAMI": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision 33 Phoenix": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision 34 Atlanta": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision 41 San Antonio": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision 45 Houston": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision 46 Tucson": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision 61 Cleveland": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision 62 Austin": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision Albuquerque": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision Chicago": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision El Paso": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision Network": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision San Angelo": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision Seattle": [
+  "US2",
+  "Univision.Network.(Pacific).us2"
+ ],
+ "US LAT | Univision TAMPA": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
+ "US LAT | UnivisionNow : Univision San Francisco": [
+  "US2",
+  "Univision.Network.(Pacific).us2"
  ],
  "US | Tastemade Home": [
   "US2",
@@ -1670,5 +3022,109 @@
  "USA beIN Sports (SHD)": [
   "US2",
   "beIN.Sports.USA.HD.us2"
+ ],
+ "USA | A&E HD": [
+  "US2",
+  "A.and.E.HD.East.us2"
+ ],
+ "USA | ACCUWEATHER HD": [
+  "US2",
+  "AccuWeather.HD.us2"
+ ],
+ "USA | ANIMAL PLANET HD": [
+  "US2",
+  "Animal.Planet.HD.us2"
+ ],
+ "USA | COMEDY CENTRAL HD": [
+  "US2",
+  "Comedy.Central.HD.us2"
+ ],
+ "USA | COOKING HD": [
+  "US2",
+  "Cooking.Channel.HD.us2"
+ ],
+ "USA | DISCOVERY HD": [
+  "US2",
+  "Discovery.Channel.HD.us2"
+ ],
+ "USA | FOX BUSINESS HD": [
+  "US2",
+  "Fox.Business.HD.us2"
+ ],
+ "USA | HGTV HD": [
+  "US2",
+  "Home.and.Garden.Television.HD.us2"
+ ],
+ "USA | HISTORY CHANNEL HD": [
+  "US2",
+  "History.HD.us2"
+ ],
+ "USA | ID HD": [
+  "US2",
+  "Investigation.Discovery.HD.us2"
+ ],
+ "USA | INVESTIGATION DISCOVERY HD": [
+  "US2",
+  "Investigation.Discovery.HD.us2"
+ ],
+ "USA | LIFETIME HD": [
+  "US2",
+  "Lifetime.HD.us2"
+ ],
+ "USA | MOTOR TREND HD": [
+  "US2",
+  "MOTORTREND.HD.us2"
+ ],
+ "USA | NATIONAL GEOGRAPHIC HD": [
+  "US2",
+  "National.Geographic.HD.us2"
+ ],
+ "USA | NATIONAL GEOGRAPHIC WILD HD": [
+  "US2",
+  "National.Geographic.Wild.HD.us2"
+ ],
+ "USA | NBC HD": [
+  "US2",
+  "NBC.East.Stream.us2"
+ ],
+ "USA | OUTDOOR CHANNEL HD": [
+  "US2",
+  "Outdoor.Channel.HD.us2"
+ ],
+ "USA | SCI HD": [
+  "US2",
+  "Science.Channel.HD.us2"
+ ],
+ "USA | THE FIRST HD": [
+  "US2",
+  "The.First.us2"
+ ],
+ "USA | THE WEATHER CHANNEL": [
+  "US2",
+  "The.Weather.Channel.HD.us2"
+ ],
+ "USA: OVATION": [
+  "US2",
+  "Ovation.HD.us2"
+ ],
+ "USL | UNIMAS EAST": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "USL: TELEMUNDO DENVER(KDEN)": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "USL: TELEMUNDO TUCSON(KHRR)": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "USL: UNIMAS BOSTON(WUTF)": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "USL: UNIVISION PHILADELPHIA(WUVP)": [
+  "US2",
+  "Univision.Network.HD.us2"
  ]
 }
