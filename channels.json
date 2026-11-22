@@ -3,6 +3,10 @@
   "US2",
   "A.and.E.HD.East.us2"
  ],
+ "A3series": [
+  "ES1",
+  "Atreseries.es"
+ ],
  "ABC 10 SACRAMENTO": [
   "US_LOCALS1",
   "KXTV-DT.us_locals1"
@@ -26,6 +30,10 @@
  "AK | ANCHORAGE | FOX - KTBY 4": [
   "US_LOCALS1",
   "KTBY-DT.us_locals1"
+ ],
+ "AK | ANCHORAGE | NBC - KTUU 2": [
+  "US_LOCALS1",
+  "KTUU-DT.us_locals1"
  ],
  "AL | BIRMINGHAM-ANNISTON-TUSCALOOSA | FOX - WBRC": [
   "US_LOCALS1",
@@ -66,6 +74,18 @@
  "AZ | TUCSON-SIERRA VISTA | FOX - KMSB": [
   "US_LOCALS1",
   "KMSB-DT.us_locals1"
+ ],
+ "Amc HD": [
+  "MX1",
+  "Canal.AMC.(México).mx"
+ ],
+ "Animal Planet HD": [
+  "MX1",
+  "Canal.Animal.Planet.(México).mx"
+ ],
+ "Axn HD": [
+  "MX1",
+  "Canal.AXN.(México).mx"
  ],
  "BBC NEWS HD": [
   "US2",
@@ -823,6 +843,70 @@
   "US_LOCALS1",
   "KTVT-DT.us_locals1"
  ],
+ "CHAMPIONS |  FOX SPORTS 1 ARG": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "CHAMPIONS | CBS SPORTS NETWORK": [
+  "US2",
+  "CBS.Sports.Network.HD.us2"
+ ],
+ "CHAMPIONS | ESPN": [
+  "CO1",
+  "ESPN.co"
+ ],
+ "CHAMPIONS | ESPN 1 ARG": [
+  "AR1",
+  "Canal.ESPN.(Argentina).ar"
+ ],
+ "CHAMPIONS | ESPN 1 COL": [
+  "CO1",
+  "ESPN.co"
+ ],
+ "CHAMPIONS | ESPN 1 SD 2MB": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "CHAMPIONS | ESPN 2 ARG": [
+  "AR1",
+  "Canal.ESPN.2.(Bolivia).ar"
+ ],
+ "CHAMPIONS | ESPN 3 ARG": [
+  "AR1",
+  "Canal.ESPN.3.(Argentina).ar"
+ ],
+ "CHAMPIONS | ESPN PREMIUM": [
+  "SV1",
+  "Canal.ESPN.Premium.(Chile).sv"
+ ],
+ "CHAMPIONS | FOX SPORTS 2 ARG": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "CHAMPIONS | FOX SPORTS 3 ARG": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "CHAMPIONS | MOVISTAR LIGA DE CAMPEONES HD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "CHAMPIONS | TUDN USA FHD": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "CHAMPIONS | TUDN USA HD": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "CHAMPIONS | TUDN USA SD": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "CHAMPIONS | UNIVISION": [
+  "US2",
+  "Univision.Network.HD.us2"
+ ],
  "CINE Y SERIES HD | A3 SERIES": [
   "MX1",
   "Canal.Atreseries.(Internacional).mx"
@@ -1167,6 +1251,58 @@
   "US2",
   "Cinemax.HD.us2"
  ],
+ "CLARO TV | COMEDY HD": [
+  "US2",
+  "Comedy.TV.HD.us2"
+ ],
+ "CLARO TV | CRIME ESTE HD": [
+  "MX1",
+  "Canal.Universal.Crime.mx"
+ ],
+ "CLARO TV | DW TV": [
+  "MX1",
+  "Canal.DW.(Latinoamérica).mx"
+ ],
+ "CLARO TV | FAMILY CHANNEL": [
+  "US2",
+  "The.Family.Channel.us2"
+ ],
+ "CLARO TV | HBO HD": [
+  "MX1",
+  "Canal.HBO.(México).mx"
+ ],
+ "CLARO TV | HBO PLUS HD": [
+  "MX1",
+  "Canal.HBO.Plus.mx"
+ ],
+ "CLARO TV | HBO SIGNATURE HD NEW": [
+  "US2",
+  "HBO.Signature.HD.us2"
+ ],
+ "CLARO TV | HBOMUNDI": [
+  "MX1",
+  "Canal.HBO.Mundi.mx"
+ ],
+ "CLARO TV | HTV": [
+  "MX1",
+  "Canal.HTV.mx"
+ ],
+ "CLARO TV | MTV 00'S": [
+  "MX1",
+  "Canal.MTV.00s.mx"
+ ],
+ "CLARO TV | MTV 80": [
+  "US2",
+  "MTV.-.Music.Television.HD.us2"
+ ],
+ "CLARO TV | MTV HD": [
+  "MX1",
+  "Canal.MTV.(México).mx"
+ ],
+ "CLARO TV | REALITY HD": [
+  "MX1",
+  "Canal.Universal.Reality.mx"
+ ],
  "CNBC HD": [
   "US2",
   "CNBC.HD.us2"
@@ -1178,6 +1314,10 @@
  "CNN INTERNACIONAL HD": [
   "US2",
   "CNN.International.us2"
+ ],
+ "CNN Internacional": [
+  "MX1",
+  "Canal.CNN.Internacional.mx"
  ],
  "CO |  RCN Novelas HD": [
   "CO1",
@@ -1423,6 +1563,34 @@
   "MX1",
   "Canal.WOBI.mx"
  ],
+ "Canal Claro sports HD": [
+  "MX1",
+  "Claro.Sports.1.mx"
+ ],
+ "Canal Sony HD": [
+  "MX1",
+  "Canal.Sony.(México).mx"
+ ],
+ "Cartoon Network HD": [
+  "MX1",
+  "Canal.Cartoon.Network.(México).mx"
+ ],
+ "Cartoonito": [
+  "MX1",
+  "Canal.Cartoonito.(México).mx"
+ ],
+ "Cinecanal": [
+  "MX1",
+  "Canal.Cinecanal.(México).mx"
+ ],
+ "Cinemax HD": [
+  "MX1",
+  "Canal.Cinemax.(México).mx"
+ ],
+ "Claro Sports": [
+  "MX1",
+  "Claro.Sports.1.mx"
+ ],
  "DAZN ES | DAZN 1 HD": [
   "ES1",
   "DAZN.1.es"
@@ -1455,6 +1623,334 @@
   "US_LOCALS1",
   "WTTG-DT.us_locals1"
  ],
+ "DHD |  ESPN 2 MX": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "DHD |  ESPN 2 USA": [
+  "US2",
+  "ESPN2.HD.us2"
+ ],
+ "DHD |  ESPN 3 COL": [
+  "CO1",
+  "ESPN.3.co"
+ ],
+ "DHD |  ESPN U USA": [
+  "US2",
+  "ESPNU.HD.us2"
+ ],
+ "DHD |  FOX DEPORTES USA": [
+  "US2",
+  "Fox.Deportes.HD.us2"
+ ],
+ "DHD |  FOX SOCCER PLUS USA": [
+  "US2",
+  "Fox.Soccer.Plus.HD.us2"
+ ],
+ "DHD |  FOX SPORTS 1 USA": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "DHD |  FOX SPORTS 2 MX": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "DHD |  FOX SPORTS 2 USA": [
+  "US2",
+  "FS2.HD.us2"
+ ],
+ "DHD |  FOX SPORTS 3 MX": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "DHD |  GOLF CHANNEL USA": [
+  "US2",
+  "Golf.Channel.HD.us2"
+ ],
+ "DHD | BEIN SPORTS Ñ": [
+  "US2",
+  "beIN.Sports.En.Español.HD.us2"
+ ],
+ "DHD | CBS SPORTS GOLAZO": [
+  "US2",
+  "CBS.Sports.Golazo.Network.us2"
+ ],
+ "DHD | CBS SPORTS NETWORK": [
+  "US2",
+  "CBS.Sports.Network.HD.us2"
+ ],
+ "DHD | CLARO SPORTS 1": [
+  "MX1",
+  "Claro.Sports.1.mx"
+ ],
+ "DHD | DSPORTS +": [
+  "CO1",
+  "DSPORTS.+(DTS+).co"
+ ],
+ "DHD | DSPORTS 1": [
+  "CO1",
+  "DIRECTV.SPORTS.HD(DTVSHD).co"
+ ],
+ "DHD | DSPORTS 2": [
+  "CO1",
+  "DSPORTS.2.(DTS2).co"
+ ],
+ "DHD | ESPN 1 ARG": [
+  "AR1",
+  "Canal.ESPN.(Argentina).ar"
+ ],
+ "DHD | ESPN 1 BR": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "DHD | ESPN 1 CHI": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "DHD | ESPN 1 MX": [
+  "MX1",
+  "ESPN.MX.mx"
+ ],
+ "DHD | ESPN 1 USA": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "DHD | ESPN 2 ARG": [
+  "AR1",
+  "Canal.ESPN.2.(Bolivia).ar"
+ ],
+ "DHD | ESPN 2 BRA": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "DHD | ESPN 2 COL": [
+  "CO1",
+  "ESPN.2.co"
+ ],
+ "DHD | ESPN 3 ARG": [
+  "AR1",
+  "Canal.ESPN.3.(Argentina).ar"
+ ],
+ "DHD | ESPN 3 MX": [
+  "MX1",
+  "ESPN.3.mx"
+ ],
+ "DHD | ESPN 4 ARG": [
+  "CO1",
+  "ESPN.4.co"
+ ],
+ "DHD | ESPN 4 MX": [
+  "CO1",
+  "ESPN.4.co"
+ ],
+ "DHD | ESPN 5 ARG": [
+  "MX1",
+  "ESPN.5.mx"
+ ],
+ "DHD | ESPN 5 BRA": [
+  "MX1",
+  "ESPN.5.mx"
+ ],
+ "DHD | ESPN 6": [
+  "CO1",
+  "ESPN.6.HD.co"
+ ],
+ "DHD | ESPN 6 BRA": [
+  "CO1",
+  "ESPN.6.HD.co"
+ ],
+ "DHD | ESPN 7": [
+  "CO1",
+  "ESPN.7.HD.co"
+ ],
+ "DHD | ESPN DEPORTES USA": [
+  "US2",
+  "ESPN.Deportes.HD.us2"
+ ],
+ "DHD | ESPN NEWS USA": [
+  "US2",
+  "ESPNEWS.HD.us2"
+ ],
+ "DHD | ESPN PREMIUM ARG": [
+  "SV1",
+  "Canal.ESPN.Premium.(Chile).sv"
+ ],
+ "DHD | ESPN PREMIUM CH": [
+  "SV1",
+  "Canal.ESPN.Premium.(Chile).sv"
+ ],
+ "DHD | EUROSPORT 2": [
+  "ES1",
+  "Eurosport.2.es"
+ ],
+ "DHD | EUROSPORTS 1": [
+  "ES1",
+  "Eurosport.1.es"
+ ],
+ "DHD | FIGHT NETWORK": [
+  "US2",
+  "Fight.Network.us2"
+ ],
+ "DHD | FOX SPORTS 1 ARG": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "DHD | FOX SPORTS 1 MX": [
+  "MX1",
+  "Canal.Fox.Sports.(México).mx"
+ ],
+ "DHD | FOX SPORTS 2 ARG": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "DHD | FOX SPORTS 3 ARG": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "DHD | FOX SPORTS PREMIUM MX": [
+  "MX1",
+  "FOX.SPORTS.PREMIUM.mx"
+ ],
+ "DHD | GOLF CHANNEL LATAM": [
+  "MX1",
+  "Canal.Golf.Channel.(Latinoamérica).mx"
+ ],
+ "DHD | LA SEXTA": [
+  "SV1",
+  "Canal.La.Sexta.sv"
+ ],
+ "DHD | MARQUEE SPORTS NETWORK": [
+  "US2",
+  "Marquee.Sports.Network.HD.us2"
+ ],
+ "DHD | MEGA (CHIRINGUITO DE JUGONES)": [
+  "CL1",
+  "Canal.Mega.(Chile).cl"
+ ],
+ "DHD | MLB NETWORK": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "DHD | MOVISTAR + VAMOS": [
+  "ES1",
+  "#Vamos.es"
+ ],
+ "DHD | MOVISTAR DEPORTES": [
+  "ES1",
+  "Movistar.Deportes.1.es"
+ ],
+ "DHD | MOVISTAR LIGA DE CAMPEONES": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "DHD | NBA TV": [
+  "US2",
+  "NBA.TV.HD.us2"
+ ],
+ "DHD | NBC UNIVERSO": [
+  "US2",
+  "UNIVERSO.HD.us2"
+ ],
+ "DHD | NFL NETWORK": [
+  "MX1",
+  "Canal.NFL.Network.mx"
+ ],
+ "DHD | NHL Network": [
+  "US2",
+  "NHL.Network.HD.us2"
+ ],
+ "DHD | REAL MADRID TV": [
+  "ES1",
+  "Real.Madrid.TV.es"
+ ],
+ "DHD | SPACE CITY HOME NETWORK": [
+  "US2",
+  "Space.City.Home.Network.HD.us2"
+ ],
+ "DHD | SPORTSNET WORLD": [
+  "CA2",
+  "Sportsnet.World.ca2"
+ ],
+ "DHD | SPORTSNETS ONTARIO CAN": [
+  "CA2",
+  "Sportsnet.Ontario.HD.ca2"
+ ],
+ "DHD | SPORTV 1 BR": [
+  "BR1",
+  "São.Paulo/SP..SporTV.br"
+ ],
+ "DHD | SPORTV 2 BR": [
+  "BR1",
+  "São.Paulo/SP..SporTV.2.br"
+ ],
+ "DHD | SPORTV 3 BR": [
+  "BR1",
+  "São.Paulo/SP..SporTV.3..br"
+ ],
+ "DHD | TENNIS CHANNEL US": [
+  "US2",
+  "Tennis.Channel.HD.us2"
+ ],
+ "DHD | TSN 1 CAN": [
+  "CA2",
+  "TSN.1.ca2"
+ ],
+ "DHD | TSN 2 CAN": [
+  "CA2",
+  "TSN.2.ca2"
+ ],
+ "DHD | TSN 3 CAN": [
+  "CA2",
+  "TSN.3.ca2"
+ ],
+ "DHD | TSN 4 CAN": [
+  "CA2",
+  "TSN.4.ca2"
+ ],
+ "DHD | TSN 5 CAN": [
+  "CA2",
+  "TSN.5.ca2"
+ ],
+ "DHD | TUDN MX": [
+  "MX1",
+  "Canal.TUDN.(México).mx"
+ ],
+ "DHD | TUDN USA": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "DHD | TYC INTERNACIONAL": [
+  "CO1",
+  "TyC.Sports.International(TYCS).co"
+ ],
+ "DHD | TyC  SPORTS": [
+  "AR1",
+  "Canal.TyC.Sports.ar"
+ ],
+ "DHD | USA: THE COWBOY CHANNEL": [
+  "US2",
+  "The.Cowboy.Channel.us2"
+ ],
+ "DHD | USA: WWE NETWORK": [
+  "US2",
+  "WWE.Network.us2"
+ ],
+ "DHD | WIN SPORTS": [
+  "CO1",
+  "Win.Sports.co"
+ ],
+ "DHD | WIN SPORTS +": [
+  "CO1",
+  "Win.Sports+.co"
+ ],
+ "DHD | YES NETWORK": [
+  "US2",
+  "Yes.Network.us2"
+ ],
+ "DHD | ZONA FUTBOL": [
+  "US2",
+  "Zona.Futbol.us2"
+ ],
  "DISCOVERY CHANNEL": [
   "US2",
   "Discovery.Channel.HD.us2"
@@ -1486,6 +1982,202 @@
  "DW CHANNEL HD": [
   "CA2",
   "DW.HD.ca2"
+ ],
+ "Dep | EUROSPORT 2 HD": [
+  "ES1",
+  "Eurosport.2.es"
+ ],
+ "Dep. +3Mbps | ADRENALINA SPORTS HD": [
+  "MX1",
+  "Canal.Adrenalina.Sports.Network.mx"
+ ],
+ "Dep. +3Mbps | BEIN SPORTS USA  HD": [
+  "US2",
+  "beIN.Sports.USA.HD.us2"
+ ],
+ "Dep. +3Mbps | CLARO SPORTS HD": [
+  "MX1",
+  "Claro.Sports.1.mx"
+ ],
+ "Dep. +3Mbps | DAZN 1 HD": [
+  "ES1",
+  "DAZN.1.es"
+ ],
+ "Dep. +3Mbps | DAZN 2 HD": [
+  "ES1",
+  "DAZN.2.es"
+ ],
+ "Dep. +3Mbps | DAZN 3 HD": [
+  "ES1",
+  "DAZN.3.es"
+ ],
+ "Dep. +3Mbps | DAZN 4 HD": [
+  "ES1",
+  "DAZN.4.es"
+ ],
+ "Dep. +3Mbps | DAZN F1 HD": [
+  "ES1",
+  "DAZN.F1.es"
+ ],
+ "Dep. +3Mbps | DIRECTV SPORTS 1": [
+  "CO1",
+  "DIRECTV.SPORTS.HD(DTVSHD).co"
+ ],
+ "Dep. +3Mbps | ESPN 1 ARG": [
+  "AR1",
+  "Canal.ESPN.(Argentina).ar"
+ ],
+ "Dep. +3Mbps | ESPN 1 MX HD": [
+  "MX1",
+  "ESPN.MX.mx"
+ ],
+ "Dep. +3Mbps | ESPN 1 USA HD": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "Dep. +3Mbps | ESPN 2 MX HD": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "Dep. +3Mbps | ESPN 2 USA HD": [
+  "US2",
+  "ESPN2.HD.us2"
+ ],
+ "Dep. +3Mbps | ESPN 3 HD": [
+  "MX1",
+  "ESPN.3.mx"
+ ],
+ "Dep. +3Mbps | ESPN 4 HD": [
+  "CO1",
+  "ESPN.4.co"
+ ],
+ "Dep. +3Mbps | ESPN DEPORTES SD": [
+  "US2",
+  "ESPN.Deportes.HD.us2"
+ ],
+ "Dep. +3Mbps | EUROSPORT 1 HD": [
+  "ES1",
+  "Eurosport.1.es"
+ ],
+ "Dep. +3Mbps | FIGHT NETWORK HD": [
+  "US2",
+  "Fight.Network.us2"
+ ],
+ "Dep. +3Mbps | FISH NETWORK HD": [
+  "US2",
+  "World.Fishing.Network.HD.(US).us2"
+ ],
+ "Dep. +3Mbps | FOX DEPORTES HD": [
+  "US2",
+  "Fox.Deportes.HD.us2"
+ ],
+ "Dep. +3Mbps | FOX SOCCER": [
+  "US2",
+  "Fox.Soccer.Plus.HD.us2"
+ ],
+ "Dep. +3Mbps | FOX SPORTS 1 MX HD": [
+  "MX1",
+  "Canal.Fox.Sports.(México).mx"
+ ],
+ "Dep. +3Mbps | FOX SPORTS 2 MX HD": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "Dep. +3Mbps | FOX SPORTS 3 MX HD": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "Dep. +3Mbps | FOX SPORTS PREMIUM HD": [
+  "MX1",
+  "FOX.SPORTS.PREMIUM.mx"
+ ],
+ "Dep. +3Mbps | FOX SPORTS US HD": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "Dep. +3Mbps | MLB NETWORK HD": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "Dep. +3Mbps | MOTOR TREND HD": [
+  "US2",
+  "MOTORTREND.HD.us2"
+ ],
+ "Dep. +3Mbps | Movistar Liga De Campeones HD": [
+  "ES1",
+  "Movistar.Liga.de.Campeones.es"
+ ],
+ "Dep. +3Mbps | NBA TV HD": [
+  "US2",
+  "NBA.TV.HD.us2"
+ ],
+ "Dep. +3Mbps | NFL NETWORK HD": [
+  "MX1",
+  "Canal.NFL.Network.mx"
+ ],
+ "Dep. +3Mbps | SKY SPORTS 16 HD": [
+  "MX1",
+  "Canal.Sky.Sports.16.mx"
+ ],
+ "Dep. +3Mbps | TSN 1 HD": [
+  "CA2",
+  "TSN.1.ca2"
+ ],
+ "Dep. +3Mbps | TSN 2 HD": [
+  "CA2",
+  "TSN.2.ca2"
+ ],
+ "Dep. +3Mbps | TUDN MX  HD": [
+  "MX1",
+  "Canal.TUDN.(México).mx"
+ ],
+ "Dep. +3Mbps | TUDN USA SD": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "Dep. +3Mbps | TYC SPORTS HD": [
+  "AR1",
+  "Canal.TyC.Sports.ar"
+ ],
+ "Dep. +3Mbps | TYC SPORTS INTERNACIONAL HD": [
+  "CO1",
+  "TyC.Sports.International(TYCS).co"
+ ],
+ "Dep. +3Mbps | WWE NETWORK HD": [
+  "US2",
+  "WWE.Network.us2"
+ ],
+ "Discovery Home And Health Channel": [
+  "MX1",
+  "Canal.Discovery.Home.&.Health.(México).mx"
+ ],
+ "Discovery ID": [
+  "US2",
+  "Investigation.Discovery.HD.us2"
+ ],
+ "Discovery Kids Channel": [
+  "MX1",
+  "Canal.Discovery.Kids.(México).mx"
+ ],
+ "Discovery Science": [
+  "MX1",
+  "Canal.Discovery.Science.(Latinoamérica).mx"
+ ],
+ "Discovery Turbo": [
+  "MX1",
+  "Canal.Discovery.Turbo.(Latinoamérica).mx"
+ ],
+ "Disney Channel": [
+  "MX1",
+  "Canal.Disney.Channel.(México).mx"
+ ],
+ "Disney Junior": [
+  "MX1",
+  "Canal.Disney.Junior.(México).mx"
+ ],
+ "E Entertainment HD": [
+  "CO1",
+  "E!.Entertainment.TV.co"
  ],
  "ENTRETENIMIENTO | AZCORAZON": [
   "ES1",
@@ -2091,6 +2783,22 @@
   "ES1",
   "Ubeat.es"
  ],
+ "El Garage": [
+  "ES1",
+  "El.Garage.TV.es"
+ ],
+ "Espn 2 New": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "Espn 3": [
+  "MX1",
+  "ESPN.3.mx"
+ ],
+ "Espn Premium": [
+  "SV1",
+  "Canal.ESPN.Premium.(Chile).sv"
+ ],
  "FL | FORT MYERS-NAPLES | FOX - WFTX": [
   "US_LOCALS1",
   "WFTX-DT.us_locals1"
@@ -2183,9 +2891,21 @@
   "US2",
   "HBO.East.us2"
  ],
+ "HBO POP": [
+  "MX1",
+  "Canal.HBO.Pop.mx"
+ ],
  "HBO SIGNATURE HD": [
   "US2",
   "HBO.Signature.HD.us2"
+ ],
+ "HBOXTREME": [
+  "MX1",
+  "Canal.HBO.Xtreme.mx"
+ ],
+ "HD | ESPN 1 COL": [
+  "CO1",
+  "ESPN.co"
  ],
  "HI | HONOLULU | FOX - KHON": [
   "US_LOCALS1",
@@ -2194,6 +2914,10 @@
  "HISTORY CHANNEL HD": [
   "US2",
   "History.HD.us2"
+ ],
+ "Hbo 2 HD": [
+  "CO1",
+  "HBO.2.co"
  ],
  "IA | CEDAR RAPIDS-WATERLOO-IOWA CITY-DUBUQUE | FOX - KFXA": [
   "US_LOCALS1",
@@ -2238,6 +2962,74 @@
  "IN | INDIANAPOLIS | FOX - WXIN": [
   "US_LOCALS1",
   "WXIN-DT.us_locals1"
+ ],
+ "INF | BABY FIRST": [
+  "MX1",
+  "Canal.BabyFirst.TV.mx"
+ ],
+ "INF | BABY TV HD": [
+  "MX1",
+  "Canal.Baby.TV.(Latinoamérica).mx"
+ ],
+ "INF | BITME HD": [
+  "MX1",
+  "Canal.BitMe.mx"
+ ],
+ "INF | CARTOONITO HD": [
+  "MX1",
+  "Canal.Cartoonito.(México).mx"
+ ],
+ "INF | DISCOVERY KIDS HD": [
+  "MX1",
+  "Canal.Discovery.Kids.(México).mx"
+ ],
+ "INF | DISNEY CHANNEL HD": [
+  "MX1",
+  "Canal.Disney.Channel.(México).mx"
+ ],
+ "INF | DISNEY JUNIOR HD": [
+  "MX1",
+  "Canal.Disney.Junior.(México).mx"
+ ],
+ "INF | DISNEY XD": [
+  "US2",
+  "Disney.XD.HD.us2"
+ ],
+ "INF | NICK HD": [
+  "MX1",
+  "Canal.Nickelodeon.(México).mx"
+ ],
+ "INF | NICK JR HD": [
+  "MX1",
+  "Canal.Nick.Jr..(México).mx"
+ ],
+ "INF | NICK MUSIC": [
+  "MX1",
+  "Canal.NickMusic.mx"
+ ],
+ "INF | NICK TOONS HD": [
+  "US2",
+  "Nicktoons.us2"
+ ],
+ "INF | PAKAPAKA HD": [
+  "AR1",
+  "Canal.Pakapaka.ar"
+ ],
+ "INF | SEMILLITAS TV HD": [
+  "SV1",
+  "Canal.Semillitas.sv"
+ ],
+ "INF | TEEN NICK": [
+  "MX1",
+  "Canal.TeenNick.mx"
+ ],
+ "INF | TOONCAST": [
+  "MX1",
+  "Canal.Tooncast.mx"
+ ],
+ "INF | ZOOMOO HD": [
+  "SV1",
+  "Canal.ZooMoo.Latinoamérica.sv"
  ],
  "KY | LOUISVILLE | FOX - WDRB": [
   "US_LOCALS1",
@@ -2411,9 +3203,301 @@
   "US2",
   "Telemundo.Satellite.Feed.us2"
  ],
+ "LAT-Musica |  MTV FHD (MX)": [
+  "MX1",
+  "Canal.MTV.(México).mx"
+ ],
  "LIFETIME HD": [
   "US2",
   "Lifetime.HD.us2"
+ ],
+ "LIGA ARGENTINA: ESPN PREMIUM": [
+  "SV1",
+  "Canal.ESPN.Premium.(Chile).sv"
+ ],
+ "LIGA ARGENTINA: ESPN PREMIUM op2": [
+  "SV1",
+  "Canal.ESPN.Premium.(Chile).sv"
+ ],
+ "LIGA ARGENTINA: TYC  HD": [
+  "AR1",
+  "Canal.TyC.Sports.ar"
+ ],
+ "LIGA ARGENTINA: TYC SPORTS FHD": [
+  "AR1",
+  "Canal.TyC.Sports.ar"
+ ],
+ "LIGA BRASILEÑA: SPORTV 3 HD": [
+  "BR1",
+  "São.Paulo/SP..SporTV.3..br"
+ ],
+ "LIGA COLOMBIA: WIN SPORTS + OP1": [
+  "CO1",
+  "Win.Sports+.co"
+ ],
+ "LIGA COLOMBIA: WIN SPORTS + OP2": [
+  "CO1",
+  "Win.Sports+.co"
+ ],
+ "LIGA COLOMBIA: WIN SPORTS + OP3": [
+  "CO1",
+  "Win.Sports+.co"
+ ],
+ "LIGA COLOMBIA: WIN SPORTS OP1": [
+  "CO1",
+  "Win.Sports.co"
+ ],
+ "LIGA ECUADOR: DIRECTV SPORTS 1": [
+  "CO1",
+  "DIRECTV.SPORTS.HD(DTVSHD).co"
+ ],
+ "LIGA ECUADOR: GOL TV HD OP1": [
+  "EC1",
+  "Canal.GolTV.Latinoamérica.ec"
+ ],
+ "LIGA ECUADOR: GOL TV HD OP2": [
+  "EC1",
+  "Canal.GolTV.Latinoamérica.ec"
+ ],
+ "LIGA MX | AZTECA 7": [
+  "MX1",
+  "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx"
+ ],
+ "LIGA MX | AZTECA 7 OP2": [
+  "MX1",
+  "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx"
+ ],
+ "LIGA MX | AZTECA DEPORTES": [
+  "MX1",
+  "AZTECA.DEPORTES.mx"
+ ],
+ "LIGA MX | CANAL 5": [
+  "MX1",
+  "Canal.5.(XHPNH).mx"
+ ],
+ "LIGA MX | CANAL 5 OP2": [
+  "MX1",
+  "Canal.5.(XHPNH).mx"
+ ],
+ "LIGA MX | FOX DEPORTES": [
+  "US2",
+  "Fox.Deportes.HD.us2"
+ ],
+ "LIGA MX | TELEMUNDO": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "LIGA MX | TUDN MX": [
+  "MX1",
+  "Canal.TUDN.(México).mx"
+ ],
+ "LIGA MX | TUDN USA FHD": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "LIGA MX | TUDN USA HD": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "LIGA MX | UNIVERSO": [
+  "US2",
+  "UNIVERSO.HD.us2"
+ ],
+ "LIGA PERU: GOL PERU": [
+  "EC1",
+  "Canal.GolTV.Latinoamérica.ec"
+ ],
+ "LIGA URUGUAY: VTV HD": [
+  "UY1",
+  "VTV.HD.uy"
+ ],
+ "Latinos | A&E HD": [
+  "MX1",
+  "Canal.A&E.(México).mx"
+ ],
+ "Latinos | AMC HD": [
+  "MX1",
+  "Canal.AMC.(México).mx"
+ ],
+ "Latinos | ANIMAL PLANET HD": [
+  "MX1",
+  "Canal.Animal.Planet.(México).mx"
+ ],
+ "Latinos | AXN HD": [
+  "MX1",
+  "Canal.AXN.(México).mx"
+ ],
+ "Latinos | AZTECA 7  HD": [
+  "MX1",
+  "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx"
+ ],
+ "Latinos | AZTECA UNO  HD": [
+  "MX1",
+  "Canal.Azteca.Uno.mx"
+ ],
+ "Latinos | BABY TV HD": [
+  "MX1",
+  "Canal.Baby.TV.(Latinoamérica).mx"
+ ],
+ "Latinos | CANAL DE LAS ESTRELLAS HD": [
+  "SV1",
+  "Canal.Las.Estrellas.Latinoamérica.sv"
+ ],
+ "Latinos | CARACOL HD": [
+  "CO1",
+  "Caracol.co"
+ ],
+ "Latinos | CINEMAX HD": [
+  "MX1",
+  "Canal.Cinemax.(México).mx"
+ ],
+ "Latinos | CNN INTERNACIONAL HD": [
+  "MX1",
+  "Canal.CNN.Internacional.mx"
+ ],
+ "Latinos | CNN USA HD": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "Latinos | COMEDY CENTRAL HD": [
+  "MX1",
+  "Canal.Comedy.Central.(México).mx"
+ ],
+ "Latinos | DE PELICULA HD": [
+  "MX1",
+  "Canal.De.Película.mx"
+ ],
+ "Latinos | DISCOVERY CHANNEL HD": [
+  "MX1",
+  "Canal.Discovery.Channel.(México).mx"
+ ],
+ "Latinos | DISCOVERY H&H HD": [
+  "CO1",
+  "Discovery.H&H.co"
+ ],
+ "Latinos | DISCOVERY WORLD HD": [
+  "MX1",
+  "Canal.Discovery.World.Latinoamérica.mx"
+ ],
+ "Latinos | Discovery Science HD": [
+  "MX1",
+  "Canal.Discovery.Science.(Latinoamérica).mx"
+ ],
+ "Latinos | E! ENTERTAIMENT": [
+  "MX1",
+  "Canal.E!.Entertainment.Television.(México).mx"
+ ],
+ "Latinos | FOOD NETWORK HD": [
+  "CO1",
+  "Food.Network.co"
+ ],
+ "Latinos | FOX NEWS USA HD": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "Latinos | FX  HD": [
+  "MX1",
+  "Canal.FX.(México).mx"
+ ],
+ "Latinos | GOLDEN  HD": [
+  "MX1",
+  "Canal.Golden.(México).mx"
+ ],
+ "Latinos | GOLDEN EDGE HD": [
+  "MX1",
+  "Canal.Golden.Edge.mx"
+ ],
+ "Latinos | GOLDEN PLUS HD": [
+  "MX1",
+  "Canal.Golden.Plus.mx"
+ ],
+ "Latinos | HBO  2 HD": [
+  "CO1",
+  "HBO.2.co"
+ ],
+ "Latinos | HBO  HD": [
+  "MX1",
+  "Canal.HBO.(México).mx"
+ ],
+ "Latinos | HBO FAMILY HD": [
+  "CO1",
+  "HBO.Family.co"
+ ],
+ "Latinos | HBO PLUS HD": [
+  "MX1",
+  "Canal.HBO.Plus.mx"
+ ],
+ "Latinos | HISTORY CHANNEL 2 HD": [
+  "MX1",
+  "Canal.History.2.(México).mx"
+ ],
+ "Latinos | HISTORY CHANNEL HD": [
+  "MX1",
+  "Canal.History.(México).mx"
+ ],
+ "Latinos | LIFETIME HD": [
+  "MX1",
+  "Canal.Lifetime.(México).mx"
+ ],
+ "Latinos | NAT GEO HD": [
+  "CO1",
+  "NAT.GEO.co"
+ ],
+ "Latinos | NBC UNIVERSO  HD": [
+  "US2",
+  "UNIVERSO.HD.us2"
+ ],
+ "Latinos | NICK JR 2": [
+  "US2",
+  "Nick.Jr.HD.us2"
+ ],
+ "Latinos | PARAMOUNT HD": [
+  "MX1",
+  "Canal.Paramount.Channel.(México).mx"
+ ],
+ "Latinos | SONY CHANNEL HD": [
+  "MX1",
+  "Canal.Sony.(México).mx"
+ ],
+ "Latinos | SPACE  HD": [
+  "MX1",
+  "Canal.Space.(México).mx"
+ ],
+ "Latinos | STAR CHANNEL HD": [
+  "MX1",
+  "Canal.Star.Channel.(México).mx"
+ ],
+ "Latinos | STUDIO UNIVERSAL HD": [
+  "MX1",
+  "Canal.Studio.Universal.(México).mx"
+ ],
+ "Latinos | SYFY HD": [
+  "SV1",
+  "Canal.Syfy.(España).sv"
+ ],
+ "Latinos | TELEMUNDO HD": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "Latinos | TNT HD": [
+  "MX1",
+  "Canal.TNT.(México).mx"
+ ],
+ "Latinos | TNT SERIES HD": [
+  "MX1",
+  "Canal.TNT.Series.(México).mx"
+ ],
+ "Latinos | UNIMAS HD": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "Latinos | UNIVERSAL TV CHANNEL  HD": [
+  "MX1",
+  "Canal.Universal.TV.(México).mx"
+ ],
+ "Latinos | WARNER CHANNEL HD": [
+  "MX1",
+  "Canal.Warner.TV.(México).mx"
  ],
  "MA | BOSTON | FOX - WFXT": [
   "US_LOCALS1",
@@ -2819,6 +3903,18 @@
   "US2",
   "Paramount.Network.HD.us2"
  ],
+ "Paramount Channel HD": [
+  "MX1",
+  "Canal.Paramount.Channel.(México).mx"
+ ],
+ "Paramount Network": [
+  "MX1",
+  "Canal.Paramount.Channel.(México).mx"
+ ],
+ "Pasiones HD": [
+  "CO1",
+  "PASIONES.co"
+ ],
  "RFD TV": [
   "US2",
   "RFD.TV.HD.us2"
@@ -2983,6 +4079,10 @@
   "US2",
   "Syfy.HD.us2"
  ],
+ "Space": [
+  "MX1",
+  "Canal.Space.(México).mx"
+ ],
  "TELEMUNDO BOSTON HD": [
   "US2",
   "Telemundo.Satellite.Feed.us2"
@@ -3082,6 +4182,10 @@
  "TX | WACO-TEMPLE-BRYAN | FOX - KWKT": [
   "US_LOCALS1",
   "KWKT-DT.us_locals1"
+ ],
+ "Tnt HD": [
+  "MX1",
+  "Canal.TNT.(México).mx"
  ],
  "UHD |  Azteca 7": [
   "SV1",
@@ -3442,6 +4546,82 @@
  "US CBS 62 (WWJ) Detroit": [
   "US_LOCALS1",
   "WWJ-DT.us_locals1"
+ ],
+ "US KIDS | Baby First": [
+  "US2",
+  "BabyFirst.TV.us2"
+ ],
+ "US KIDS | Baby TV": [
+  "US2",
+  "Baby.TV.US.us2"
+ ],
+ "US KIDS | Boomerang UHD": [
+  "US2",
+  "Boomerang.us2"
+ ],
+ "US KIDS | Cartoon Network UHD": [
+  "US2",
+  "Cartoon.Network.HD.us2"
+ ],
+ "US KIDS | Cartoon Network West": [
+  "US2",
+  "Cartoon.Network.(Pacific).us2"
+ ],
+ "US KIDS | Disney Channel East UHD": [
+  "US2",
+  "Disney.Channel.HD.us2"
+ ],
+ "US KIDS | Disney Channel West LHD": [
+  "US2",
+  "Disney.Channel.(Pacific).us2"
+ ],
+ "US KIDS | Disney Junior UHD": [
+  "US2",
+  "Disney.Junior.HD.us2"
+ ],
+ "US KIDS | Disney Junior West LHD": [
+  "US2",
+  "Disney.Junior.HD.(Pacific).us2"
+ ],
+ "US KIDS | Disney XD East (SHD)": [
+  "US2",
+  "Disney.XD.HD.us2"
+ ],
+ "US KIDS | Disney XD UHD": [
+  "US2",
+  "Disney.XD.HD.us2"
+ ],
+ "US KIDS | Disney XD West": [
+  "US2",
+  "Disney.XD.HD.(Pacific).us2"
+ ],
+ "US KIDS | Nick Jr East LHD": [
+  "US2",
+  "Nick.Jr.HD.us2"
+ ],
+ "US KIDS | Nick Jr West": [
+  "US2",
+  "Nick.Jr.HD.us2"
+ ],
+ "US KIDS | Nick Toon West": [
+  "US2",
+  "Nicktoons.us2"
+ ],
+ "US KIDS | Nickelodeon UHD": [
+  "US2",
+  "Nickelodeon.HD.us2"
+ ],
+ "US KIDS | Nicktoons UHD": [
+  "US2",
+  "Nicktoons.us2"
+ ],
+ "US KIDS | PBS Kids": [
+  "US2",
+  "PBS.KIDS.HD.us2"
+ ],
+ "US KIDS | TeenNick East": [
+  "US2",
+  "Teen.Nick.us2"
  ],
  "US LAT |  UNIVISION 41 NEW YORK": [
   "US2",
@@ -3843,6 +5023,210 @@
   "US2",
   "Univision.Network.(Pacific).us2"
  ],
+ "US NEWS | 7 News Boston (WHDH": [
+  "US_LOCALS1",
+  "WHDH-DT.us_locals1"
+ ],
+ "US NEWS | ABC News Live": [
+  "US2",
+  "ABC.News.Live.us2"
+ ],
+ "US NEWS | Albany | Spectrum News 1  (SHD)": [
+  "US2",
+  "Spectrum.News.-.Albany.Capital.Region.STVA.us2"
+ ],
+ "US NEWS | BBC America UHD": [
+  "US2",
+  "BBC.America.HD.us2"
+ ],
+ "US NEWS | Bloomberg (SHD)": [
+  "US2",
+  "Bloomberg.HD.us2"
+ ],
+ "US NEWS | C-SPAN": [
+  "US2",
+  "CSPAN.us2"
+ ],
+ "US NEWS | C-SPAN 2": [
+  "US2",
+  "CSPAN2.us2"
+ ],
+ "US NEWS | C-SPAN 3": [
+  "US2",
+  "CSPAN3.us2"
+ ],
+ "US NEWS | CGTN (English)": [
+  "US2",
+  "China.Global.Television.Network.us2"
+ ],
+ "US NEWS | CNBC (SHD)": [
+  "US2",
+  "CNBC.HD.us2"
+ ],
+ "US NEWS | CNBC LHD": [
+  "US2",
+  "CNBC.HD.us2"
+ ],
+ "US NEWS | CNBC UHD": [
+  "US2",
+  "CNBC.HD.us2"
+ ],
+ "US NEWS | CNBC World": [
+  "US2",
+  "CNBC.World.us2"
+ ],
+ "US NEWS | CNN": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "US NEWS | CNN (SHD)": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "US NEWS | CNN INTERNATIONAL": [
+  "US2",
+  "CNN.International.us2"
+ ],
+ "US NEWS | CNN UHD": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "US NEWS | Cheddar Business": [
+  "US2",
+  "Cheddar.us2"
+ ],
+ "US NEWS | Cheddar News": [
+  "US2",
+  "Cheddar.us2"
+ ],
+ "US NEWS | Cheddar News LHD": [
+  "US2",
+  "Cheddar.us2"
+ ],
+ "US NEWS | FOX Business Network (SHD)": [
+  "US2",
+  "Fox.Business.HD.us2"
+ ],
+ "US NEWS | Fox Bussines Network": [
+  "US2",
+  "Fox.Business.HD.us2"
+ ],
+ "US NEWS | Fox News Channel (SHD)": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "US NEWS | Fox News UHD": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "US NEWS | HLN (SHD)": [
+  "US2",
+  "HLN.HD.us2"
+ ],
+ "US NEWS | HLN LHD": [
+  "US2",
+  "HLN.HD.us2"
+ ],
+ "US NEWS | HLN UHD": [
+  "US2",
+  "HLN.HD.us2"
+ ],
+ "US NEWS | KY | Covington | Spectrum News 1 (SHD)": [
+  "US2",
+  "Spectrum.News.1.(Kentucky).Covington.us2"
+ ],
+ "US NEWS | KY | EVANSVILLE | Spectrum News 1  (SHD)": [
+  "US2",
+  "Spectrum.News.1.-.(Kentucky).-.Evansville.us2"
+ ],
+ "US NEWS | MSNBC (SHD)": [
+  "US2",
+  "MSNBC.HD.us2"
+ ],
+ "US NEWS | NC | Charlotte | Spectrum News 1  (SHD)": [
+  "US2",
+  "Spectrum.News.1.(Carolinas).-.Charlotte.STVA.us2"
+ ],
+ "US NEWS | NHK World (WUCF)": [
+  "US_LOCALS1",
+  "WUCF-DT.us_locals1"
+ ],
+ "US NEWS | NY |  Spectrum News NY1 (SHD)": [
+  "US2",
+  "Spectrum.News.-.NY1.-.STVA.us2"
+ ],
+ "US NEWS | New England Cable News": [
+  "US2",
+  "NECN.New.England.Cable.News.us2"
+ ],
+ "US NEWS | News 12 Brooklyn": [
+  "US2",
+  "News.12.Brooklyn.us2"
+ ],
+ "US NEWS | News 12 Connecticut": [
+  "US2",
+  "News.12.Connecticut.us2"
+ ],
+ "US NEWS | News 12 Hudson Valley": [
+  "US2",
+  "News.12.Hudson.Valley.us2"
+ ],
+ "US NEWS | News 12 Long Island": [
+  "US2",
+  "News.12.Long.Island.us2"
+ ],
+ "US NEWS | News 12 New Jersey": [
+  "US2",
+  "News.12.New.Jersey.us2"
+ ],
+ "US NEWS | News 12 The Bronx": [
+  "US2",
+  "News.12.Bronx.us2"
+ ],
+ "US NEWS | News 12 Westchester": [
+  "US2",
+  "News.12.Westchester.us2"
+ ],
+ "US NEWS | Newsnation (SHD)": [
+  "US2",
+  "NewsNation.us2"
+ ],
+ "US NEWS | Newsy": [
+  "US2",
+  "Newsy.us2"
+ ],
+ "US NEWS | One American News UHD": [
+  "US2",
+  "One.America.News.Network.HD.us2"
+ ],
+ "US NEWS | Spectrum Bay News 9 (SHD)": [
+  "US2",
+  "Spectrum.Bay.News.9.Tampa.us2"
+ ],
+ "US NEWS | Spectrum News 1 SO CAL (SHD)": [
+  "US2",
+  "Spectrum.News.1.-.SO.CAL.-.STVA.us2"
+ ],
+ "US NEWS | TX |  San Antonio | Spectrum News (SHD)": [
+  "US2",
+  "Spectrum.News.1.-.San.Antonio.us2"
+ ],
+ "US NEWS | TX | Austin | Spectrum News (SHD)": [
+  "US2",
+  "Spectrum.News.1.-.Austin.us2"
+ ],
+ "US NEWS | TX | Dallas | Spectrum News 1 (SHD)": [
+  "US2",
+  "Spectrum.News.1.-.Dallas.-.Ft.Worth.STVA.us2"
+ ],
+ "US NEWS | TX | El Paso | Spectrum News 1 (SHD)": [
+  "US2",
+  "Spectrum.News.1.-.El.Paso.Texas.STVA.us2"
+ ],
+ "US NEWS | TYT Network": [
+  "US2",
+  "TYT.The.Young.Turks.us2"
+ ],
  "US | 5 STAR MAX": [
   "US2",
   "5.StarMAX.HD.East.us2"
@@ -4006,6 +5390,10 @@
  "US | Destination America HD": [
   "US2",
   "Destination.America.HD.us2"
+ ],
+ "US | Disney Junior (East)": [
+  "US2",
+  "Disney.Junior.HD.us2"
  ],
  "US | Dog TV HD (D)": [
   "US2",
@@ -4179,6 +5567,14 @@
   "US2",
   "NASA.Plus.us2"
  ],
+ "US | Nickelodeon (East)": [
+  "US2",
+  "Nickelodeon.HD.us2"
+ ],
+ "US | Nickelodeon (West)": [
+  "US2",
+  "Nickelodeon.(Pacific).us2"
+ ],
  "US | OWN UHD": [
   "US2",
   "Oprah.Winfrey.Network.HD.us2"
@@ -4310,6 +5706,10 @@
  "US | Tastemade Home": [
   "US2",
   "Tastemade.Home.us2"
+ ],
+ "US | Teen Nick": [
+  "US2",
+  "Teen.Nick.us2"
  ],
  "US | The Cowboy Channel": [
   "US2",
@@ -5535,6 +6935,10 @@
   "US2",
   "FX.Movie.Channel.HD.us2"
  ],
+ "USA: MSNBC": [
+  "US2",
+  "MSNBC.HD.us2"
+ ],
  "USA: OVATION": [
   "US2",
   "Ovation.HD.us2"
@@ -6226,6 +7630,10 @@
  "UT | SALT LAKE CITY | FOX - KSTU": [
   "US_LOCALS1",
   "KSTU-DT.us_locals1"
+ ],
+ "Universal HD": [
+  "MX1",
+  "Canal.Universal.TV.(México).mx"
  ],
  "VA | NORFOLK-PORTSMOUTH-NEWPORT NEWS | FOX - WVBT": [
   "US_LOCALS1",

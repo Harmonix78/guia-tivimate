@@ -7,9 +7,9 @@ import datetime as dt, gzip, json, sys, urllib.request, xml.etree.ElementTree as
 from collections import defaultdict
 
 BASE = "https://epgshare01.online/epgshare01/epg_ripper_{}.xml.gz"
-# Only what TiviMate will show: from 6 hours ago to 5 days ahead (the sources carry a day or two of the past).
+# Only what TiviMate will show: from 6 hours ago to 48 hours ahead (the sources carry a day or two of the past).
 NOW = dt.datetime.now(dt.timezone.utc)
-FROM, UNTIL = NOW - dt.timedelta(hours=6), NOW + dt.timedelta(days=5)
+FROM, UNTIL = NOW - dt.timedelta(hours=6), NOW + dt.timedelta(hours=48)
 def keep(el):
     try:
         return dt.datetime.strptime(el.get("stop"), "%Y%m%d%H%M%S %z") >= FROM and \
@@ -21,7 +21,8 @@ by_source = defaultdict(lambda: defaultdict(list))          # file -> source id 
 for name, (src, cid) in channels.items():
     by_source[src][cid].append(name)
 
-out_channels, out_programmes, found = [], [], set()
+out_channels, out_programmes, found = {}, [], set()
+per_name = defaultdict(int)
 for src, ids in sorted(by_source.items()):
     req = urllib.request.Request(BASE.format(src), headers={"User-Agent": "guia-tivimate/1.0"})
     try:
@@ -36,12 +37,13 @@ for src, ids in sorted(by_source.items()):
                             ET.SubElement(ch, "display-name").text = name
                             icon = el.find("icon")
                             if icon is not None: ch.append(icon)
-                            out_channels.append(ch)
-                            found.add(name)
+                            out_channels[name] = ch
                         elif keep(el):
                             p = ET.Element("programme", dict(el.attrib, channel=name))
                             p.extend(list(el))
                             out_programmes.append(p)
+                            per_name[name] += 1
+                            found.add(name)
                             n += 1
                 if el.tag in ("channel", "programme"): el.clear()
             print(f"{src}: {n} programas", flush=True)
@@ -51,10 +53,10 @@ for src, ids in sorted(by_source.items()):
 if len(found) < len(channels) // 2:
     sys.exit(f"Solo {len(found)} de {len(channels)} canales: no se publica una guía rota")
 root = ET.Element("tv", {"generator-info-name": "guia-tivimate"})
-root.extend(out_channels)
+root.extend(ch for name, ch in out_channels.items() if per_name[name])
 root.extend(out_programmes)
 with gzip.open("guide.xml.gz", "wb", compresslevel=9) as f:
     ET.ElementTree(root).write(f, encoding="utf-8", xml_declaration=True)
 missing = sorted(set(channels) - found)
-print(f"{len(found)} canales con guía, {len(out_programmes)} programas; sin datos hoy: {len(missing)}")
+print(f"{len(found)} canales con guía, {len(out_programmes)} programas; sin programas hoy: {len(missing)}")
 for m in missing: print("  -", m)
