@@ -3,10 +3,19 @@ playlist, so TiviMate matches them by name with no manual work.
 
 channels.json: {"playlist channel name": ["epgshare01 file", "epgshare01 channel id"], ...}
 """
-import gzip, json, sys, urllib.request, xml.etree.ElementTree as ET
+import datetime as dt, gzip, json, sys, urllib.request, xml.etree.ElementTree as ET
 from collections import defaultdict
 
 BASE = "https://epgshare01.online/epgshare01/epg_ripper_{}.xml.gz"
+# Only what TiviMate will show: from 6 hours ago to 5 days ahead (the sources carry a day or two of the past).
+NOW = dt.datetime.now(dt.timezone.utc)
+FROM, UNTIL = NOW - dt.timedelta(hours=6), NOW + dt.timedelta(days=5)
+def keep(el):
+    try:
+        return dt.datetime.strptime(el.get("stop"), "%Y%m%d%H%M%S %z") >= FROM and \
+            dt.datetime.strptime(el.get("start"), "%Y%m%d%H%M%S %z") <= UNTIL
+    except (TypeError, ValueError):
+        return True
 channels = json.load(open("channels.json", encoding="utf-8"))
 by_source = defaultdict(lambda: defaultdict(list))          # file -> source id -> [playlist names]
 for name, (src, cid) in channels.items():
@@ -29,7 +38,7 @@ for src, ids in sorted(by_source.items()):
                             if icon is not None: ch.append(icon)
                             out_channels.append(ch)
                             found.add(name)
-                        else:
+                        elif keep(el):
                             p = ET.Element("programme", dict(el.attrib, channel=name))
                             p.extend(list(el))
                             out_programmes.append(p)

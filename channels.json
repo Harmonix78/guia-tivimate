@@ -1,4 +1,168 @@
 {
+ "A&E HD": [
+  "US2",
+  "A.and.E.HD.East.us2"
+ ],
+ "ABC 10 SACRAMENTO": [
+  "US_LOCALS1",
+  "KXTV-DT.us_locals1"
+ ],
+ "ABC CHICAGO HD": [
+  "US_LOCALS1",
+  "WLS-DT.us_locals1"
+ ],
+ "ABC HOUSTON HD": [
+  "US_LOCALS1",
+  "KTRK-DT.us_locals1"
+ ],
+ "ABC LOS ANGELES": [
+  "US_LOCALS1",
+  "KABC-DT.us_locals1"
+ ],
+ "ABC MIAMI HD": [
+  "US_LOCALS1",
+  "WPLG-DT.us_locals1"
+ ],
+ "AK | ANCHORAGE | FOX - KTBY 4": [
+  "US_LOCALS1",
+  "KTBY-DT.us_locals1"
+ ],
+ "AL | BIRMINGHAM-ANNISTON-TUSCALOOSA | FOX - WBRC": [
+  "US_LOCALS1",
+  "WBRC-DT.us_locals1"
+ ],
+ "AL | DOTHAN | FOX - WDFX": [
+  "US_LOCALS1",
+  "WDFX-DT.us_locals1"
+ ],
+ "AL | HUNTSVILLE-DECATUR-FLORENCE | FOX - WZDX": [
+  "US_LOCALS1",
+  "WZDX-DT.us_locals1"
+ ],
+ "AL | MOBILE-PENSACOLA | FOX - WALA": [
+  "US_LOCALS1",
+  "WALA-DT.us_locals1"
+ ],
+ "AL | MONTGOMERY-SELMA | FOX - WCOV": [
+  "US_LOCALS1",
+  "WCOV-DT.us_locals1"
+ ],
+ "AMC HD": [
+  "US2",
+  "AMC.HD.us2"
+ ],
+ "ANIMAL PLANET": [
+  "US2",
+  "Animal.Planet.HD.us2"
+ ],
+ "AR | LITTLE ROCK-PINE BLUFF | FOX - KLRT": [
+  "US_LOCALS1",
+  "KLRT-DT.us_locals1"
+ ],
+ "AZ | PHOENIX-PRESCOTT | FOX - KSAZ": [
+  "US_LOCALS1",
+  "KSAZ-DT.us_locals1"
+ ],
+ "AZ | TUCSON-SIERRA VISTA | FOX - KMSB": [
+  "US_LOCALS1",
+  "KMSB-DT.us_locals1"
+ ],
+ "BBC NEWS HD": [
+  "US2",
+  "BBC.News.(North.America).HD.us2"
+ ],
+ "BEIN SPORTS HD": [
+  "US2",
+  "beIN.Sports.USA.HD.us2"
+ ],
+ "BIG TEN": [
+  "US2",
+  "Big.Ten.Network.HD.us2"
+ ],
+ "BOOMERANG HD": [
+  "US2",
+  "Boomerang.us2"
+ ],
+ "BRAVO HD": [
+  "US2",
+  "Bravo.HD.us2"
+ ],
+ "CA A&E": [
+  "CA2",
+  "A.and.E.Canada.HD.ca2"
+ ],
+ "CA ABC 5 (WCVB) Boston": [
+  "US_LOCALS1",
+  "WCVB-DT.us_locals1"
+ ],
+ "CA ABC 7 (WXYZ) Detroit": [
+  "US_LOCALS1",
+  "WXYZ-DT.us_locals1"
+ ],
+ "CA ABC Buffalo": [
+  "US_LOCALS1",
+  "WKBW-DT.us_locals1"
+ ],
+ "CA AMC (R)": [
+  "CA2",
+  "AMC.Canada.HD.ca2"
+ ],
+ "CA AMERICAN HEROES CHANNEL (B)": [
+  "CA2",
+  "American.Heroes.Channel.-.Canada.ca2"
+ ],
+ "CA ANIMAL PLANET (R)": [
+  "US2",
+  "Animal.Planet.HD.us2"
+ ],
+ "CA Aboriginal Peoples Television Network": [
+  "CA2",
+  "Aboriginal.Peoples.Television.Network.HD.ca2"
+ ],
+ "CA Adult Swim": [
+  "CA2",
+  "Adult.Swim.ca2"
+ ],
+ "CA American Heroes (Roger)": [
+  "CA2",
+  "American.Heroes.Channel.-.Canada.ca2"
+ ],
+ "CA Aquarium (R)": [
+  "CA2",
+  "Aquarium.Channel.HD.ca2"
+ ],
+ "CA BBC Earth": [
+  "CA2",
+  "BBC.Earth.ca2"
+ ],
+ "CA BBC WORLD (R)": [
+  "US2",
+  "BBC.News.(North.America).HD.us2"
+ ],
+ "CA BEIN SPORTS": [
+  "CA2",
+  "beIN.Sports.HD.(Canada).ca2"
+ ],
+ "CA BET (R)": [
+  "US2",
+  "BET.HD.us2"
+ ],
+ "CA BOOMERANG": [
+  "CA2",
+  "Boomerang.Network.Canada.ca2"
+ ],
+ "CA Bein Sports HD": [
+  "CA2",
+  "beIN.Sports.HD.(Canada).ca2"
+ ],
+ "CA Bloomberg (R)": [
+  "US2",
+  "Bloomberg.HD.us2"
+ ],
+ "CA CARTOON NETWORK": [
+  "CA2",
+  "Cartoon.Network.Canada.ca2"
+ ],
  "CA CBC Calgary": [
   "CA2",
   "CBC.Calgary.ca2"
@@ -83,9 +247,25 @@
   "CA2",
   "CBC.Television-Windsor.9.ca2"
  ],
+ "CA CBS 4 (WBZ) Boston": [
+  "US_LOCALS1",
+  "WBZ-DT.us_locals1"
+ ],
+ "CA CBS Buffalo": [
+  "US_LOCALS1",
+  "WIVB-DT.us_locals1"
+ ],
+ "CA CGTN": [
+  "US2",
+  "China.Global.Television.Network.us2"
+ ],
  "CA CHCH": [
   "CA2",
   "CHCH-DT.ca2"
+ ],
+ "CA CINE POP HD": [
+  "CA2",
+  "CinéPop.ca2"
  ],
  "CA CITY MONTREAL (B)": [
   "CA2",
@@ -99,21 +279,129 @@
   "CA2",
   "Citytv.Toronto.HD.ca2"
  ],
+ "CA CNBC (R)": [
+  "US2",
+  "CNBC.HD.us2"
+ ],
+ "CA CNN": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "CA CNN (R)": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "CA CNN HD": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "CA COOKING CHANNEL (R)": [
+  "US2",
+  "Cooking.Channel.HD.us2"
+ ],
+ "CA COTTAGE Life (R)": [
+  "CA2",
+  "Cottage.Life.ca2"
+ ],
  "CA CP24 (C)": [
   "CA2",
   "Cable.Pulse.24.(CP24).HD.ca2"
+ ],
+ "CA CRIME & INVESTIGATION": [
+  "US2",
+  "Crime.and.Investigation.Network.HD.us2"
  ],
  "CA CablePulse 24": [
   "CA2",
   "Cable.Pulse.24.(CP24).HD.ca2"
  ],
+ "CA Canal M": [
+  "CA2",
+  "Canal.M.ca2"
+ ],
+ "CA Cartoon Network (R)": [
+  "CA2",
+  "Cartoon.Network.Canada.ca2"
+ ],
  "CA Citytv Toronto": [
   "CA2",
   "Citytv.Toronto.HD.ca2"
  ],
+ "CA Crime & Investigation": [
+  "US2",
+  "Crime.and.Investigation.Network.HD.us2"
+ ],
+ "CA DAYSTAR TV (B)": [
+  "CA2",
+  "Daystar.Canada.ca2"
+ ],
+ "CA DISNEY XD (R)": [
+  "US2",
+  "Disney.XD.HD.us2"
+ ],
+ "CA DOCUMENTARY (R)": [
+  "CA2",
+  "Documentary.Canada.ca2"
+ ],
+ "CA DTOUR": [
+  "CA2",
+  "DTOUR.ca2"
+ ],
+ "CA Discovery Channel (R)": [
+  "CA2",
+  "Discovery.Channel.ca2"
+ ],
+ "CA Disney Channel (R)": [
+  "CA2",
+  "Disney.Channel.Canada.ca2"
+ ],
+ "CA Disney Junior (R)": [
+  "US2",
+  "Disney.Junior.HD.us2"
+ ],
+ "CA E! Entertainment": [
+  "CA2",
+  "E!.Entertainment.Television.Canada.ca2"
+ ],
+ "CA FOX NEWS": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "CA FX": [
+  "CA2",
+  "FX.HD.ca2"
+ ],
+ "CA FXX": [
+  "CA2",
+  "FXX.Canada.ca2"
+ ],
+ "CA Fight Network": [
+  "CA2",
+  "The.Fight.Network.ca2"
+ ],
+ "CA Food Network (R)": [
+  "CA2",
+  "Food.Network.ca2"
+ ],
+ "CA Fox News HD (R)": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "CA Fox Sports Racing": [
+  "CA2",
+  "Fox.Sports.Racing.ca2"
+ ],
+ "CA GAME SHOW NETWORK": [
+  "CA2",
+  "Game.Show.Network.ca2"
+ ],
  "CA GLOBAL HALIFAX (B)": [
   "CA2",
   "Global.Maritimes.ca2"
+ ],
+ "CA GLOBAL KINGSTON (B)": [
+  "CA2",
+  "Global.Toronto.ca2"
  ],
  "CA GLOBAL MONTREAL (B)": [
   "CA2",
@@ -127,9 +415,17 @@
   "CA2",
   "Global.BC.ca2"
  ],
+ "CA GOLF": [
+  "US2",
+  "Golf.Channel.HD.us2"
+ ],
  "CA Global Calgary": [
   "CA2",
   "Global.Calgary.ca2"
+ ],
+ "CA Global Durham": [
+  "CA2",
+  "Global.Durham.ca2"
  ],
  "CA Global Maritimes HD": [
   "CA2",
@@ -143,9 +439,125 @@
   "CA2",
   "Global.Saskatoon.ca2"
  ],
+ "CA Global Peterborough (B)": [
+  "CA2",
+  "Global.Toronto.ca2"
+ ],
  "CA Global Toronto": [
   "CA2",
   "Global.Toronto.ca2"
+ ],
+ "CA HBO": [
+  "CA2",
+  "HBO.Canada.West.ca2"
+ ],
+ "CA HBO 2": [
+  "US2",
+  "HBO2.HD.us2"
+ ],
+ "CA HISTORY 2 (B)": [
+  "CA2",
+  "HISTORY.2.ca2"
+ ],
+ "CA HLN": [
+  "US2",
+  "HLN.HD.us2"
+ ],
+ "CA History 2": [
+  "CA2",
+  "HISTORY.2.ca2"
+ ],
+ "CA History Channel": [
+  "CA2",
+  "History.Television.HD.(Canada).ca2"
+ ],
+ "CA ID": [
+  "CA2",
+  "Investigation.HD.ca2"
+ ],
+ "CA Investigation Discovery HD": [
+  "CA2",
+  "Investigation.HD.ca2"
+ ],
+ "CA Knowledge Network": [
+  "CA2",
+  "Knowledge.Network.ca2"
+ ],
+ "CA LOVE NATURE": [
+  "CA2",
+  "Love.Nature.ca2"
+ ],
+ "CA Lifetime": [
+  "US2",
+  "Lifetime.HD.us2"
+ ],
+ "CA Love Nature": [
+  "CA2",
+  "Love.Nature.ca2"
+ ],
+ "CA MEDIASET ITALIA": [
+  "CA2",
+  "Mediaset.Italia.Canada.ca2"
+ ],
+ "CA MLB Network": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "CA MSNBC": [
+  "US2",
+  "MSNBC.HD.us2"
+ ],
+ "CA MUCH_MUSIC": [
+  "CA2",
+  "MuchMusic.Network.ca2"
+ ],
+ "CA Makeful": [
+  "CA2",
+  "Makeful.TV.SD.ca2"
+ ],
+ "CA MovieTime": [
+  "CA2",
+  "MovieTime.ca2"
+ ],
+ "CA Much": [
+  "CA2",
+  "MuchMusic.Network.ca2"
+ ],
+ "CA My 43 (WUAB) Cleveland": [
+  "US_LOCALS1",
+  "WUAB-DT.us_locals1"
+ ],
+ "CA NAT GEO": [
+  "CA2",
+  "National.Geographic.Canada.HD.ca2"
+ ],
+ "CA NAT GEO WILD": [
+  "CA2",
+  "National.Geographic.Wild.Canada.HD.ca2"
+ ],
+ "CA NBA TV": [
+  "CA2",
+  "NBA.TV.Canada.HD.ca2"
+ ],
+ "CA NBC  (WYCN) Nashua": [
+  "US_LOCALS1",
+  "WYCN-LD.us_locals1"
+ ],
+ "CA NBC 8 (WYCN) Boston": [
+  "US_LOCALS1",
+  "WYCN-LD.us_locals1"
+ ],
+ "CA NFL Network": [
+  "US2",
+  "NFL.Network.HD.us2"
+ ],
+ "CA Nat Geo Wild": [
+  "CA2",
+  "National.Geographic.Wild.Canada.HD.ca2"
+ ],
+ "CA Nickelodeon": [
+  "US2",
+  "Nickelodeon.HD.us2"
  ],
  "CA OMNI 1": [
   "CA2",
@@ -155,6 +567,46 @@
   "CA2",
   "OMNI.Calgary.HD.ca2"
  ],
+ "CA OMNI_2": [
+  "CA2",
+  "OMNI2.ca2"
+ ],
+ "CA OWN": [
+  "US2",
+  "Oprah.Winfrey.Network.HD.us2"
+ ],
+ "CA PARAMOUNT": [
+  "US2",
+  "Paramount.Network.HD.us2"
+ ],
+ "CA PBS 10 (WMEM) Presque Isle": [
+  "US_LOCALS1",
+  "WMEM-DT.us_locals1"
+ ],
+ "CA PBS 17 (WNED) Buffalo": [
+  "US_LOCALS1",
+  "WNED-DT.us_locals1"
+ ],
+ "CA PBS 54 (WQLN) Erie": [
+  "US_LOCALS1",
+  "WQLN-DT.us_locals1"
+ ],
+ "CA PBS Buffalo (WNED)": [
+  "US_LOCALS1",
+  "WNED-DT.us_locals1"
+ ],
+ "CA PBS Detroit (WTVS)": [
+  "US_LOCALS1",
+  "WTVS-DT.us_locals1"
+ ],
+ "CA PEACHTREE TV": [
+  "US2",
+  "Peachtree.TV.us2"
+ ],
+ "CA Paramount Network": [
+  "US2",
+  "Paramount.Network.HD.us2"
+ ],
  "CA RDS (HD)": [
   "CA2",
   "RDS2.ca2"
@@ -162,6 +614,22 @@
  "CA RDS (HQ)": [
   "CA2",
   "RDS2.ca2"
+ ],
+ "CA SILVER SCREEN CLASSICS": [
+  "CA2",
+  "Silver.Screen.Classics.ca2"
+ ],
+ "CA SLICE TV": [
+  "CA2",
+  "SLICE.ca2"
+ ],
+ "CA SMITHSONIAN CHANNEL": [
+  "CA2",
+  "Smithsonian.Channel.ca2"
+ ],
+ "CA SPORTSMAN (B)": [
+  "US2",
+  "Sportsman.Channel.us2"
  ],
  "CA SPORTSNET 360": [
   "CA2",
@@ -183,9 +651,41 @@
   "CA2",
   "Sportsnet.West.HD.ca2"
  ],
+ "CA Showcase": [
+  "CA2",
+  "Showcase.Canada.HD.ca2"
+ ],
  "CA Sportsnet World": [
   "CA2",
   "Sportsnet.World.ca2"
+ ],
+ "CA Starz 1": [
+  "CA2",
+  "STARZ.1.HD.ca2"
+ ],
+ "CA Starz 2": [
+  "CA2",
+  "STARZ.2.ca2"
+ ],
+ "CA Super Channel Fuse": [
+  "CA2",
+  "Super.Channel.Fuse.ca2"
+ ],
+ "CA Super Channel Heart & Home": [
+  "CA2",
+  "Super.Channel.Heart.and.Home.HD.ca2"
+ ],
+ "CA Super Channel Vault  HD": [
+  "CA2",
+  "Super.Channel.Vault.ca2"
+ ],
+ "CA THE WEATHER NETWORK": [
+  "CA2",
+  "The.Weather.Network.Canada.HD.ca2"
+ ],
+ "CA TLC": [
+  "US2",
+  "TLC.HD.(US).us2"
  ],
  "CA TSN 1 UHD": [
   "CA2",
@@ -211,9 +711,117 @@
   "CA2",
   "TVA.Sports.2.HD.ca2"
  ],
+ "CA TVO": [
+  "CA2",
+  "TVO.ca2"
+ ],
+ "CA The Fight Network HD": [
+  "CA2",
+  "The.Fight.Network.ca2"
+ ],
+ "CA Turner Classic Movies": [
+  "US2",
+  "Turner.Classic.Movies.HD.us2"
+ ],
+ "CA VISION": [
+  "CA2",
+  "Vision.TV.ca2"
+ ],
+ "CA W NETWORK": [
+  "CA2",
+  "W.Network.ca2"
+ ],
+ "CA W NETWORK West": [
+  "CA2",
+  "W.Network.ca2"
+ ],
+ "CA WEATHER NETWORK": [
+  "CA2",
+  "The.Weather.Network.Canada.HD.ca2"
+ ],
+ "CA WNLO Buffalo (CW23)": [
+  "US_LOCALS1",
+  "WNLO-DT.us_locals1"
+ ],
+ "CA WWE Network": [
+  "US2",
+  "WWE.Network.us2"
+ ],
+ "CA Wild TV (B)": [
+  "CA2",
+  "WILD.TV.ca2"
+ ],
+ "CA YES TV": [
+  "US2",
+  "Yes.Network.us2"
+ ],
+ "CA YTV East": [
+  "CA2",
+  "YTV.ca2"
+ ],
+ "CA | BAKERSFIELD | FOX - KBFX": [
+  "US_LOCALS1",
+  "KBFX-CD.us_locals1"
+ ],
+ "CA | Crime Investigation": [
+  "US2",
+  "Crime.and.Investigation.Network.HD.us2"
+ ],
+ "CA | FRESNO-VISALIA | FOX - KMPH": [
+  "US_LOCALS1",
+  "KMPH-DT.us_locals1"
+ ],
+ "CA | LOS ANGELES | FOX - KTTV": [
+  "US_LOCALS1",
+  "KTTV-DT.us_locals1"
+ ],
+ "CA | MONTEREY-SALINAS | FOX - KCBA": [
+  "US_LOCALS1",
+  "KCBA-DT.us_locals1"
+ ],
+ "CA | SACRAMENTO-STOCKTON-MODESTO | FOX - KTXL": [
+  "US_LOCALS1",
+  "KTXL-DT.us_locals1"
+ ],
+ "CA | SAN DIEGO | FOX - KSWB": [
+  "US_LOCALS1",
+  "KSWB-DT.us_locals1"
+ ],
+ "CA | SAN FRANCISCO-OAKLAND-SAN JOSE | FOX - KTVU": [
+  "US_LOCALS1",
+  "KTVU-DT.us_locals1"
+ ],
+ "CA | SANTA BARBARA-SAN MARCOS-SAN LUIS OBISPO | FOX - KKFX": [
+  "US_LOCALS1",
+  "KKFX-CD.us_locals1"
+ ],
  "CA | Sportsnet One": [
   "CA2",
   "Sportsnet.One.ca2"
+ ],
+ "CA: HGTV": [
+  "US2",
+  "Home.and.Garden.Television.HD.us2"
+ ],
+ "CA: NBA TV": [
+  "US2",
+  "NBA.TV.HD.us2"
+ ],
+ "CBS NEW YORK HD": [
+  "US_LOCALS1",
+  "WCBS-DT.us_locals1"
+ ],
+ "CBS SAN FRANCISCO HD": [
+  "US_LOCALS1",
+  "KPIX-DT.us_locals1"
+ ],
+ "CBS SPORT NETWORK HD": [
+  "US2",
+  "CBS.Sports.Network.HD.us2"
+ ],
+ "CBS TEXAS HD": [
+  "US_LOCALS1",
+  "KTVT-DT.us_locals1"
  ],
  "CINE Y SERIES HD | A3 SERIES": [
   "MX1",
@@ -555,9 +1163,45 @@
   "CO1",
   "Warner.Channel.co"
  ],
+ "CINEMAX HD": [
+  "US2",
+  "Cinemax.HD.us2"
+ ],
+ "CNBC HD": [
+  "US2",
+  "CNBC.HD.us2"
+ ],
+ "CNN HD": [
+  "US2",
+  "CNN.HD.us2"
+ ],
+ "CNN INTERNACIONAL HD": [
+  "US2",
+  "CNN.International.us2"
+ ],
  "CO |  RCN Novelas HD": [
   "CO1",
   "RCN.Novelas.co"
+ ],
+ "CO | COLORADO SPRINGS-PUEBLO | FOX - KXRM": [
+  "US_LOCALS1",
+  "KXRM-DT.us_locals1"
+ ],
+ "CO | DENVER | FOX - KDVR": [
+  "US_LOCALS1",
+  "KDVR-DT.us_locals1"
+ ],
+ "CO | GRAND JUNCTION-MONTROSE | FOX - KFQX": [
+  "US_LOCALS1",
+  "KFQX-DT.us_locals1"
+ ],
+ "COMEDY CENTRAL HD": [
+  "US2",
+  "Comedy.Central.HD.us2"
+ ],
+ "CT | HARTFORD-NEW HAVEN | FOX - WTIC": [
+  "US_LOCALS1",
+  "WTIC-DT.us_locals1"
  ],
  "CULTURA HD | AE": [
   "MX1",
@@ -807,6 +1451,42 @@
   "ES1",
   "DAZN.LaLiga.es"
  ],
+ "DC | WASHINGTON-HAGERSTOWN | FOX - WTTG": [
+  "US_LOCALS1",
+  "WTTG-DT.us_locals1"
+ ],
+ "DISCOVERY CHANNEL": [
+  "US2",
+  "Discovery.Channel.HD.us2"
+ ],
+ "DISCOVERY FAMILY": [
+  "US2",
+  "Discovery.Family.Channel.HD.us2"
+ ],
+ "DISCOVERY ID HD": [
+  "US2",
+  "Investigation.Discovery.HD.us2"
+ ],
+ "DISCOVERY SCIENCE HD": [
+  "US2",
+  "Science.Channel.HD.us2"
+ ],
+ "DISNEY CHANNEL HD": [
+  "US2",
+  "Disney.Channel.HD.us2"
+ ],
+ "DISNEY JR HD": [
+  "US2",
+  "Disney.Junior.HD.us2"
+ ],
+ "DISNEY XD HD": [
+  "US2",
+  "Disney.XD.HD.us2"
+ ],
+ "DW CHANNEL HD": [
+  "CA2",
+  "DW.HD.ca2"
+ ],
  "ENTRETENIMIENTO | AZCORAZON": [
   "ES1",
   "AZ.Corazón.es"
@@ -866,6 +1546,26 @@
  "ENTRETENIMIENTO | UNIVISION MIAMI HD": [
   "US2",
   "Univision.Network.HD.us2"
+ ],
+ "ESPN 1 USA HD": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "ESPN 2 US HD": [
+  "US2",
+  "ESPN2.HD.us2"
+ ],
+ "ESPN DEPORTES OP.2 HD": [
+  "US2",
+  "ESPN.Deportes.HD.us2"
+ ],
+ "ESPN NEWS US HD": [
+  "US2",
+  "ESPNEWS.HD.us2"
+ ],
+ "ESPNU US HD": [
+  "US2",
+  "ESPNU.HD.us2"
  ],
  "ES| BETIS FHD": [
   "ES1",
@@ -1391,9 +2091,205 @@
   "ES1",
   "Ubeat.es"
  ],
+ "FL | FORT MYERS-NAPLES | FOX - WFTX": [
+  "US_LOCALS1",
+  "WFTX-DT.us_locals1"
+ ],
+ "FL | JACKSONVILLE | FOX - WFOX": [
+  "US_LOCALS1",
+  "WFOX-DT.us_locals1"
+ ],
+ "FL | MIAMI-FORT LAUDERDALE | FOX - WSVN": [
+  "US_LOCALS1",
+  "WSVN-DT.us_locals1"
+ ],
+ "FL | ORLANDO-DAYTONA BEACH-MELBOURNE | FOX - WOFL": [
+  "US_LOCALS1",
+  "WOFL-DT.us_locals1"
+ ],
+ "FL | TAMPA-ST. PETERSBURG-SARASOTA | FOX - WTVT": [
+  "US_LOCALS1",
+  "WTVT-DT.us_locals1"
+ ],
+ "FL | WEST PALM BEACH-FT. PIERCE | FOX - WFLX": [
+  "US_LOCALS1",
+  "WFLX-DT.us_locals1"
+ ],
+ "FOX 26 HOUSTON HD": [
+  "US_LOCALS1",
+  "KRIV-DT.us_locals1"
+ ],
+ "FOX 5 SAN DIEGO HD": [
+  "US_LOCALS1",
+  "KSWB-DT.us_locals1"
+ ],
+ "FOX SOCCER PLUS HD": [
+  "US2",
+  "Fox.Soccer.Plus.HD.us2"
+ ],
+ "FOX SPORTS NORTH US HD": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.North.us"
+ ],
+ "FS1": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "FS2 US HD": [
+  "US2",
+  "FS2.HD.us2"
+ ],
+ "FX HD": [
+  "US2",
+  "FX.HD.us2"
+ ],
+ "FXX": [
+  "US2",
+  "FXX.HD.us2"
+ ],
+ "GA | ALBANY | FOX - WFXL 31": [
+  "US_LOCALS1",
+  "WFXL-DT.us_locals1"
+ ],
+ "GA | ATLANTA | FOX - WAGA": [
+  "US_LOCALS1",
+  "WAGA-DT.us_locals1"
+ ],
+ "GA | AUGUSTA | FOX - WFXG": [
+  "US_LOCALS1",
+  "WFXG-DT.us_locals1"
+ ],
+ "GA | COLUMBUS | FOX - WXTX": [
+  "US_LOCALS1",
+  "WXTX-DT.us_locals1"
+ ],
+ "GOLF CHANNEL HD": [
+  "US2",
+  "Golf.Channel.HD.us2"
+ ],
+ "HALLMARK HD": [
+  "US2",
+  "Hallmark.Channel.HD.us2"
+ ],
+ "HALLMARK MOVIES HD": [
+  "US2",
+  "Hallmark.Mystery.HD.us2"
+ ],
  "HBO 2 HD": [
   "MX1",
   "Canal.HBO.2.Latinoamérica.mx"
+ ],
+ "HBO HD": [
+  "US2",
+  "HBO.East.us2"
+ ],
+ "HBO SIGNATURE HD": [
+  "US2",
+  "HBO.Signature.HD.us2"
+ ],
+ "HI | HONOLULU | FOX - KHON": [
+  "US_LOCALS1",
+  "KHON-DT.us_locals1"
+ ],
+ "HISTORY CHANNEL HD": [
+  "US2",
+  "History.HD.us2"
+ ],
+ "IA | CEDAR RAPIDS-WATERLOO-IOWA CITY-DUBUQUE | FOX - KFXA": [
+  "US_LOCALS1",
+  "KFXA-DT.us_locals1"
+ ],
+ "IA | DAVENPORT | FOX - KLJB": [
+  "US_LOCALS1",
+  "KLJB-DT.us_locals1"
+ ],
+ "IA | DES MOINES-AMES | FOX - KDSM": [
+  "US_LOCALS1",
+  "KDSM-DT.us_locals1"
+ ],
+ "IA | SIOUX CITY | FOX - KPTH": [
+  "US_LOCALS1",
+  "KPTH-DT.us_locals1"
+ ],
+ "ID | BOISE | FOX - KNIN": [
+  "US_LOCALS1",
+  "KNIN-DT.us_locals1"
+ ],
+ "ID | TWIN FALLS | FOX - KSVT": [
+  "US_LOCALS1",
+  "KSVT-LD.us_locals1"
+ ],
+ "IL | CHICAGO | FOX - WFLD": [
+  "US_LOCALS1",
+  "WFLD-DT.us_locals1"
+ ],
+ "IL | PEORIA-BLOOMINGTON | FOX - WYZZ": [
+  "US_LOCALS1",
+  "WYZZ-DT.us_locals1"
+ ],
+ "IL | Rockford | FOX -  39 WQRF": [
+  "US_LOCALS1",
+  "WQRF-DT.us_locals1"
+ ],
+ "IN | FORT WAYNE | FOX - WFFT": [
+  "US_LOCALS1",
+  "WFFT-DT.us_locals1"
+ ],
+ "IN | INDIANAPOLIS | FOX - WXIN": [
+  "US_LOCALS1",
+  "WXIN-DT.us_locals1"
+ ],
+ "KY | LOUISVILLE | FOX - WDRB": [
+  "US_LOCALS1",
+  "WDRB-DT.us_locals1"
+ ],
+ "KY | NEWPORT | FOX - WXIX": [
+  "US_LOCALS1",
+  "WXIX-DT.us_locals1"
+ ],
+ "LA | BATON ROUGE | FOX - WGMB": [
+  "US_LOCALS1",
+  "WGMB-DT.us_locals1"
+ ],
+ "LA | LAFAYETTE | FOX - KADN": [
+  "US_LOCALS1",
+  "KADN-DT.us_locals1"
+ ],
+ "LA | LAKE CHARLES | FOX - KVHP": [
+  "US_LOCALS1",
+  "KVHP-DT.us_locals1"
+ ],
+ "LA | NEW ORLEANS | FOX - WVUE": [
+  "US_LOCALS1",
+  "WVUE-DT.us_locals1"
+ ],
+ "LA | SHREVEPORT | FOX - KMSS": [
+  "US_LOCALS1",
+  "KMSS-DT.us_locals1"
+ ],
+ "LAT |  Galavision East": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "LAT |  Galavision Fresno HD": [
+  "US2",
+  "Galavision.Cable.Network.HD.(Pacific).us2"
+ ],
+ "LAT |  Galavision Miami HD": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "LAT |  Galavision San Antonio HD": [
+  "US2",
+  "Galavision.Cable.Network.HD.us2"
+ ],
+ "LAT |  Galavision West": [
+  "US2",
+  "Galavision.Cable.Network.HD.(Pacific).us2"
+ ],
+ "LAT |  Galavision West HD": [
+  "US2",
+  "Galavision.Cable.Network.HD.(Pacific).us2"
  ],
  "LAT |  Telemundo Dallas": [
   "US2",
@@ -1418,6 +2314,18 @@
  "LAT |  Telemundo33 Chicago": [
   "US2",
   "Telemundo.Satellite.Feed.us2"
+ ],
+ "LAT |  Unimas Colorado Springs - KGHB": [
+  "US_LOCALS1",
+  "KGHB-CD.us_locals1"
+ ],
+ "LAT |  Unimas14 Washington DC - WFDC4": [
+  "US_LOCALS1",
+  "WFDC-DT.us_locals1"
+ ],
+ "LAT |  Unimas27 Boston - WUTF": [
+  "US_LOCALS1",
+  "WUTF-DT.us_locals1"
  ],
  "LAT |  Unimas50 Denver - KTFD": [
   "US2",
@@ -1503,6 +2411,30 @@
   "US2",
   "Telemundo.Satellite.Feed.us2"
  ],
+ "LIFETIME HD": [
+  "US2",
+  "Lifetime.HD.us2"
+ ],
+ "MA | BOSTON | FOX - WFXT": [
+  "US_LOCALS1",
+  "WFXT-DT.us_locals1"
+ ],
+ "MA | SPRINGFIELD | FOX - WGGB": [
+  "US_LOCALS1",
+  "WGGB-DT.us_locals1"
+ ],
+ "MD | BALTIMORE | FOX - WBFF": [
+  "US_LOCALS1",
+  "WBFF-DT.us_locals1"
+ ],
+ "ME | BANGOR | FOX - WFVX": [
+  "US_LOCALS1",
+  "WFVX-LD.us_locals1"
+ ],
+ "ME | PRESQUE ISLE | FOX - WAGM": [
+  "US_LOCALS1",
+  "WAGM-DT.us_locals1"
+ ],
  "MEX: A&E": [
   "MX1",
   "Canal.A&E.(México).mx"
@@ -1510,6 +2442,78 @@
  "MEX: CNN EN ESPANOL": [
   "MX1",
   "Canal.CNN.en.Español.mx"
+ ],
+ "MI | DETROIT | FOX - WJBK": [
+  "US_LOCALS1",
+  "WJBK-DT.us_locals1"
+ ],
+ "MI | FLINT-SAGINAW-BAY CITY | FOX - WSMH": [
+  "US_LOCALS1",
+  "WSMH-DT.us_locals1"
+ ],
+ "MI | GRAND RAPIDS-KALAMAZOO-BATTLE CREEK | FOX - WXMI": [
+  "US_LOCALS1",
+  "WXMI-DT.us_locals1"
+ ],
+ "MI | LANSING | FOX - WSYM": [
+  "US_LOCALS1",
+  "WSYM-DT.us_locals1"
+ ],
+ "MI | TUPELO - WLOV": [
+  "US_LOCALS1",
+  "WLOV-DT.us_locals1"
+ ],
+ "MIA | Fox Miami 7": [
+  "US_LOCALS1",
+  "WSVN-DT.us_locals1"
+ ],
+ "MLB NETWORK HD": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "MN | MINNEAPOLIS-ST. PAUL | FOX - KMSP": [
+  "US_LOCALS1",
+  "KMSP-DT.us_locals1"
+ ],
+ "MO | BILLINGS | FOX-KHMT": [
+  "US_LOCALS1",
+  "KHMT-DT.us_locals1"
+ ],
+ "MO | KANSAS CITY | FOX - WDAF": [
+  "US_LOCALS1",
+  "WDAF-DT.us_locals1"
+ ],
+ "MO | OSAGE BEACH | FOX - KRBK": [
+  "US_LOCALS1",
+  "KRBK-DT.us_locals1"
+ ],
+ "MO | ST. LOUIS | FOX - KTVI": [
+  "US_LOCALS1",
+  "KTVI-DT.us_locals1"
+ ],
+ "MOVIEPLEX": [
+  "US2",
+  "MoviePlex.HD.us2"
+ ],
+ "MS | JACKSON | FOX - WDBD": [
+  "US_LOCALS1",
+  "WDBD-DT.us_locals1"
+ ],
+ "MS | MERIDIAN | FOX/NBC - WGBC": [
+  "US_LOCALS1",
+  "WGBC-DT.us_locals1"
+ ],
+ "MSG NETWORK 1 HD": [
+  "US2",
+  "MSG.National.us2"
+ ],
+ "MSG NETWORK 2 HD": [
+  "US2",
+  "MSG2.HD.us2"
+ ],
+ "MTV HD": [
+  "US2",
+  "MTV.-.Music.Television.HD.us2"
  ],
  "MX (HD) TP PX Sports": [
   "MX1",
@@ -1615,6 +2619,54 @@
   "MX1",
   "Canal.TVC.Deportes.mx"
  ],
+ "NASA TV HD": [
+  "US2",
+  "NASA.Plus.us2"
+ ],
+ "NATGEO HD": [
+  "US2",
+  "National.Geographic.HD.us2"
+ ],
+ "NATGEO WILD HD": [
+  "US2",
+  "National.Geographic.Wild.HD.us2"
+ ],
+ "NC | BELMONT | FOX - WJZY": [
+  "US_LOCALS1",
+  "WJZY-DT.us_locals1"
+ ],
+ "NC | CHARLOTTE | FOX - WJZY": [
+  "US_LOCALS1",
+  "WJZY-DT.us_locals1"
+ ],
+ "NC | GREENSBORO-HIGH POINT-WINSTON SALEM | FOX - WGHP": [
+  "US_LOCALS1",
+  "WGHP-DT.us_locals1"
+ ],
+ "NC | RALEIGH-DURHAM-FAYETTEVILLE | FOX - WRAZ": [
+  "US_LOCALS1",
+  "WRAZ-DT.us_locals1"
+ ],
+ "ND | FARGO | FOX - KVRR": [
+  "US_LOCALS1",
+  "KVRR-DT.us_locals1"
+ ],
+ "NFL NETWORK HD": [
+  "US2",
+  "NFL.Network.HD.us2"
+ ],
+ "NFL REDZONE HD": [
+  "US2",
+  "NFL.RedZone.HD.us2"
+ ],
+ "NHL NETWORK HD": [
+  "US2",
+  "NHL.Network.HD.us2"
+ ],
+ "NM | ALBUQUERQUE-SANTA FE | FOX - KRQE": [
+  "US_LOCALS1",
+  "KRQE-DT.us_locals1"
+ ],
  "NOTICIAS | 24H ESPAÑA HD": [
   "ES1",
   "Canal.24.horas.es"
@@ -1686,6 +2738,710 @@
  "NOTICIAS | WEATHER CHANNEL US": [
   "US2",
   "The.Weather.Channel.HD.us2"
+ ],
+ "NV | HENDERSON | FOX - KVVU": [
+  "US_LOCALS1",
+  "KVVU-DT.us_locals1"
+ ],
+ "NV | LAS VEGAS | FOX - KVVU": [
+  "US_LOCALS1",
+  "KVVU-DT.us_locals1"
+ ],
+ "NY | ALBANY-SCHENECTADY-TROY | FOX - WXXA": [
+  "US_LOCALS1",
+  "WXXA-DT.us_locals1"
+ ],
+ "NY | BUFFALO | FOX - WUTV": [
+  "US_LOCALS1",
+  "WUTV-DT.us_locals1"
+ ],
+ "NY | NEW YORK | FOX - 5 WNYW": [
+  "US_LOCALS1",
+  "WNYW-DT.us_locals1"
+ ],
+ "NY | ROCHESTER | FOX - WUHF": [
+  "US_LOCALS1",
+  "WUHF-DT.us_locals1"
+ ],
+ "OH | CINCINNATI | FOX - WXIX": [
+  "US_LOCALS1",
+  "WXIX-DT.us_locals1"
+ ],
+ "OH | CLEVELAND | FOX - WJW": [
+  "US_LOCALS1",
+  "WJW-DT.us_locals1"
+ ],
+ "OH | TOLEDO | FOX - WUPW": [
+  "US_LOCALS1",
+  "WUPW-DT.us_locals1"
+ ],
+ "OH | YOUNGSTOWN | FOX - WYFX": [
+  "US_LOCALS1",
+  "WYFX-LD.us_locals1"
+ ],
+ "OK | OKLAHOMA CITY | FOX - KOKH": [
+  "US_LOCALS1",
+  "KOKH-DT.us_locals1"
+ ],
+ "OK | TULSA | FOX - KOKI": [
+  "US_LOCALS1",
+  "KOKI-DT.us_locals1"
+ ],
+ "OR | EUGENE | FOX - KLSR": [
+  "US_LOCALS1",
+  "KLSR-DT.us_locals1"
+ ],
+ "OR | MEDFORD | FOX - KMVU": [
+  "US_LOCALS1",
+  "KMVU-DT.us_locals1"
+ ],
+ "OR | PORTLAND | FOX - KPTV": [
+  "US_LOCALS1",
+  "KPTV-DT.us_locals1"
+ ],
+ "PA | ERIE | FOX - WFXP": [
+  "US_LOCALS1",
+  "WFXP-DT.us_locals1"
+ ],
+ "PA | Harrisburg | FOX - WPMT": [
+  "US_LOCALS1",
+  "WPMT-DT.us_locals1"
+ ],
+ "PA | JOHNSTOWN | FOX - WWCP": [
+  "US_LOCALS1",
+  "WWCP-DT.us_locals1"
+ ],
+ "PA | PHILADELPHIA | FOX - WTXF": [
+  "US_LOCALS1",
+  "WTXF-DT.us_locals1"
+ ],
+ "PARAMOUNT NETWORK HD": [
+  "US2",
+  "Paramount.Network.HD.us2"
+ ],
+ "RFD TV": [
+  "US2",
+  "RFD.TV.HD.us2"
+ ],
+ "RI | PROVIDENCE | FOX - WNAC": [
+  "US_LOCALS1",
+  "WNAC-DT.us_locals1"
+ ],
+ "SC | ASHEVILLE-GREENVILLE-SPARTANBURG | FOX - WHNS": [
+  "US_LOCALS1",
+  "WHNS-DT.us_locals1"
+ ],
+ "SC | CHARLESTON | FOX - WTAT": [
+  "US_LOCALS1",
+  "WTAT-DT.us_locals1"
+ ],
+ "SC | COLUMBIA | FOX - WACH": [
+  "US_LOCALS1",
+  "WACH-DT.us_locals1"
+ ],
+ "SC | MYRTLE BEACH-FLORENCE | FOX - WFXB": [
+  "US_LOCALS1",
+  "WFXB-DT.us_locals1"
+ ],
+ "SD | SIOUX FALLS | FOX - KTTW": [
+  "US_LOCALS1",
+  "KTTW-DT.us_locals1"
+ ],
+ "SHOWTIME WEST": [
+  "US2",
+  "Paramount+.with.Showtime.HD.(Pacific).us2"
+ ],
+ "SONY MOVIES HD": [
+  "US2",
+  "Sony.Movie.Channel.HD.us2"
+ ],
+ "SPORTS MAN": [
+  "US2",
+  "Sportsman.Channel.us2"
+ ],
+ "SPORTSNET 360": [
+  "CA2",
+  "Sportsnet.360.HD.ca2"
+ ],
+ "SPORTSNET DODGERS": [
+  "US2",
+  "Spectrum.SportsNet.LA.Dodgers.HD.us2"
+ ],
+ "SPORTSNET EAST": [
+  "CA2",
+  "Sportsnet.East.ca2"
+ ],
+ "SPORTSNET LAKERS": [
+  "US2",
+  "Spectrum.SportsNet.Lakers.HD.us2"
+ ],
+ "STARZ PACK | STARZ CINEMA WEST": [
+  "US2",
+  "Starz.Cinema.HD.us2"
+ ],
+ "STARZ PACK | STARZ COMEDY WEST": [
+  "US2",
+  "Starz.Comedy.HD.us2"
+ ],
+ "STARZ PACK | STARZ EDGE WEST": [
+  "US2",
+  "Starz.Edge.HD.us2"
+ ],
+ "STARZ PACK | STARZENCORE ACTION WEST": [
+  "US2",
+  "Starz.Encore.Action.HD.us2"
+ ],
+ "STARZ PACK | STARZENCORE BLACK WEST": [
+  "US2",
+  "Starz.Encore.Black.us2"
+ ],
+ "STARZ PACK | STARZENCORE CLASSIC WEST": [
+  "US2",
+  "Starz.Encore.Classic.us2"
+ ],
+ "STARZ PACK | STARZENCORE FAMILY WEST": [
+  "US2",
+  "Starz.Encore.Family.SD.us2"
+ ],
+ "STARZ PACK | STARZENCORE SUSPENSE WEST": [
+  "US2",
+  "Starz.Encore.Suspense.us2"
+ ],
+ "STARZ PACK | STARZENCORE WESTERN WEST": [
+  "US2",
+  "Starz.Encore.Westerns.(Pacific).us2"
+ ],
+ "STARZ PACK | STARZINBLACK WEST": [
+  "US2",
+  "Starz.in.Black.HD.us2"
+ ],
+ "STARZ PACK | Starz Encore Westerns": [
+  "US2",
+  "Starz.Encore.Westerns.SD.us2"
+ ],
+ "STARZ PACK | Starz In Black": [
+  "US2",
+  "Starz.in.Black.HD.us2"
+ ],
+ "STARZ PACK | US: STARZ CINEMA": [
+  "US2",
+  "Starz.Cinema.HD.us2"
+ ],
+ "STARZ PACK | US: STARZ COMEDY": [
+  "US2",
+  "Starz.Comedy.HD.us2"
+ ],
+ "STARZ PACK | US: STARZ EAST": [
+  "US2",
+  "Starz.HD.us2"
+ ],
+ "STARZ PACK | US: STARZ EDGE": [
+  "US2",
+  "Starz.Edge.HD.us2"
+ ],
+ "STARZ PACK | US: STARZ IN BLACK": [
+  "US2",
+  "Starz.in.Black.HD.us2"
+ ],
+ "STARZ PACK | US: STARZ KIDS & FAMILY": [
+  "US2",
+  "Starz.Kids.HD.us2"
+ ],
+ "STARZ PACK | US: STARZ WEST": [
+  "US2",
+  "Starz.HD.(Pacific).us2"
+ ],
+ "STARZ PACK | US: STARZENCORE ACTION": [
+  "US2",
+  "Starz.Encore.Action.HD.us2"
+ ],
+ "STARZ PACK | US: STARZENCORE CLASSIC": [
+  "US2",
+  "Starz.Encore.Classic.us2"
+ ],
+ "STARZ PACK | US: STARZENCORE EAST": [
+  "US2",
+  "Starz.Encore.HD.us2"
+ ],
+ "STARZ PACK | US: STARZENCORE FAMILY": [
+  "US2",
+  "Starz.Encore.Family.SD.us2"
+ ],
+ "STARZ PACK | US: STARZENCORE SUSPENSE": [
+  "US2",
+  "Starz.Encore.Suspense.us2"
+ ],
+ "STARZ PACK | US: STARZENCORE WEST": [
+  "US2",
+  "Starz.Encore.(Pacific).us2"
+ ],
+ "STARZ PACK | US: STARZENCORE WESTERNS": [
+  "US2",
+  "Starz.Encore.Westerns.SD.us2"
+ ],
+ "SYFY HD": [
+  "US2",
+  "Syfy.HD.us2"
+ ],
+ "TELEMUNDO BOSTON HD": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "TELEMUNDO LOS ANGELES HD": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "TELEMUNDO SACRAMENTO HD": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "TENNIS CHANNEL HD": [
+  "US2",
+  "Tennis.Channel.HD.us2"
+ ],
+ "TLC HD": [
+  "US2",
+  "TLC.HD.(US).us2"
+ ],
+ "TN | KNOXVILLE | FOX - WTNZ": [
+  "US_LOCALS1",
+  "WTNZ-DT.us_locals1"
+ ],
+ "TN | MEMPHIS | FOX - WHBQ": [
+  "US_LOCALS1",
+  "WHBQ-DT.us_locals1"
+ ],
+ "TN | NASHVILLE | FOX - WZTV": [
+  "US_LOCALS1",
+  "WZTV-DT.us_locals1"
+ ],
+ "TN-VA | TRI-CITIES | FOX - WEMT": [
+  "US_LOCALS1",
+  "WEMT-DT.us_locals1"
+ ],
+ "TNT HD": [
+  "US2",
+  "TNT.HD.us2"
+ ],
+ "TRU TV": [
+  "US2",
+  "truTV.HD.us2"
+ ],
+ "TUDN USA HD": [
+  "US2",
+  "TUDN.us2"
+ ],
+ "TX | ABILENE-SWEETWATER | FOX - KXVA": [
+  "US_LOCALS1",
+  "KXVA-DT.us_locals1"
+ ],
+ "TX | AMARILLO | FOX - KCIT": [
+  "US_LOCALS1",
+  "KCIT-DT.us_locals1"
+ ],
+ "TX | AUSTIN | FOX - KTBC": [
+  "US_LOCALS1",
+  "KTBC-DT.us_locals1"
+ ],
+ "TX | CORPUS CHRISTI | FOX - KSCC": [
+  "US_LOCALS1",
+  "KSCC-DT.us_locals1"
+ ],
+ "TX | DALLAS-FORT WORTH | FOX - KDFW": [
+  "US_LOCALS1",
+  "KDFW-DT.us_locals1"
+ ],
+ "TX | EL PASO | FOX - KFOX": [
+  "US_LOCALS1",
+  "KFOX-DT.us_locals1"
+ ],
+ "TX | HARLINGEN-WESLACO-BROWNSVILLE | FOX - KFXV": [
+  "US_LOCALS1",
+  "KFXV-DT.us_locals1"
+ ],
+ "TX | HOUSTON | FOX - KRIV": [
+  "US_LOCALS1",
+  "KRIV-DT.us_locals1"
+ ],
+ "TX | LUBBOCK | FOX - KJTV": [
+  "US_LOCALS1",
+  "KJTV-DT.us_locals1"
+ ],
+ "TX | SAN ANGELO | FOX - KIDY": [
+  "US_LOCALS1",
+  "KIDY-DT.us_locals1"
+ ],
+ "TX | SAN ANTONIO | FOX - KABB": [
+  "US_LOCALS1",
+  "KABB-DT.us_locals1"
+ ],
+ "TX | TYLER-LONGVIEW | FOX - KFXK": [
+  "US_LOCALS1",
+  "KFXK-DT.us_locals1"
+ ],
+ "TX | WACO-TEMPLE-BRYAN | FOX - KWKT": [
+  "US_LOCALS1",
+  "KWKT-DT.us_locals1"
+ ],
+ "UHD |  Azteca 7": [
+  "SV1",
+  "Canal.Azteca.7..(México).sv"
+ ],
+ "UHD |  Univision Network HD": [
+  "CL1",
+  "Canal.Univision.(Chile).cl"
+ ],
+ "UHD | A&E ®": [
+  "MX1",
+  "Canal.A&E.(México).mx"
+ ],
+ "UHD | AMC ®": [
+  "MX1",
+  "Canal.AMC.(México).mx"
+ ],
+ "UHD | ANIMAL PLANET": [
+  "MX1",
+  "Canal.Animal.Planet.(México).mx"
+ ],
+ "UHD | AXN®": [
+  "MX1",
+  "Canal.AXN.(México).mx"
+ ],
+ "UHD | BOOMERANG": [
+  "US2",
+  "Boomerang.us2"
+ ],
+ "UHD | CANAL ONCE": [
+  "US2",
+  "Once.us2"
+ ],
+ "UHD | CARTOON NETWORK ®": [
+  "MX1",
+  "Canal.Cartoon.Network.(México).mx"
+ ],
+ "UHD | CINECANAL ®": [
+  "MX1",
+  "Canal.Cinecanal.(México).mx"
+ ],
+ "UHD | CINEMAX ®": [
+  "MX1",
+  "Canal.Cinemax.(México).mx"
+ ],
+ "UHD | CLARO SPORTS ®": [
+  "MX1",
+  "Claro.Sports.1.mx"
+ ],
+ "UHD | CNN CHILE®": [
+  "CL1",
+  "Canal.CNN.Chile.cl"
+ ],
+ "UHD | COMEDY CENTRAL ®": [
+  "MX1",
+  "Canal.Comedy.Central.(México).mx"
+ ],
+ "UHD | DHE ®": [
+  "CO1",
+  "DHE.HD.co"
+ ],
+ "UHD | DISCOVERY CHANNEL®": [
+  "MX1",
+  "Canal.Discovery.Channel.(México).mx"
+ ],
+ "UHD | DISCOVERY HOME&HEALT ®": [
+  "MX1",
+  "Canal.Discovery.Home.&.Health.(México).mx"
+ ],
+ "UHD | DISCOVERY ID ®": [
+  "MX1",
+  "Canal.Discovery.Kids.(México).mx"
+ ],
+ "UHD | DISCOVERY KIDS ®": [
+  "MX1",
+  "Canal.Discovery.Kids.(México).mx"
+ ],
+ "UHD | DISCOVERY SCIENCE ®": [
+  "MX1",
+  "Canal.Discovery.Science.(Latinoamérica).mx"
+ ],
+ "UHD | DISCOVERY THEATER ®": [
+  "MX1",
+  "Canal.Discovery.Theater.(Latinoamérica).mx"
+ ],
+ "UHD | DISCOVERY TURBO ®": [
+  "MX1",
+  "Canal.Discovery.Turbo.(Latinoamérica).mx"
+ ],
+ "UHD | DISNEY CHANNEL": [
+  "MX1",
+  "Canal.Disney.Channel.(México).mx"
+ ],
+ "UHD | DISNEY XD ®": [
+  "US2",
+  "Disney.XD.HD.us2"
+ ],
+ "UHD | DISTRITO COMEDIA": [
+  "MX1",
+  "Canal.Distrito.Comedia.mx"
+ ],
+ "UHD | E ENTERTAIMENTS ®": [
+  "CO1",
+  "E!.Entertainment.TV.co"
+ ],
+ "UHD | ESPN 2 ®": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "UHD | ESPN 3": [
+  "MX1",
+  "ESPN.3.mx"
+ ],
+ "UHD | ESPN ®": [
+  "CO1",
+  "ESPN.co"
+ ],
+ "UHD | ESTRELLA TV": [
+  "SV1",
+  "Canal.Estrella.TV.sv"
+ ],
+ "UHD | FILMS-ARTS": [
+  "MX1",
+  "Canal.Film.and.Arts.mx"
+ ],
+ "UHD | FOOD NETWORK HQ": [
+  "CO1",
+  "Food.Network.co"
+ ],
+ "UHD | FORO TV": [
+  "MX1",
+  "Canal.Foro.TV.mx"
+ ],
+ "UHD | FOX NEWS UHD ®": [
+  "MX1",
+  "Canal.Fox.News.mx"
+ ],
+ "UHD | FOX SPORTS 1": [
+  "MX1",
+  "Canal.Fox.Sports.(México).mx"
+ ],
+ "UHD | FOX SPORTS 2": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "UHD | FOX SPORTS 3": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "UHD | FOX SPORTS HD": [
+  "MX1",
+  "Canal.Fox.Sports.(México).mx"
+ ],
+ "UHD | FX": [
+  "MX1",
+  "Canal.FX.(México).mx"
+ ],
+ "UHD | FX Movie Channel": [
+  "US2",
+  "FX.Movie.Channel.HD.us2"
+ ],
+ "UHD | GOLDEN PREMIER": [
+  "MX1",
+  "Canal.Golden.Premier.mx"
+ ],
+ "UHD | GOLDEN UHD®": [
+  "MX1",
+  "Canal.Golden.(México).mx"
+ ],
+ "UHD | GOLF CHANNEL ®": [
+  "MX1",
+  "Canal.Golf.Channel.(Latinoamérica).mx"
+ ],
+ "UHD | HBO 2": [
+  "CO1",
+  "HBO.2.co"
+ ],
+ "UHD | HBO 2 ®": [
+  "CO1",
+  "HBO.2.co"
+ ],
+ "UHD | HBO MUNDI": [
+  "MX1",
+  "Canal.HBO.Mundi.mx"
+ ],
+ "UHD | HBO PLUS": [
+  "MX1",
+  "Canal.HBO.Plus.mx"
+ ],
+ "UHD | HBO PLUS 2": [
+  "MX1",
+  "Canal.HBO.Plus.mx"
+ ],
+ "UHD | HBO POP": [
+  "MX1",
+  "Canal.HBO.Pop.mx"
+ ],
+ "UHD | HBO SIGNATURE": [
+  "US2",
+  "HBO.Signature.HD.us2"
+ ],
+ "UHD | HBO UHD": [
+  "MX1",
+  "Canal.HBO.(México).mx"
+ ],
+ "UHD | HBO XTREME ®": [
+  "MX1",
+  "Canal.HBO.Xtreme.mx"
+ ],
+ "UHD | HISTORY  UHD": [
+  "MX1",
+  "Canal.History.(México).mx"
+ ],
+ "UHD | HISTORY 2 ®": [
+  "MX1",
+  "Canal.History.2.(México).mx"
+ ],
+ "UHD | HOLA TV": [
+  "MX1",
+  "Canal.¡HOLA!.TV.mx"
+ ],
+ "UHD | LAS ESTRELLAS": [
+  "AR1",
+  "Canal.Las.Estrellas.(Argentina).ar"
+ ],
+ "UHD | MTV LIVE": [
+  "CO1",
+  "MTV.Live.co"
+ ],
+ "UHD | MTV®": [
+  "MX1",
+  "Canal.MTV.(México).mx"
+ ],
+ "UHD | MÁS CHIC ®": [
+  "CO1",
+  "Mas.Chic.co"
+ ],
+ "UHD | NATGEO®": [
+  "CO1",
+  "NAT.GEO.co"
+ ],
+ "UHD | NICK JR UHD ®": [
+  "MX1",
+  "Canal.Nick.Jr..(México).mx"
+ ],
+ "UHD | NICK ®": [
+  "CO1",
+  "Nick.co"
+ ],
+ "UHD | PARAMOUNT MX": [
+  "MX1",
+  "Canal.Paramount.Channel.(México).mx"
+ ],
+ "UHD | PASIONES ®": [
+  "CO1",
+  "PASIONES.co"
+ ],
+ "UHD | SKY SPORTS UHD ®": [
+  "MX1",
+  "Canal.Sky.Sports.1.(México).mx"
+ ],
+ "UHD | SONY ®": [
+  "MX1",
+  "Canal.Sony.(México).mx"
+ ],
+ "UHD | SPACE ®": [
+  "MX1",
+  "Canal.Space.(México).mx"
+ ],
+ "UHD | STAR CHANNEL UHD": [
+  "MX1",
+  "Canal.Star.Channel.(México).mx"
+ ],
+ "UHD | STAR TVE HD": [
+  "CO1",
+  "Star.TVE.HD.co"
+ ],
+ "UHD | STUDIO UNIVERSAL ®": [
+  "MX1",
+  "Canal.Studio.Universal.(México).mx"
+ ],
+ "UHD | SUNDANCE ®": [
+  "SV1",
+  "Canal.Sundance.TV.(España).sv"
+ ],
+ "UHD | SYFY ®": [
+  "SV1",
+  "Canal.Syfy.(España).sv"
+ ],
+ "UHD | TEEN NICK ®": [
+  "MX1",
+  "Canal.TeenNick.mx"
+ ],
+ "UHD | TELEMUNDO ®": [
+  "MX1",
+  "Canal.Telemundo.(México).mx"
+ ],
+ "UHD | TNT": [
+  "MX1",
+  "Canal.TNT.(México).mx"
+ ],
+ "UHD | TNT SERIES": [
+  "MX1",
+  "Canal.TNT.Series.(México).mx"
+ ],
+ "UHD | TUDN": [
+  "MX1",
+  "Canal.TUDN.(México).mx"
+ ],
+ "UHD | TYC SPORTS ®": [
+  "AR1",
+  "Canal.TyC.Sports.ar"
+ ],
+ "UHD | UNICABLE": [
+  "MX1",
+  "Canal.Unicable.(México).mx"
+ ],
+ "UHD | UNIMAS ®": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "UHD | UNIVERSAL CHANNEL ®": [
+  "MX1",
+  "Canal.Universal.TV.(México).mx"
+ ],
+ "UHD | UNIVERSAL CRIME UHD": [
+  "MX1",
+  "Canal.Universal.Crime.mx"
+ ],
+ "UHD | UNIVERSAL PREMIERE UHD": [
+  "MX1",
+  "Canal.Universal.Premiere.mx"
+ ],
+ "UHD | UNIVERSAL REALITY  UHD": [
+  "MX1",
+  "Canal.Universal.Reality.mx"
+ ],
+ "UHD | VH1 ®": [
+  "MX1",
+  "Canal.VH1.HD.(Latinoamérica).mx"
+ ],
+ "UHD | WARNER ®": [
+  "MX1",
+  "Canal.Warner.TV.(México).mx"
+ ],
+ "UHD | WIN SPORTS ®": [
+  "CO1",
+  "Win.Sports.co"
+ ],
+ "UNIMAS HD": [
+  "US2",
+  "UniMas.us2"
+ ],
+ "UNIMAS SACRAMENTO HD": [
+  "US2",
+  "UniMas.HD.(Pacific).us2"
+ ],
+ "US CBS 62 (WWJ) Detroit": [
+  "US_LOCALS1",
+  "WWJ-DT.us_locals1"
  ],
  "US LAT |  UNIVISION 41 NEW YORK": [
   "US2",
@@ -2087,9 +3843,529 @@
   "US2",
   "Univision.Network.(Pacific).us2"
  ],
+ "US | 5 STAR MAX": [
+  "US2",
+  "5.StarMAX.HD.East.us2"
+ ],
+ "US | A&E UHD (D)": [
+  "US2",
+  "A.and.E.HD.East.us2"
+ ],
+ "US | AMC HD East (D)": [
+  "US2",
+  "AMC.HD.us2"
+ ],
+ "US | AMC HD West (D)": [
+  "US2",
+  "AMC.HD.us2"
+ ],
+ "US | AMC+ HD (D)": [
+  "US2",
+  "AMC+.us2"
+ ],
+ "US | AMG TV": [
+  "US2",
+  "AMG.TV.us2"
+ ],
+ "US | AWE HD": [
+  "US2",
+  "AWE.A.Wealth.of.Entertainment.HD.us2"
+ ],
+ "US | AXS HD (D)": [
+  "US2",
+  "AXS.TV.us2"
+ ],
+ "US | Accuweather HD": [
+  "US2",
+  "AccuWeather.HD.us2"
+ ],
+ "US | American Heroes Channel HD (D)": [
+  "US2",
+  "American.Heroes.Channel.HD.us2"
+ ],
+ "US | Antenna TV HD": [
+  "US2",
+  "Antenna.TV.us2"
+ ],
+ "US | Aspire HD (D)": [
+  "US2",
+  "ASPiRE.HD.us2"
+ ],
+ "US | BET East HD": [
+  "US2",
+  "BET.HD.us2"
+ ],
+ "US | BET Soul (D)": [
+  "US2",
+  "BET.Soul.us2"
+ ],
+ "US | Bet Her East HD": [
+  "US2",
+  "BET.Her.us2"
+ ],
+ "US | Bet Her West HD": [
+  "US2",
+  "BET.Her.us2"
+ ],
+ "US | Bet Jams": [
+  "US2",
+  "BET.Jams.us2"
+ ],
+ "US | Bet West HD (D)": [
+  "US2",
+  "BET.HD.(Pacific).us2"
+ ],
+ "US | Bounce TV HD (D)": [
+  "US2",
+  "Bounce.TV.us2"
+ ],
+ "US | Bravo East HD (D)": [
+  "US2",
+  "Bravo.HD.us2"
+ ],
+ "US | Bravo West HD": [
+  "US2",
+  "Bravo.(Pacific).us2"
+ ],
+ "US | CMT East HD (D)": [
+  "US2",
+  "CMT.HD.us2"
+ ],
+ "US | CNBC UHD": [
+  "US2",
+  "CNBC.HD.us2"
+ ],
+ "US | CNBC World HD": [
+  "US2",
+  "CNBC.World.us2"
+ ],
+ "US | Cartoon Network West UHD": [
+  "US2",
+  "Cartoon.Network.(Pacific).us2"
+ ],
+ "US | Charge! HD (D)": [
+  "US2",
+  "CHARGE!.us2"
+ ],
+ "US | Cheddar Business HD (D)": [
+  "US2",
+  "Cheddar.us2"
+ ],
+ "US | Circle HD (D)": [
+  "US2",
+  "Circle.Country.us2"
+ ],
+ "US | Cleo TV": [
+  "US2",
+  "Cleo.TV.HD.us2"
+ ],
+ "US | Comedy Central East HD (D)": [
+  "US2",
+  "Comedy.Central.HD.us2"
+ ],
+ "US | Comedy Central West HD (D)": [
+  "US2",
+  "Comedy.Central.HD.(Pacific).us2"
+ ],
+ "US | Comedy TV HD": [
+  "US2",
+  "Comedy.TV.HD.us2"
+ ],
+ "US | Comet HD (D)": [
+  "US2",
+  "Comet.us2"
+ ],
+ "US | Cooking Channel": [
+  "US2",
+  "Cooking.Channel.HD.us2"
+ ],
+ "US | Cooking Channel HD (D)": [
+  "US2",
+  "Cooking.Channel.HD.us2"
+ ],
+ "US | Cottage Life HD (D)": [
+  "CA2",
+  "Cottage.Life.ca2"
+ ],
+ "US | Court TV UHD": [
+  "US2",
+  "Court.TV.us2"
+ ],
+ "US | Cozi TV HD": [
+  "US2",
+  "COZI.TV.us2"
+ ],
+ "US | DIY Network": [
+  "US2",
+  "Magnolia.Network.HD.us2"
+ ],
+ "US | DIY Network HD": [
+  "US2",
+  "Magnolia.Network.HD.us2"
+ ],
+ "US | Destination America HD": [
+  "US2",
+  "Destination.America.HD.us2"
+ ],
+ "US | Dog TV HD (D)": [
+  "US2",
+  "DOG.TV.us2"
+ ],
+ "US | E! Entertainment East HD (D)": [
+  "US2",
+  "E!.Entertainment.Television.HD.us2"
+ ],
+ "US | E! Entertainment West HD (D)": [
+  "US2",
+  "E!.Entertainment.Television.HD.us2"
+ ],
+ "US | El Rey HD (D)": [
+  "US2",
+  "El.Rey.Network.us2"
+ ],
+ "US | FXX": [
+  "US2",
+  "FXX.HD.us2"
+ ],
+ "US | FYI HD (D)": [
+  "US2",
+  "FYI.Channel.HD.us2"
+ ],
+ "US | Food Network East HD": [
+  "US2",
+  "Food.Network.HD.us2"
+ ],
+ "US | Food Network West HD": [
+  "US2",
+  "Food.Network.HD.us2"
+ ],
+ "US | Freeform East HD (D)": [
+  "US2",
+  "Freeform.HD.us2"
+ ],
+ "US | Freeform West HD": [
+  "US2",
+  "Freeform.HD.us2"
+ ],
+ "US | Fuse": [
+  "US2",
+  "Fuse.HD.us2"
+ ],
+ "US | Fuse HD (D)": [
+  "US2",
+  "Fuse.HD.us2"
+ ],
+ "US | Game Show Network HD (D)": [
+  "US2",
+  "Game.Show.Network.HD.us2"
+ ],
+ "US | Game+ HD (D)": [
+  "US2",
+  "Game+.Game.Plus.HD.us2"
+ ],
+ "US | Great American Living HD (D)": [
+  "US2",
+  "Great.American.Family.HD.us2"
+ ],
+ "US | Grit HD (D)": [
+  "US2",
+  "Grit.us2"
+ ],
+ "US | HGTV East HD (D)": [
+  "US2",
+  "Home.and.Garden.Television.HD.us2"
+ ],
+ "US | HLN HD": [
+  "US2",
+  "HLN.HD.us2"
+ ],
+ "US | HSN": [
+  "US2",
+  "HSN.Home.Shopping.Network.HD.us2"
+ ],
+ "US | HSN2 (D)": [
+  "US2",
+  "HSN.Home.Shopping.Network.HD.us2"
+ ],
+ "US | Haunt TV HD (D)": [
+  "US2",
+  "Haunt.TV.us2"
+ ],
+ "US | IFC HD": [
+  "US2",
+  "IFC.HD.us2"
+ ],
+ "US | ION TV UHD (D)": [
+  "US2",
+  "ION.Television.HD.us2"
+ ],
+ "US | Inspire HD (D)": [
+  "US2",
+  "INSP.HD.us2"
+ ],
+ "US | Justice Central HD+": [
+  "US2",
+  "Justice.Central.HD.us2"
+ ],
+ "US | LAFF TV HD (D)": [
+  "US2",
+  "Laff.us2"
+ ],
+ "US | Law and Crime HD (D)": [
+  "US2",
+  "Law.and.Crime.us2"
+ ],
+ "US | Lifetime HD (D)": [
+  "US2",
+  "Lifetime.HD.us2"
+ ],
+ "US | Lifetime Real Women": [
+  "US2",
+  "Lifetime.Real.Women.us2"
+ ],
+ "US | Logo TV": [
+  "US2",
+  "Logo.us2"
+ ],
+ "US | MSNBC HD (D)": [
+  "US2",
+  "MSNBC.HD.us2"
+ ],
+ "US | MSNOW": [
+  "US2",
+  "MS.NOW.HD.us2"
+ ],
+ "US | MTV 2 HD": [
+  "US2",
+  "MTV2:.Music.Television.HD.us2"
+ ],
+ "US | MTV Classic HD": [
+  "US2",
+  "MTV.Classic.us2"
+ ],
+ "US | MTV East UHD": [
+  "US2",
+  "MTV.-.Music.Television.HD.us2"
+ ],
+ "US | MTV Live HD": [
+  "US2",
+  "MTVLIVE.us2"
+ ],
+ "US | MTV West UHD": [
+  "US2",
+  "MTV.-.Music.Television.HD.(Pacific).us2"
+ ],
+ "US | Magnolia Network HD (D)": [
+  "US2",
+  "Magnolia.Network.HD.us2"
+ ],
+ "US | Me TV HD": [
+  "US2",
+  "Me.TV.Network.us2"
+ ],
+ "US | MotorTrend UHD (D)": [
+  "US2",
+  "MOTORTREND.HD.us2"
+ ],
+ "US | NBC Universo East HD": [
+  "US2",
+  "UNIVERSO.HD.us2"
+ ],
+ "US | NEWSY HD (D)": [
+  "US2",
+  "Newsy.us2"
+ ],
+ "US | Nasa TV": [
+  "US2",
+  "NASA.Plus.us2"
+ ],
+ "US | OWN UHD": [
+  "US2",
+  "Oprah.Winfrey.Network.HD.us2"
+ ],
+ "US | Outside TV UHD": [
+  "US2",
+  "Outside.Television.HD.us2"
+ ],
+ "US | Paramount Network HD (D)": [
+  "US2",
+  "Paramount.Network.HD.us2"
+ ],
+ "US | Paramount Network UHD (D)": [
+  "US2",
+  "Paramount.Network.HD.us2"
+ ],
+ "US | PixL": [
+  "US2",
+  "PixL.us2"
+ ],
+ "US | Pop TV HD": [
+  "US2",
+  "POP.HD.us2"
+ ],
+ "US | QVC TV HD": [
+  "US2",
+  "QVC.HD.us2"
+ ],
+ "US | QVC2 HD": [
+  "US2",
+  "QVC2.us2"
+ ],
+ "US | REELZ HD": [
+  "US2",
+  "ReelzChannel.HD.us2"
+ ],
+ "US | RFD TV HD (D)": [
+  "US2",
+  "RFD.TV.HD.us2"
+ ],
+ "US | Retro TV HD": [
+  "US2",
+  "RETRO.us2"
+ ],
+ "US | Revolt HD": [
+  "US2",
+  "Revolt.HD.us2"
+ ],
+ "US | SWX Right Now (KULR)": [
+  "US_LOCALS1",
+  "KULR-DT.us_locals1"
+ ],
+ "US | SYFY (East)": [
+  "US2",
+  "Syfy.HD.us2"
+ ],
+ "US | Science Channel UHD(D)": [
+  "US2",
+  "Science.Channel.HD.us2"
+ ],
+ "US | Smithsonian East HD": [
+  "US2",
+  "Smithsonian.HD.Network.us2"
+ ],
+ "US | Smithsonian West HD (D)": [
+  "US2",
+  "Smithsonian.HD.Network.us2"
+ ],
+ "US | Sportsman Channel HD (D)": [
+  "US2",
+  "Sportsman.Channel.us2"
+ ],
+ "US | Start TV HD (D)": [
+  "US2",
+  "Start.TV.Network.us2"
+ ],
+ "US | Stories By AMC": [
+  "US2",
+  "Stories.by.AMC.us2"
+ ],
+ "US | Sundance HD": [
+  "US2",
+  "SundanceTV.HD.us2"
+ ],
+ "US | SyFy West HD (D)": [
+  "US2",
+  "Syfy.HD.(Pacific).us2"
+ ],
+ "US | Syfy East UHD (D)": [
+  "US2",
+  "Syfy.HD.us2"
+ ],
+ "US | TBS East UHD (D)": [
+  "US2",
+  "TBS.HD.us2"
+ ],
+ "US | TBS West UHD (D)": [
+  "US2",
+  "TBS.HD.(Pacific).us2"
+ ],
+ "US | TCM HD (D)": [
+  "US2",
+  "Turner.Classic.Movies.HD.us2"
+ ],
+ "US | TLC (West)": [
+  "US2",
+  "TLC.HD.(Pacific).us2"
+ ],
+ "US | TLC East HD": [
+  "US2",
+  "TLC.HD.(US).us2"
+ ],
+ "US | TNT HD (D)": [
+  "US2",
+  "TNT.HD.us2"
+ ],
+ "US | TV Land East HD (D)": [
+  "US2",
+  "TV.Land.HD.us2"
+ ],
+ "US | TV Land West HD (D)": [
+  "US2",
+  "TV.Land.HD.(Pacific).us2"
+ ],
+ "US | TV One HD": [
+  "US2",
+  "TV.ONE.HD.us2"
+ ],
  "US | Tastemade Home": [
   "US2",
   "Tastemade.Home.us2"
+ ],
+ "US | The Cowboy Channel": [
+  "US2",
+  "The.Cowboy.Channel.us2"
+ ],
+ "US | The Cowboy Channel HD": [
+  "US2",
+  "The.Cowboy.Channel.us2"
+ ],
+ "US | Travel Channel (East)": [
+  "US2",
+  "The.Travel.Channel.HD.us2"
+ ],
+ "US | Travel Channel HD (D)": [
+  "US2",
+  "The.Travel.Channel.HD.us2"
+ ],
+ "US | TruTV UHD (D)": [
+  "US2",
+  "truTV.HD.us2"
+ ],
+ "US | UP TV": [
+  "US2",
+  "UPtv.us2"
+ ],
+ "US | USA Network East HD": [
+  "US2",
+  "and.TV.us2"
+ ],
+ "US | USA Network West HD": [
+  "US2",
+  "USA.Network.HD.(Pacific).us2"
+ ],
+ "US | VH1 East HD": [
+  "US2",
+  "VH1.HD.us2"
+ ],
+ "US | VH1 West HD": [
+  "US2",
+  "VH1.HD.us2"
+ ],
+ "US | VICE TV HD": [
+  "US2",
+  "Vice.HD.us2"
+ ],
+ "US | Viceland UHD": [
+  "US2",
+  "Vice.HD.us2"
+ ],
+ "US | We TV HD": [
+  "US2",
+  "WE.tv.HD.us2"
+ ],
+ "US: Hallmark Movies HD": [
+  "US2",
+  "Hallmark.Mystery.HD.us2"
  ],
  "USA ACC Network": [
   "US2",
@@ -3023,6 +5299,10 @@
   "US2",
   "beIN.Sports.USA.HD.us2"
  ],
+ "USA | 5 STAR MAX HD": [
+  "US2",
+  "5.StarMAX.HD.East.us2"
+ ],
  "USA | A&E HD": [
   "US2",
   "A.and.E.HD.East.us2"
@@ -3031,9 +5311,17 @@
   "US2",
   "AccuWeather.HD.us2"
  ],
+ "USA | AMC HD": [
+  "US2",
+  "AMC.HD.us2"
+ ],
  "USA | ANIMAL PLANET HD": [
   "US2",
   "Animal.Planet.HD.us2"
+ ],
+ "USA | BRAVO HD": [
+  "US2",
+  "Bravo.HD.us2"
  ],
  "USA | COMEDY CENTRAL HD": [
   "US2",
@@ -3043,6 +5331,10 @@
   "US2",
   "Cooking.Channel.HD.us2"
  ],
+ "USA | DESTINATION HD": [
+  "US2",
+  "Destination.America.HD.us2"
+ ],
  "USA | DISCOVERY HD": [
   "US2",
   "Discovery.Channel.HD.us2"
@@ -3050,6 +5342,46 @@
  "USA | FOX BUSINESS HD": [
   "US2",
   "Fox.Business.HD.us2"
+ ],
+ "USA | FUSE HD": [
+  "US2",
+  "Fuse.HD.us2"
+ ],
+ "USA | FX HD": [
+  "US2",
+  "FX.HD.us2"
+ ],
+ "USA | FXX HD": [
+  "US2",
+  "FXX.HD.us2"
+ ],
+ "USA | HBO 2 WEST HD": [
+  "US2",
+  "HBO2.HD.(Pacific).us2"
+ ],
+ "USA | HBO COMEDY HD": [
+  "US2",
+  "HBO.Comedy.HD.us2"
+ ],
+ "USA | HBO EAST 2 HD": [
+  "US2",
+  "HBO2.HD.us2"
+ ],
+ "USA | HBO EAST HD": [
+  "US2",
+  "HBO.East.us2"
+ ],
+ "USA | HBO SIGNATURE HD": [
+  "US2",
+  "HBO.Signature.HD.us2"
+ ],
+ "USA | HBO WEST HD": [
+  "US2",
+  "HBO.(Pacific).us2"
+ ],
+ "USA | HBO ZONE HD": [
+  "US2",
+  "HBO.Zone.HD.us2"
  ],
  "USA | HGTV HD": [
   "US2",
@@ -3067,9 +5399,17 @@
   "US2",
   "Investigation.Discovery.HD.us2"
  ],
+ "USA | KTLA 5 Los Angeles": [
+  "US_LOCALS1",
+  "KTLA-DT.us_locals1"
+ ],
  "USA | LIFETIME HD": [
   "US2",
   "Lifetime.HD.us2"
+ ],
+ "USA | MASN 2 HD": [
+  "US2",
+  "MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2"
  ],
  "USA | MOTOR TREND HD": [
   "US2",
@@ -3087,13 +5427,77 @@
   "US2",
   "NBC.East.Stream.us2"
  ],
+ "USA | NEWSMAX HD": [
+  "US2",
+  "Newsmax.TV.HD.us2"
+ ],
  "USA | OUTDOOR CHANNEL HD": [
   "US2",
   "Outdoor.Channel.HD.us2"
  ],
+ "USA | OXYGEN HD": [
+  "US2",
+  "Oxygen.True.Crime.HD.us2"
+ ],
+ "USA | PARAMOUNT NETWORK HD": [
+  "US2",
+  "Paramount.Network.HD.us2"
+ ],
  "USA | SCI HD": [
   "US2",
   "Science.Channel.HD.us2"
+ ],
+ "USA | SHOWTIME 2 HD": [
+  "US2",
+  "Showtime.2.HD.us2"
+ ],
+ "USA | SHOWTIME FAMILY ZONE HD": [
+  "US2",
+  "Showtime.Familyzone.HD.us2"
+ ],
+ "USA | SHOWTIME NEXT HD": [
+  "US2",
+  "Showtime.Next.HD.us2"
+ ],
+ "USA | SONY MOVIES HD": [
+  "US2",
+  "Sony.Movie.Channel.HD.us2"
+ ],
+ "USA | STARZ CINEMA HD": [
+  "US2",
+  "Starz.Cinema.HD.us2"
+ ],
+ "USA | STARZ COMEDY HD": [
+  "US2",
+  "Starz.Comedy.HD.us2"
+ ],
+ "USA | STARZ ENCORE ACTION HD": [
+  "US2",
+  "Starz.Encore.Action.HD.us2"
+ ],
+ "USA | STARZ ENCORE HD": [
+  "US2",
+  "Starz.Encore.HD.us2"
+ ],
+ "USA | STARZ ENCORE KIDS & FAMILY HD": [
+  "US2",
+  "Starz.Encore.Family.SD.us2"
+ ],
+ "USA | STARZ HD": [
+  "US2",
+  "Starz.HD.us2"
+ ],
+ "USA | STARZ WEST HD": [
+  "US2",
+  "Starz.HD.(Pacific).us2"
+ ],
+ "USA | TBS WEST HD": [
+  "US2",
+  "TBS.HD.(Pacific).us2"
+ ],
+ "USA | TCM HD": [
+  "US2",
+  "Turner.Classic.Movies.HD.us2"
  ],
  "USA | THE FIRST HD": [
   "US2",
@@ -3103,9 +5507,701 @@
   "US2",
   "The.Weather.Channel.HD.us2"
  ],
+ "USA | TNT HD": [
+  "US2",
+  "TNT.HD.us2"
+ ],
+ "USA | WCIU Chicago": [
+  "US_LOCALS1",
+  "WCIU-DT.us_locals1"
+ ],
+ "USA | WGN 9 Chicago": [
+  "US_LOCALS1",
+  "WGN-DT.us_locals1"
+ ],
+ "USA | WPWR Chicago": [
+  "US_LOCALS1",
+  "WPWR-DT.us_locals1"
+ ],
+ "USA: COOKING CHANNEL": [
+  "US2",
+  "Cooking.Channel.HD.us2"
+ ],
+ "USA: FOX NEWS": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "USA: FXM": [
+  "US2",
+  "FX.Movie.Channel.HD.us2"
+ ],
  "USA: OVATION": [
   "US2",
   "Ovation.HD.us2"
+ ],
+ "USA: SYFY": [
+  "US2",
+  "Syfy.HD.us2"
+ ],
+ "USA: THE WEATHER CHANNEL": [
+  "US2",
+  "The.Weather.Channel.HD.us2"
+ ],
+ "USA| A&E HD": [
+  "US2",
+  "A.and.E.HD.East.us2"
+ ],
+ "USA| ACC ESPN HD": [
+  "US2",
+  "ACC.Network.us2"
+ ],
+ "USA| AMERICAN KITCHEN HD": [
+  "US2",
+  "America’s.Test.Kitchen.us2"
+ ],
+ "USA| ANIMAL PLANET EAST HD**": [
+  "US2",
+  "Animal.Planet.HD.us2"
+ ],
+ "USA| ANIMAL PLANET HD": [
+  "US2",
+  "Animal.Planet.HD.us2"
+ ],
+ "USA| ANIMAL PLANET PACIFIC HD**": [
+  "US2",
+  "Animal.Planet.HD.(Pacific).us2"
+ ],
+ "USA| AT&T SPORTS NET  SW  HD**": [
+  "US2",
+  "Space.City.Home.Network.HD.us2"
+ ],
+ "USA| BEIN SPORTS 1 HD": [
+  "US2",
+  "beIN.Sports.USA.HD.us2"
+ ],
+ "USA| BIG TEN NETWORK ALTERNATIVO HD**": [
+  "US2",
+  "Big.Ten.Network.Overflow.HD.us2"
+ ],
+ "USA| BIG TEN NETWORK HD**": [
+  "US2",
+  "Big.Ten.Network.HD.us2"
+ ],
+ "USA| BILLAR TV HD": [
+  "US2",
+  "Billiard.TV.us2"
+ ],
+ "USA| BOOMERANG HD**": [
+  "US2",
+  "Boomerang.us2"
+ ],
+ "USA| BRAVO TV HD": [
+  "US2",
+  "Bravo.HD.us2"
+ ],
+ "USA| BRAVO WEST HD**": [
+  "US2",
+  "Bravo.(Pacific).us2"
+ ],
+ "USA| CBS SPORTS NETWORK HD": [
+  "US2",
+  "CBS.Sports.HQ.us2"
+ ],
+ "USA| CINEMAX ACTION MAX EAST": [
+  "US2",
+  "ActionMAX.HD.us2"
+ ],
+ "USA| CINEMAX EAST HD": [
+  "US2",
+  "Cinemax.HD.us2"
+ ],
+ "USA| CINEMAX WEST HD": [
+  "US2",
+  "Cinemax.HD.(Pacific).us2"
+ ],
+ "USA| CIRCLE HD": [
+  "US2",
+  "Circle.Country.us2"
+ ],
+ "USA| COMEDY CENTRAL EAST HD**": [
+  "US2",
+  "Comedy.Central.HD.us2"
+ ],
+ "USA| COMEDY CENTRAL WEST HD**": [
+  "US2",
+  "Comedy.Central.HD.(Pacific).us2"
+ ],
+ "USA| COMET HD": [
+  "US2",
+  "Comet.us2"
+ ],
+ "USA| COOOKING CHANNEL HD": [
+  "US2",
+  "Cooking.Channel.HD.us2"
+ ],
+ "USA| COWBOY CHANNEL HD": [
+  "US2",
+  "The.Cowboy.Channel.us2"
+ ],
+ "USA| DESTINATION  AMERICA HD": [
+  "US2",
+  "Destination.America.HD.us2"
+ ],
+ "USA| DISCOVERY CHANNEL HD": [
+  "US2",
+  "Discovery.Channel.HD.us2"
+ ],
+ "USA| DISCOVERY EAST HD**": [
+  "US2",
+  "Discovery.Channel.HD.us2"
+ ],
+ "USA| DISCOVERY FAMILY HD": [
+  "US2",
+  "Discovery.Family.Channel.HD.us2"
+ ],
+ "USA| DISCOVERY INVESTIGACTION HD": [
+  "US2",
+  "Investigation.Discovery.HD.us2"
+ ],
+ "USA| DISCOVERY INVESTIGATION HD**": [
+  "US2",
+  "Investigation.Discovery.HD.us2"
+ ],
+ "USA| DISCOVERY LIFE HD": [
+  "US2",
+  "Discovery.Life.Channel.us2"
+ ],
+ "USA| DISCOVERY LIFE HD**": [
+  "US2",
+  "Discovery.Life.Channel.us2"
+ ],
+ "USA| DISCOVERY SCIENCE HD": [
+  "US2",
+  "Science.Channel.HD.us2"
+ ],
+ "USA| DISCOVERY WEST HD**": [
+  "US2",
+  "The.Discovery.Channel.HD.(Pacific).us2"
+ ],
+ "USA| E! ENTERTAINMENT HD": [
+  "US2",
+  "E!.Entertainment.Television.HD.us2"
+ ],
+ "USA| ESPN  SEC NETWORK HD": [
+  "US2",
+  "SEC.Network.HD.us2"
+ ],
+ "USA| ESPN 2 HD": [
+  "US2",
+  "ESPN2.HD.us2"
+ ],
+ "USA| ESPN HD": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "USA| ESPN NEWS HD": [
+  "US2",
+  "ESPNEWS.HD.us2"
+ ],
+ "USA| ESPN U HD": [
+  "US2",
+  "ESPNU.HD.us2"
+ ],
+ "USA| FOOD NETWORK HD": [
+  "US2",
+  "Food.Network.HD.us2"
+ ],
+ "USA| FOOD NETWORK WEST HD**": [
+  "US2",
+  "Food.Network.HD.us2"
+ ],
+ "USA| FOX DEPORTES": [
+  "US2",
+  "Fox.Deportes.HD.us2"
+ ],
+ "USA| FOX SOCCER PLUS": [
+  "US2",
+  "Fox.Soccer.Plus.HD.us2"
+ ],
+ "USA| FOX SOCCER PLUS  HD**": [
+  "US2",
+  "Fox.Soccer.Plus.HD.us2"
+ ],
+ "USA| FOX SPORTS 1": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "USA| FOX SPORTS 1 HD**": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "USA| FOX SPORTS 2": [
+  "US2",
+  "FS2.HD.us2"
+ ],
+ "USA| FOX SPORTS 2 HD**": [
+  "US2",
+  "FS2.HD.us2"
+ ],
+ "USA| FREEFORM HD": [
+  "US2",
+  "Freeform.HD.us2"
+ ],
+ "USA| FX  HD": [
+  "US2",
+  "FX.HD.us2"
+ ],
+ "USA| FXM HD": [
+  "US2",
+  "FX.Movie.Channel.HD.us2"
+ ],
+ "USA| FXX HD": [
+  "US2",
+  "FXX.HD.us2"
+ ],
+ "USA| FYI HD": [
+  "US2",
+  "FYI.Channel.HD.us2"
+ ],
+ "USA| GAME SHOW NETWORT HD": [
+  "US2",
+  "Game.Show.Network.HD.us2"
+ ],
+ "USA| GOLF HD": [
+  "US2",
+  "Golf.Channel.HD.us2"
+ ],
+ "USA| HALMAR DRAMA HD**": [
+  "US2",
+  "Hallmark.Family.us2"
+ ],
+ "USA| HALMARK DRAMA HD": [
+  "US2",
+  "Hallmark.Family.us2"
+ ],
+ "USA| HALMARK MOVIE HD": [
+  "US2",
+  "Hallmark.Mystery.HD.us2"
+ ],
+ "USA| HALMMAR  HD": [
+  "US2",
+  "Hallmark.Channel.HD.us2"
+ ],
+ "USA| HALMMARK MOVIES & MYSTERY HD": [
+  "US2",
+  "Hallmark.Mystery.HD.us2"
+ ],
+ "USA| HBO HD": [
+  "US2",
+  "HBO.East.us2"
+ ],
+ "USA| HGTV PACIFICO HD": [
+  "US2",
+  "Home.and.Garden.Television.HD.(Pacific).us2"
+ ],
+ "USA| HISTORY HD": [
+  "US2",
+  "History.HD.us2"
+ ],
+ "USA| ION TELEVISION HD": [
+  "US2",
+  "ION.Television.HD.us2"
+ ],
+ "USA| LAW & CRIME HD": [
+  "US2",
+  "Law.and.Crime.us2"
+ ],
+ "USA| LIFETIME HD": [
+  "US2",
+  "Lifetime.HD.us2"
+ ],
+ "USA| MARQUEE SPORTS NETWORK HD": [
+  "US2",
+  "Marquee.Sports.Network.HD.us2"
+ ],
+ "USA| MASN  HD": [
+  "US2",
+  "MASN.-.Mid.Atlantic.Sports.Network.us2"
+ ],
+ "USA| MASN 2 HD": [
+  "US2",
+  "MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2"
+ ],
+ "USA| MLB CHANNEL HD": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "USA| MLB NETWORK HD": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "USA| MLB SD": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "USA| MOTOR TREND HD": [
+  "US2",
+  "MOTORTREND.HD.us2"
+ ],
+ "USA| MSG 2 + HD**": [
+  "US2",
+  "MSG.Plus.us2"
+ ],
+ "USA| MSG 3 HD**": [
+  "US2",
+  "MSG.National.us2"
+ ],
+ "USA| MSG HD**": [
+  "US2",
+  "MSG.National.us2"
+ ],
+ "USA| MSG PLUS HD**": [
+  "US2",
+  "MSG.Plus.us2"
+ ],
+ "USA| MY NETWORT TV  MIAMI HD**": [
+  "US_LOCALS1",
+  "WBFS-DT.us_locals1"
+ ],
+ "USA| NAT GEO WILD HD": [
+  "US2",
+  "National.Geographic.Wild.HD.us2"
+ ],
+ "USA| NBC SPORTS BAY AREA HD": [
+  "US2",
+  "NBC.Sports.Bay.Area.HD.us2"
+ ],
+ "USA| NBC SPORTS BAY AREA PLUS HD": [
+  "US2",
+  "NBC.Sports.Bay.Area.Plus.us2"
+ ],
+ "USA| NBC SPORTS BOSTON HD": [
+  "US2",
+  "NBC.Sports.Boston.HD.us2"
+ ],
+ "USA| NBC SPORTS CALIFORNIA HD": [
+  "US2",
+  "NBC.Sports.California.SAT.us2"
+ ],
+ "USA| NBC SPORTS CHICAGO HD": [
+  "US2",
+  "CHSN.Chicago.Sports.Network.us2"
+ ],
+ "USA| NBC SPORTS CHICAGO PLUS": [
+  "US2",
+  "CHSN.Plus.us2"
+ ],
+ "USA| NBC SPORTS PHILLY HD": [
+  "US2",
+  "NBC.Sports.Philadelphia.HD.us2"
+ ],
+ "USA| NBC SPORTS PHILLY PLUS HD": [
+  "US2",
+  "NBC.Sports.Philadelphia.Plus.us2"
+ ],
+ "USA| NBC SPORTS WASHINGTON HD": [
+  "US2",
+  "Monumental.Sports.Network.HD.us2"
+ ],
+ "USA| NBC SPORTS WASHINGTON PLUS HD": [
+  "US2",
+  "Monumental.Sports.Network.2.HD.us2"
+ ],
+ "USA| NESN + HD**": [
+  "US2",
+  "NESN+.New.England.Sports.Network.Plus.us2"
+ ],
+ "USA| NESN HD": [
+  "US2",
+  "New.England.Sports.Network.HD.us2"
+ ],
+ "USA| NESN PLUS HD": [
+  "US2",
+  "NESN+.New.England.Sports.Network.Plus.us2"
+ ],
+ "USA| NESN SPORTS HD": [
+  "US2",
+  "New.England.Sports.Network.HD.us2"
+ ],
+ "USA| NESN SPORTS HD**": [
+  "US2",
+  "New.England.Sports.Network.HD.us2"
+ ],
+ "USA| NFL NETWORK HD": [
+  "US2",
+  "NFL.Network.HD.us2"
+ ],
+ "USA| NFL REDZONE HD**": [
+  "US2",
+  "NFL.RedZone.HD.us2"
+ ],
+ "USA| NHL NETWORK HD": [
+  "US2",
+  "NHL.Network.HD.us2"
+ ],
+ "USA| OUTDOOR CHANNEL HD": [
+  "US2",
+  "Outdoor.Channel.HD.us2"
+ ],
+ "USA| OWN CHANNEL HD": [
+  "US2",
+  "Oprah.Winfrey.Network.HD.us2"
+ ],
+ "USA| OXIGEN HD**": [
+  "US2",
+  "Oxygen.True.Crime.HD.us2"
+ ],
+ "USA| SEC NETWORK HD": [
+  "US2",
+  "SEC.Network.HD.us2"
+ ],
+ "USA| SHOTIME 2 HD": [
+  "US2",
+  "Showtime.2.HD.us2"
+ ],
+ "USA| SHOTIME KIDS & FAMILY HD": [
+  "US2",
+  "Showtime.Familyzone.HD.us2"
+ ],
+ "USA| SHOTIME NEXT HD": [
+  "US2",
+  "Showtime.Next.HD.us2"
+ ],
+ "USA| SHOTIME SHOWCASE": [
+  "US2",
+  "Showtime.Showcase.HD.us2"
+ ],
+ "USA| SHOTIME WOMAN HD": [
+  "US2",
+  "Showtime.Women.HD.us2"
+ ],
+ "USA| SHOWTIME 2 HD": [
+  "US2",
+  "Showtime.2.HD.us2"
+ ],
+ "USA| SHOWTIME EAST HD": [
+  "US2",
+  "Paramount+.with.Showtime.HD.us2"
+ ],
+ "USA| SHOWTIME HD": [
+  "US2",
+  "Paramount+.with.Showtime.HD.us2"
+ ],
+ "USA| SHOWTIME NEXT HD": [
+  "US2",
+  "Showtime.Next.HD.us2"
+ ],
+ "USA| SHOWTIME PACIFICO HD": [
+  "US2",
+  "Paramount+.with.Showtime.HD.(Pacific).us2"
+ ],
+ "USA| SHOWTIME SHOWCASE HD": [
+  "US2",
+  "Showtime.Showcase.HD.us2"
+ ],
+ "USA| SHOWTIME WOMAN HD": [
+  "US2",
+  "Showtime.Women.HD.us2"
+ ],
+ "USA| SHOWTIME XTREME HD": [
+  "US2",
+  "Showtime.Extreme.HD.us2"
+ ],
+ "USA| SNY HD": [
+  "US2",
+  "SNY.SportsNet.New.York.HD.us2"
+ ],
+ "USA| SONY MOVIE CHANNEL HD": [
+  "US2",
+  "Sony.Movie.Channel.HD.us2"
+ ],
+ "USA| SPECTRUM SPORTS NET HD": [
+  "US2",
+  "Spectrum.SportsNet.Lakers.HD.us2"
+ ],
+ "USA| SYFY WEST HD**": [
+  "US2",
+  "Syfy.HD.(Pacific).us2"
+ ],
+ "USA| ShoxBet": [
+  "US2",
+  "SHO.x.BET.HD.us2"
+ ],
+ "USA| Starz West": [
+  "US2",
+  "Starz.HD.(Pacific).us2"
+ ],
+ "USA| Starz in Black East": [
+  "US2",
+  "Starz.in.Black.HD.us2"
+ ],
+ "USA| TBS HD": [
+  "US2",
+  "TBS.HD.us2"
+ ],
+ "USA| TBS PACIFICO HD": [
+  "US2",
+  "TBS.HD.(Pacific).us2"
+ ],
+ "USA| TENNIS CHANNEL HD**": [
+  "US2",
+  "Tennis.Channel.HD.us2"
+ ],
+ "USA| THE BLAZE HD": [
+  "US2",
+  "Blaze.TV.us2"
+ ],
+ "USA| THE FIGHT NETWORK HD": [
+  "US2",
+  "Fight.Network.us2"
+ ],
+ "USA| TLC FHD": [
+  "US2",
+  "TLC.HD.(US).us2"
+ ],
+ "USA| TLC HD": [
+  "US2",
+  "TLC.HD.(US).us2"
+ ],
+ "USA| TLC PACIFICO HD": [
+  "US2",
+  "TLC.HD.(Pacific).us2"
+ ],
+ "USA| TNT  HD": [
+  "US2",
+  "TNT.HD.us2"
+ ],
+ "USA| TNT HD *": [
+  "US2",
+  "TNT.HD.us2"
+ ],
+ "USA| TNT PACIFICO HD": [
+  "US2",
+  "TNT.HD.(Pacific).us2"
+ ],
+ "USA| TRAVEL CHANNEL HD**": [
+  "US2",
+  "The.Travel.Channel.HD.us2"
+ ],
+ "USA| TRAVEL HD": [
+  "US2",
+  "The.Travel.Channel.HD.us2"
+ ],
+ "USA| TRUE TV HD": [
+  "US2",
+  "truTV.HD.us2"
+ ],
+ "USA| TV LAND HD": [
+  "US2",
+  "TV.Land.HD.us2"
+ ],
+ "USA| TVLAND HD**": [
+  "US2",
+  "TV.Land.HD.us2"
+ ],
+ "USA| TYT NETWORK HD": [
+  "US2",
+  "TYT.The.Young.Turks.us2"
+ ],
+ "USA| UP TV HD": [
+  "US2",
+  "UPtv.us2"
+ ],
+ "USA| USA NETWORK PACIFICO HD": [
+  "US2",
+  "USA.Network.HD.(Pacific).us2"
+ ],
+ "USA| USA NETWORKT  HD**": [
+  "US2",
+  "and.TV.us2"
+ ],
+ "USA| VICELAND HD": [
+  "US2",
+  "Vice.HD.us2"
+ ],
+ "USA| VIP MOVIE 5 STARMAX HD": [
+  "US2",
+  "5.StarMAX.HD.East.us2"
+ ],
+ "USA| VIP MOVIE CINEMAX EAST HD": [
+  "US2",
+  "Cinemax.HD.us2"
+ ],
+ "USA| VIP MOVIE HBO 2 HD": [
+  "US2",
+  "HBO2.HD.us2"
+ ],
+ "USA| VIP MOVIE HBO 2 WEST HD": [
+  "US2",
+  "HBO2.HD.(Pacific).us2"
+ ],
+ "USA| VIP MOVIE HBO COMEDY HD": [
+  "US2",
+  "HBO.Comedy.HD.us2"
+ ],
+ "USA| VIP MOVIE HBO HD": [
+  "US2",
+  "HBO.East.us2"
+ ],
+ "USA| VIP MOVIE HBO SIGNATURE HD": [
+  "US2",
+  "HBO.Signature.HD.us2"
+ ],
+ "USA| VIP MOVIE HBO ZONE HD": [
+  "US2",
+  "HBO.Zone.HD.us2"
+ ],
+ "USA| VIP MOVIE INDIEPLEX HD": [
+  "US2",
+  "IndiePlex.HD.us2"
+ ],
+ "USA| VIP MOVIE SHOTIME WEST HD": [
+  "US2",
+  "Paramount+.with.Showtime.HD.(Pacific).us2"
+ ],
+ "USA| VIP MOVIE STARZ CINEMA HD": [
+  "US2",
+  "Starz.Cinema.HD.us2"
+ ],
+ "USA| VIP MOVIE STARZ CINEMA WEST HD": [
+  "US2",
+  "Starz.Cinema.HD.us2"
+ ],
+ "USA| VIP MOVIE STARZ COMEDY HD": [
+  "US2",
+  "Starz.Comedy.HD.us2"
+ ],
+ "USA| VIP MOVIE STARZ EDGE HD": [
+  "US2",
+  "Starz.Edge.HD.us2"
+ ],
+ "USA| VIP MOVIE STARZ ENCORE BLACK HD": [
+  "US2",
+  "Starz.Encore.Black.us2"
+ ],
+ "USA| VIP MOVIE STARZ ENCORE FAMILY HD": [
+  "US2",
+  "Starz.Encore.Family.SD.us2"
+ ],
+ "USA| VIP MOVIE STARZ ENCORE SUSPENSE HD": [
+  "US2",
+  "Starz.Encore.Suspense.us2"
+ ],
+ "USA| VIP MOVIE STARZ ENCORE WEST HD": [
+  "US2",
+  "Starz.Encore.(Pacific).us2"
+ ],
+ "USA| VIP MOVIE STARZ KIDS & FAMILY HD": [
+  "US2",
+  "Starz.Kids.HD.us2"
+ ],
+ "USA| WGN  AMERICA HD": [
+  "US_LOCALS1",
+  "WGN-DT.us_locals1"
+ ],
+ "USA| YES NETWORK HD": [
+  "US2",
+  "Yes.Network.us2"
  ],
  "USL | UNIMAS EAST": [
   "US2",
@@ -3126,5 +6222,73 @@
  "USL: UNIVISION PHILADELPHIA(WUVP)": [
   "US2",
   "Univision.Network.HD.us2"
+ ],
+ "UT | SALT LAKE CITY | FOX - KSTU": [
+  "US_LOCALS1",
+  "KSTU-DT.us_locals1"
+ ],
+ "VA | NORFOLK-PORTSMOUTH-NEWPORT NEWS | FOX - WVBT": [
+  "US_LOCALS1",
+  "WVBT-DT.us_locals1"
+ ],
+ "VA | ROANOKE-LYNCHBURG | FOX - WFXR": [
+  "US_LOCALS1",
+  "WFXR-DT.us_locals1"
+ ],
+ "VT | BURLINGTON | FOX - WFFF": [
+  "US_LOCALS1",
+  "WFFF-DT.us_locals1"
+ ],
+ "WA | SEATTLE-TACOMA | FOX - KCPQ": [
+  "US_LOCALS1",
+  "KCPQ-DT.us_locals1"
+ ],
+ "WA | SPOKANE | FOX - KAYU": [
+  "US_LOCALS1",
+  "KAYU-DT.us_locals1"
+ ],
+ "WA | YAKIMA-PASCO-RICHLAND-KENNEWICK | FOX - KCYU": [
+  "US_LOCALS1",
+  "KCYU-DT.us_locals1"
+ ],
+ "WI | GREEN BAY | FOX - WLUK": [
+  "US_LOCALS1",
+  "WLUK-DT.us_locals1"
+ ],
+ "WI | LA CROSSE-EAU CLAIRE | FOX - WLAX": [
+  "US_LOCALS1",
+  "WLAX-DT.us_locals1"
+ ],
+ "WI | MADISON | FOX - WMSN": [
+  "US_LOCALS1",
+  "WMSN-DT.us_locals1"
+ ],
+ "WI | MILWAUKEE | FOX - WITI": [
+  "US_LOCALS1",
+  "WITI-DT.us_locals1"
+ ],
+ "WV | CHARLESTON-HUNTINGTON | FOX - WVAH": [
+  "US_LOCALS1",
+  "WVAH-DT.us_locals1"
+ ],
+ "WV | CLARKSBURG-WESTON | FOX - WVFX": [
+  "US_LOCALS1",
+  "WVFX-DT.us_locals1"
+ ],
+ "WWE SPORTS": [
+  "US2",
+  "WWE.Network.us2"
+ ],
+ "WY | CASPER-RIVERTON | FOX - KFNB": [
+  "US_LOCALS1",
+  "KFNB-DT.us_locals1"
+ ],
+ "WY | CHEYENNE-SCOTTSBLUFF | FOX - KLWY": [
+  "US_LOCALS1",
+  "KLWY-DT.us_locals1"
+ ],
+ "YES NETWORK": [
+  "US2",
+  "Yes.Network.us2"
  ]
 }
