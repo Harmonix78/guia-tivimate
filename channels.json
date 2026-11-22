@@ -260,8 +260,8 @@
   "DHE.HD.co"
  ],
  "CINE Y SERIES | EUROCHANNEL FHD": [
-  "PE1",
-  "EUROCHANNEL.(Eurochannel).pe"
+  "SV1",
+  "Canal.Eurochannel.sv"
  ],
  "CINE Y SERIES | EUROPA EUROPA FHD": [
   "MX1",
@@ -366,14 +366,6 @@
  "CINE Y SERIES | STUDIO UNIVERSAL FHD": [
   "MX1",
   "Canal.Studio.Universal.(México).mx"
- ],
- "CINE Y SERIES | SYFY FHD": [
-  "PE1",
-  "SYFY.(SyFy).pe"
- ],
- "CINE Y SERIES | TBS FHD": [
-  "PE1",
-  "TBS.VERY.FUNNY.HD.(TBS.Very.Funny.HD).pe"
  ],
  "CINE Y SERIES | TCM FHD": [
   "MX1",
@@ -496,8 +488,8 @@
   "Canal.Milenio.TV.mx"
  ],
  "CULTURA HD | NATGEO": [
-  "PE1",
-  "NAT.GEO.(NatGeo).pe"
+  "CO1",
+  "NAT.GEO.co"
  ],
  "CULTURA HD | OUTDOOR": [
   "MX1",
@@ -519,9 +511,17 @@
   "MX1",
   "Canal.Animal.Planet.(México).mx"
  ],
+ "CULTURA | CAZA & PESCA FHD": [
+  "ES1",
+  "Caza.y.Pesca.es"
+ ],
  "CULTURA | DISCOVERY CHANNEL FHD": [
   "MX1",
   "Canal.Discovery.Channel.(México).mx"
+ ],
+ "CULTURA | DISCOVERY FAMILIA FHD": [
+  "SV1",
+  "Canal.Discovery.Familia.sv"
  ],
  "CULTURA | DISCOVERY H&H": [
   "CO1",
@@ -559,6 +559,10 @@
   "CO1",
   "Food.Network.co"
  ],
+ "CULTURA | GARAGE TV FHD": [
+  "ES1",
+  "El.Garage.TV.es"
+ ],
  "CULTURA | GOURMET FHD": [
   "CO1",
   "El.Gourmet.co"
@@ -587,17 +591,29 @@
   "MX1",
   "Canal.Lifetime.(México).mx"
  ],
+ "CULTURA | NASA 1 FHD": [
+  "US2",
+  "NASA.Plus.us2"
+ ],
  "CULTURA | NAT GEO FHD": [
   "CO1",
   "NAT.GEO.co"
  ],
- "CULTURA | NAT GEO WILD FHD": [
-  "PE1",
-  "NAT.GEO.WILD.HD.(NatGeoWild).pe"
+ "CULTURA | NBC UNIVERSO WEST HD": [
+  "US2",
+  "UNIVERSO.HD.us2"
+ ],
+ "CULTURA | ODISEA FHD": [
+  "SV1",
+  "Canal.Odisea.sv"
  ],
  "CULTURA | SUN CHANNEL FHD": [
   "AR1",
   "Canal.Sun.Channel.ar"
+ ],
+ "CULTURA | THE WEATHER CHANNEL FHD": [
+  "US2",
+  "The.Weather.Channel.HD.us2"
  ],
  "CULTURA | TLC  FHD": [
   "MX1",
@@ -718,6 +734,10 @@
  "MX |* TVC DEPORTES FHD": [
   "MX1",
   "Canal.TVC.Deportes.mx"
+ ],
+ "US | Tastemade Home": [
+  "US2",
+  "Tastemade.Home.us2"
  ],
  "USA ACC Network": [
   "US2",
