@@ -1,0 +1,1654 @@
+{
+ "CA CBC Calgary": [
+  "CA2",
+  "CBC.Calgary.ca2"
+ ],
+ "CA CBC Charlottetown": [
+  "CA2",
+  "CBC.Halifax.ca2"
+ ],
+ "CA CBC Edmonton": [
+  "CA2",
+  "CBC.Edmonton.HD.ca2"
+ ],
+ "CA CBC Fredericton": [
+  "CA2",
+  "CBC.Halifax.ca2"
+ ],
+ "CA CBC Halifax": [
+  "CA2",
+  "CBC.Halifax.ca2"
+ ],
+ "CA CBC MONCTON": [
+  "CA2",
+  "CBC.Halifax.ca2"
+ ],
+ "CA CBC Montreal": [
+  "CA2",
+  "CBFT.Montréal.ca2"
+ ],
+ "CA CBC Montreal HD": [
+  "CA2",
+  "CBFT.Montréal.ca2"
+ ],
+ "CA CBC News Network": [
+  "CA2",
+  "CBC.News.Network.ca2"
+ ],
+ "CA CBC OTTAWA": [
+  "CA2",
+  "CBC.Ottawa.ca2"
+ ],
+ "CA CBC Ottawa": [
+  "CA2",
+  "CBC.Ottawa.ca2"
+ ],
+ "CA CBC Regina": [
+  "CA2",
+  "CBC.Saskatchewan.ca2"
+ ],
+ "CA CBC St. John's": [
+  "CA2",
+  "CBC.St..John’s.ca2"
+ ],
+ "CA CBC TORONTO": [
+  "CA2",
+  "CBC.Toronto.HD.ca2"
+ ],
+ "CA CBC Toronto": [
+  "CA2",
+  "CBC.Toronto.HD.ca2"
+ ],
+ "CA CBC Toronto CBLT (R)": [
+  "CA2",
+  "CBC.Toronto.HD.ca2"
+ ],
+ "CA CBC VANCOUVER": [
+  "CA2",
+  "CBC.Vancouver.ca2"
+ ],
+ "CA CBC Vancouver": [
+  "CA2",
+  "CBC.Vancouver.ca2"
+ ],
+ "CA CBC WINDSOR": [
+  "CA2",
+  "CBC.Television-Windsor.9.ca2"
+ ],
+ "CA CBC WINNIPEG": [
+  "CA2",
+  "CBC.Winnipeg.ca2"
+ ],
+ "CA CBC Windsor": [
+  "CA2",
+  "CBC.Television-Windsor.9.ca2"
+ ],
+ "CA CHCH": [
+  "CA2",
+  "CHCH-DT.ca2"
+ ],
+ "CA CITY MONTREAL (B)": [
+  "CA2",
+  "Citytv.Montreal.ca2"
+ ],
+ "CA CITY TORONTO": [
+  "CA2",
+  "Citytv.Toronto.HD.ca2"
+ ],
+ "CA CITY TORONTO (R)": [
+  "CA2",
+  "Citytv.Toronto.HD.ca2"
+ ],
+ "CA CP24 (C)": [
+  "CA2",
+  "Cable.Pulse.24.(CP24).HD.ca2"
+ ],
+ "CA CablePulse 24": [
+  "CA2",
+  "Cable.Pulse.24.(CP24).HD.ca2"
+ ],
+ "CA Citytv Toronto": [
+  "CA2",
+  "Citytv.Toronto.HD.ca2"
+ ],
+ "CA GLOBAL HALIFAX (B)": [
+  "CA2",
+  "Global.Maritimes.ca2"
+ ],
+ "CA GLOBAL MONTREAL (B)": [
+  "CA2",
+  "Global.Montreal.ca2"
+ ],
+ "CA GLOBAL TORONTO": [
+  "CA2",
+  "Global.Toronto.ca2"
+ ],
+ "CA GLOBAL VANCOUVER (B)": [
+  "CA2",
+  "Global.BC.ca2"
+ ],
+ "CA Global Calgary": [
+  "CA2",
+  "Global.Calgary.ca2"
+ ],
+ "CA Global Maritimes HD": [
+  "CA2",
+  "Global.Maritimes.ca2"
+ ],
+ "CA Global News Edmonton": [
+  "CA2",
+  "Global.Edmonton.ca2"
+ ],
+ "CA Global News Saskatoon": [
+  "CA2",
+  "Global.Saskatoon.ca2"
+ ],
+ "CA Global Toronto": [
+  "CA2",
+  "Global.Toronto.ca2"
+ ],
+ "CA OMNI 1": [
+  "CA2",
+  "OMNI1.ca2"
+ ],
+ "CA OMNI East": [
+  "CA2",
+  "OMNI.Calgary.HD.ca2"
+ ],
+ "CA RDS (HD)": [
+  "CA2",
+  "RDS2.ca2"
+ ],
+ "CA RDS (HQ)": [
+  "CA2",
+  "RDS2.ca2"
+ ],
+ "CA SPORTSNET 360": [
+  "CA2",
+  "Sportsnet.360.HD.ca2"
+ ],
+ "CA SPORTSNET EAST": [
+  "CA2",
+  "Sportsnet.360.HD.ca2"
+ ],
+ "CA SPORTSNET ONTARIO": [
+  "CA2",
+  "Sportsnet.Ontario.HD.ca2"
+ ],
+ "CA SPORTSNET PACIFIC": [
+  "CA2",
+  "Sportsnet.(Pacific).ca2"
+ ],
+ "CA SPORTSNET WEST": [
+  "CA2",
+  "Sportsnet.West.HD.ca2"
+ ],
+ "CA Sportsnet World": [
+  "CA2",
+  "Sportsnet.World.ca2"
+ ],
+ "CA TSN 1 UHD": [
+  "CA2",
+  "TSN.1.ca2"
+ ],
+ "CA TSN 2 UHD": [
+  "CA2",
+  "TSN.2.ca2"
+ ],
+ "CA TSN 3 UHD": [
+  "CA2",
+  "TSN.3.ca2"
+ ],
+ "CA TSN 4 UHD": [
+  "CA2",
+  "TSN.4.ca2"
+ ],
+ "CA TSN 5 UHD": [
+  "CA2",
+  "TSN.5.ca2"
+ ],
+ "CA TVA Sports 2": [
+  "CA2",
+  "TVA.Sports.2.HD.ca2"
+ ],
+ "CA | Sportsnet One": [
+  "CA2",
+  "Sportsnet.One.ca2"
+ ],
+ "CINE Y SERIES |  DE PELICULA FHD": [
+  "MX1",
+  "Canal.De.Película.mx"
+ ],
+ "CINE Y SERIES |  HBO 2 FHD": [
+  "MX1",
+  "Canal.HBO.2.Latinoamérica.mx"
+ ],
+ "CINE Y SERIES | AMC FHD": [
+  "MX1",
+  "Canal.AMC.(México).mx"
+ ],
+ "CINE Y SERIES | AXN FHD": [
+  "MX1",
+  "Canal.AXN.(México).mx"
+ ],
+ "CINE Y SERIES | CINE DINAMITA FHD": [
+  "US2",
+  "Cinema.Dinamita.us2"
+ ],
+ "CINE Y SERIES | CINE LATINO FHD": [
+  "US2",
+  "Cine.Latino.US.us2"
+ ],
+ "CINE Y SERIES | CINE MEXICANO FHD": [
+  "US2",
+  "Cine.Mexicano.US.Feed.us2"
+ ],
+ "CINE Y SERIES | CINECANAL FHD": [
+  "MX1",
+  "Canal.Cinecanal.(México).mx"
+ ],
+ "CINE Y SERIES | CINEMAX FHD": [
+  "MX1",
+  "Canal.Cinemax.(México).mx"
+ ],
+ "CINE Y SERIES | DE PELICULA PLUS FHD": [
+  "CL1",
+  "Canal.De.Película.cl"
+ ],
+ "CINE Y SERIES | DHE FHD": [
+  "CO1",
+  "DHE.HD.co"
+ ],
+ "CINE Y SERIES | EUROCHANNEL FHD": [
+  "PE1",
+  "EUROCHANNEL.(Eurochannel).pe"
+ ],
+ "CINE Y SERIES | EUROPA EUROPA FHD": [
+  "MX1",
+  "Canal.Europa.Europa.mx"
+ ],
+ "CINE Y SERIES | FX FHD": [
+  "MX1",
+  "Canal.FX.(México).mx"
+ ],
+ "CINE Y SERIES | GOLDEN EDGE FHD": [
+  "MX1",
+  "Canal.Golden.Edge.mx"
+ ],
+ "CINE Y SERIES | GOLDEN FHD": [
+  "MX1",
+  "Canal.Golden.(México).mx"
+ ],
+ "CINE Y SERIES | GOLDEN PLUS FHD": [
+  "MX1",
+  "Canal.Golden.Plus.mx"
+ ],
+ "CINE Y SERIES | GOLDEN PREMIER 2 FHD": [
+  "MX1",
+  "Canal.Golden.Premier.2.mx"
+ ],
+ "CINE Y SERIES | GOLDEN PREMIER FHD": [
+  "MX1",
+  "Canal.Golden.Premier.mx"
+ ],
+ "CINE Y SERIES | HBO EXTREME FHD": [
+  "MX1",
+  "Canal.HBO.Xtreme.mx"
+ ],
+ "CINE Y SERIES | HBO FAMILY FHD": [
+  "MX1",
+  "Canal.HBO.Family.Latinoamérica.mx"
+ ],
+ "CINE Y SERIES | HBO FHD": [
+  "MX1",
+  "Canal.HBO.(México).mx"
+ ],
+ "CINE Y SERIES | HBO MUNDI FHD": [
+  "MX1",
+  "Canal.HBO.Mundi.mx"
+ ],
+ "CINE Y SERIES | HBO PLUS FHD": [
+  "MX1",
+  "Canal.HBO.Plus.mx"
+ ],
+ "CINE Y SERIES | HBO POP FHD": [
+  "MX1",
+  "Canal.HBO.Pop.mx"
+ ],
+ "CINE Y SERIES | HBO SIGNATURE FHD": [
+  "MX1",
+  "Canal.HBO.Signature.Latinoamérica.mx"
+ ],
+ "CINE Y SERIES | MULTIPREMIER FHD": [
+  "CL1",
+  "Canal.Multipremier.cl"
+ ],
+ "CINE Y SERIES | PARAMOUNT FHD": [
+  "MX1",
+  "Canal.Paramount.Channel.(México).mx"
+ ],
+ "CINE Y SERIES | SPACE EAST FHD": [
+  "MX1",
+  "Canal.Space.(México).mx"
+ ],
+ "CINE Y SERIES | SPACE FHD": [
+  "MX1",
+  "Canal.Space.(México).mx"
+ ],
+ "CINE Y SERIES | STAR CHANNEL FHD": [
+  "MX1",
+  "Canal.Star.Channel.(México).mx"
+ ],
+ "CINE Y SERIES | STARZ ENCORE CINEMA FHD": [
+  "US2",
+  "Starz.Encore.HD.us2"
+ ],
+ "CINE Y SERIES | STARZ ENCORE CLASSIC FHD": [
+  "US2",
+  "Starz.Encore.Classic.us2"
+ ],
+ "CINE Y SERIES | STARZ ENCORE FAMILY & KIDS FHD": [
+  "US2",
+  "Starz.Encore.Family.SD.us2"
+ ],
+ "CINE Y SERIES | STARZ ENCORE WESTERN FHD": [
+  "US2",
+  "Starz.Encore.Westerns.SD.us2"
+ ],
+ "CINE Y SERIES | STARZ FHD": [
+  "US2",
+  "Starz.HD.us2"
+ ],
+ "CINE Y SERIES | STARZ WEST FHD": [
+  "US2",
+  "Starz.HD.(Pacific).us2"
+ ],
+ "CINE Y SERIES | STUDIO UNIVERSAL FHD": [
+  "MX1",
+  "Canal.Studio.Universal.(México).mx"
+ ],
+ "CINE Y SERIES | SYFY FHD": [
+  "PE1",
+  "SYFY.(SyFy).pe"
+ ],
+ "CINE Y SERIES | TBS FHD": [
+  "PE1",
+  "TBS.VERY.FUNNY.HD.(TBS.Very.Funny.HD).pe"
+ ],
+ "CINE Y SERIES | TCM FHD": [
+  "MX1",
+  "Canal.TCM.(México).mx"
+ ],
+ "CINE Y SERIES | TNT FHD": [
+  "MX1",
+  "Canal.TNT.(México).mx"
+ ],
+ "CINE Y SERIES | TNT SERIES FHD": [
+  "MX1",
+  "Canal.TNT.Series.(México).mx"
+ ],
+ "CINE Y SERIES | UNIVERSAL CINEMA FHD": [
+  "MX1",
+  "Canal.Universal.Cinema.mx"
+ ],
+ "CINE Y SERIES | UNIVERSAL COMEDY FHD": [
+  "MX1",
+  "Canal.Universal.Comedy.mx"
+ ],
+ "CINE Y SERIES | UNIVERSAL CRIME ESTE FHD": [
+  "MX1",
+  "Canal.Universal.Crime.mx"
+ ],
+ "CINE Y SERIES | UNIVERSAL PREMIER FHD": [
+  "MX1",
+  "Canal.Universal.Premiere.mx"
+ ],
+ "CINE Y SERIES | UNIVERSAL REALITY FHD": [
+  "MX1",
+  "Canal.Universal.Reality.mx"
+ ],
+ "CINE Y SERIES | UNIVERSAL TV FHD": [
+  "MX1",
+  "Canal.Universal.TV.(México).mx"
+ ],
+ "CINE Y SERIES | WARNER CHANNEL FHD": [
+  "CO1",
+  "Warner.Channel.co"
+ ],
+ "CULTURA HD | AE": [
+  "MX1",
+  "Canal.A&E.(México).mx"
+ ],
+ "CULTURA HD | ANIMALPLANET": [
+  "MX1",
+  "Canal.Animal.Planet.(México).mx"
+ ],
+ "CULTURA HD | DISCOVERY CHANNEL": [
+  "MX1",
+  "Canal.Discovery.Channel.(México).mx"
+ ],
+ "CULTURA HD | DISCOVERY SCI": [
+  "MX1",
+  "Canal.Discovery.Science.(Latinoamérica).mx"
+ ],
+ "CULTURA HD | DISCOVERY THEATHER": [
+  "MX1",
+  "Canal.Discovery.Theater.(Latinoamérica).mx"
+ ],
+ "CULTURA HD | DISCOVERY TURBO": [
+  "MX1",
+  "Canal.Discovery.Turbo.(Latinoamérica).mx"
+ ],
+ "CULTURA HD | DISCOVERY WORLD": [
+  "MX1",
+  "Canal.Discovery.World.Latinoamérica.mx"
+ ],
+ "CULTURA HD | DISNEY CHANNEL": [
+  "MX1",
+  "Canal.Disney.Channel.(México).mx"
+ ],
+ "CULTURA HD | ENTERTAINMENT": [
+  "MX1",
+  "Canal.E!.Entertainment.Television.(México).mx"
+ ],
+ "CULTURA HD | FILM AND ARTS": [
+  "MX1",
+  "Canal.Film.and.Arts.mx"
+ ],
+ "CULTURA HD | FOOD NETWORK": [
+  "CO1",
+  "Food.Network.co"
+ ],
+ "CULTURA HD | GOURMET": [
+  "CO1",
+  "El.Gourmet.co"
+ ],
+ "CULTURA HD | H2": [
+  "MX1",
+  "Canal.History.2.(México).mx"
+ ],
+ "CULTURA HD | HGTV": [
+  "CO1",
+  "HGTV.co"
+ ],
+ "CULTURA HD | HISTORY": [
+  "MX1",
+  "Canal.History.(México).mx"
+ ],
+ "CULTURA HD | HOLATV": [
+  "MX1",
+  "Canal.¡HOLA!.TV.mx"
+ ],
+ "CULTURA HD | HTV": [
+  "MX1",
+  "Canal.HTV.mx"
+ ],
+ "CULTURA HD | INVESTIGATIONDISCOVERY": [
+  "MX1",
+  "Canal.Investigation.Discovery.(México).mx"
+ ],
+ "CULTURA HD | LIFETIME": [
+  "MX1",
+  "Canal.Lifetime.(México).mx"
+ ],
+ "CULTURA HD | MILENIO": [
+  "MX1",
+  "Canal.Milenio.TV.mx"
+ ],
+ "CULTURA HD | NATGEO": [
+  "PE1",
+  "NAT.GEO.(NatGeo).pe"
+ ],
+ "CULTURA HD | OUTDOOR": [
+  "MX1",
+  "Canal.Outdoor.Channel.HD.mx"
+ ],
+ "CULTURA HD | TLC": [
+  "MX1",
+  "Canal.TLC.(México).mx"
+ ],
+ "CULTURA HD | WOBI": [
+  "MX1",
+  "Canal.WOBI.mx"
+ ],
+ "CULTURA |  FHD DISCOVERY TURBO FHD": [
+  "MX1",
+  "Canal.Discovery.Turbo.(Latinoamérica).mx"
+ ],
+ "CULTURA | ANIMAL PLANET FHD": [
+  "MX1",
+  "Canal.Animal.Planet.(México).mx"
+ ],
+ "CULTURA | DISCOVERY CHANNEL FHD": [
+  "MX1",
+  "Canal.Discovery.Channel.(México).mx"
+ ],
+ "CULTURA | DISCOVERY H&H": [
+  "CO1",
+  "Discovery.H&H.co"
+ ],
+ "CULTURA | DISCOVERY H&H ® FHD": [
+  "CO1",
+  "Discovery.H&H.co"
+ ],
+ "CULTURA | DISCOVERY LIFE FHD": [
+  "US2",
+  "Discovery.Life.Channel.us2"
+ ],
+ "CULTURA | DISCOVERY SCIENCE FHD": [
+  "MX1",
+  "Canal.Discovery.Science.(Latinoamérica).mx"
+ ],
+ "CULTURA | DISCOVERY THEATER FHD": [
+  "MX1",
+  "Canal.Discovery.Theater.(Latinoamérica).mx"
+ ],
+ "CULTURA | DISCOVERY WORLD FHD": [
+  "MX1",
+  "Canal.Discovery.World.Latinoamérica.mx"
+ ],
+ "CULTURA | EL GOURMET LATINO FHD": [
+  "CL1",
+  "Canal.Elgourmet.cl"
+ ],
+ "CULTURA | FILM & ARTS FHD": [
+  "MX1",
+  "Canal.Film.and.Arts.mx"
+ ],
+ "CULTURA | FOOD NETWORK FHD": [
+  "CO1",
+  "Food.Network.co"
+ ],
+ "CULTURA | GOURMET FHD": [
+  "CO1",
+  "El.Gourmet.co"
+ ],
+ "CULTURA | HGTV FHD": [
+  "CO1",
+  "HGTV.co"
+ ],
+ "CULTURA | HISTORY 2 FHD": [
+  "MX1",
+  "Canal.History.2.(México).mx"
+ ],
+ "CULTURA | HISTORY CHANNEL FHD": [
+  "CO1",
+  "History.Channel.co"
+ ],
+ "CULTURA | HOLA TV FHD": [
+  "MX1",
+  "Canal.¡HOLA!.TV.mx"
+ ],
+ "CULTURA | INVESTIGATION DISCOVERY FHD": [
+  "MX1",
+  "Canal.Investigation.Discovery.(México).mx"
+ ],
+ "CULTURA | LIFETIME FHD": [
+  "MX1",
+  "Canal.Lifetime.(México).mx"
+ ],
+ "CULTURA | NAT GEO FHD": [
+  "CO1",
+  "NAT.GEO.co"
+ ],
+ "CULTURA | NAT GEO WILD FHD": [
+  "PE1",
+  "NAT.GEO.WILD.HD.(NatGeoWild).pe"
+ ],
+ "CULTURA | SUN CHANNEL FHD": [
+  "AR1",
+  "Canal.Sun.Channel.ar"
+ ],
+ "CULTURA | TLC  FHD": [
+  "MX1",
+  "Canal.TLC.(México).mx"
+ ],
+ "CULTURA | WOBI FHD": [
+  "MX1",
+  "Canal.WOBI.mx"
+ ],
+ "LAT | Love Nature": [
+  "CO1",
+  "Love.Nature.co"
+ ],
+ "MEX: A&E": [
+  "MX1",
+  "Canal.A&E.(México).mx"
+ ],
+ "MX (HD) TP PX Sports": [
+  "MX1",
+  "Canal.PX.Sports.mx"
+ ],
+ "MX AYM Sports": [
+  "MX1",
+  "Canal.AYM.Sports.mx"
+ ],
+ "MX Azteca 7 HD": [
+  "MX1",
+  "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx"
+ ],
+ "MX ESPN": [
+  "MX1",
+  "ESPN.MX.mx"
+ ],
+ "MX Espn 2 HD": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "MX Fox Sports 1": [
+  "MX1",
+  "Canal.Fox.Sports.(México).mx"
+ ],
+ "MX Fox Sports 3": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "MX Golf HD": [
+  "MX1",
+  "Canal.Golf.Channel.(Latinoamérica).mx"
+ ],
+ "MX TUDN": [
+  "MX1",
+  "Canal.TUDN.(México).mx"
+ ],
+ "MX | AZTECA 7 HD": [
+  "MX1",
+  "Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx"
+ ],
+ "MX | ESPN 1 HD": [
+  "MX1",
+  "ESPN.MX.mx"
+ ],
+ "MX | ESPN 2 HD": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "MX | ESPN 3 HD": [
+  "MX1",
+  "ESPN.3.mx"
+ ],
+ "MX | ESPN HD": [
+  "MX1",
+  "ESPN.MX.mx"
+ ],
+ "MX | FOX SPORTS 2 HD": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "MX | FOX SPORTS 3 HD": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "MX | FOX SPORTS HD": [
+  "MX1",
+  "Canal.Fox.Sports.(México).mx"
+ ],
+ "MX | Fox Sports 2": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "MX |* ADRENALINA FHD": [
+  "MX1",
+  "Canal.Adrenalina.Sports.Network.mx"
+ ],
+ "MX |* ESPN 2  HD": [
+  "MX1",
+  "ESPN.2.mx"
+ ],
+ "MX |* ESPN 3 HD": [
+  "MX1",
+  "ESPN.3.mx"
+ ],
+ "MX |* FOX SPORTS  1 HD": [
+  "MX1",
+  "Canal.Fox.Sports.(México).mx"
+ ],
+ "MX |* FOX SPORTS 2 HD": [
+  "MX1",
+  "Canal.Fox.Sports.2.(México).mx"
+ ],
+ "MX |* FOX SPORTS 3 HD": [
+  "MX1",
+  "Canal.Fox.Sports.3.(México).mx"
+ ],
+ "MX |* TUDN HD": [
+  "MX1",
+  "Canal.TUDN.(México).mx"
+ ],
+ "MX |* TVC DEPORTES FHD": [
+  "MX1",
+  "Canal.TVC.Deportes.mx"
+ ],
+ "USA ACC Network": [
+  "US2",
+  "ACC.Network.us2"
+ ],
+ "USA AT&T SportsNet Pittsburgh": [
+  "US2",
+  "SportsNet.Pittsburgh.HD.us2"
+ ],
+ "USA AT&T SportsNet Southwest": [
+  "US2",
+  "Space.City.Home.Network.HD.us2"
+ ],
+ "USA AZ Family Sports Network": [
+  "US2",
+  "Arizona.Family.Sports.us2"
+ ],
+ "USA Altitude Sports": [
+  "US2",
+  "Altitude.Sports.us2"
+ ],
+ "USA Altitude Sports Alternate": [
+  "US2",
+  "Altitude.Sports.2.HD.us2"
+ ],
+ "USA Bally SPORTS CAROLINA": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South-.Carolinas.us"
+ ],
+ "USA Bally Sports (West) (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports Carolinas (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South-.Carolinas.us"
+ ],
+ "USA Bally Sports Carolinas - North Carolina Central (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South-.Carolinas.us"
+ ],
+ "USA Bally Sports Cincinnati": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cincinnati.us"
+ ],
+ "USA Bally Sports Cincinnati Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cincinnati.us"
+ ],
+ "USA Bally Sports Detroit": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Detroit.HD.us"
+ ],
+ "USA Bally Sports Detroit (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Detroit.HD.us"
+ ],
+ "USA Bally Sports Detroit (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Detroit.HD.us"
+ ],
+ "USA Bally Sports Detroit Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Detroit.Extra.us"
+ ],
+ "USA Bally Sports Detroit LHD": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Detroit.HD.us"
+ ],
+ "USA Bally Sports Detroit Plus (HU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Detroit.HD.us"
+ ],
+ "USA Bally Sports Florida": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Florida.us"
+ ],
+ "USA Bally Sports Florida (North)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Florida.-.North.Florida.us"
+ ],
+ "USA Bally Sports Florida (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Florida.us"
+ ],
+ "USA Bally Sports Florida Plus (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Florida.2.us"
+ ],
+ "USA Bally Sports Great Lake (D)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Great.Lakes.us"
+ ],
+ "USA Bally Sports Great Lakes": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Great.Lakes.us"
+ ],
+ "USA Bally Sports Great Lakes (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Great.Lakes.us"
+ ],
+ "USA Bally Sports Great Lakes LHD": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Great.Lakes.us"
+ ],
+ "USA Bally Sports Indiana": [
+  "FANDUEL1",
+  "FanDuel.Sports.Indiana.us"
+ ],
+ "USA Bally Sports Indiana  Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Indiana.us"
+ ],
+ "USA Bally Sports Indiana (HU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Indiana.us"
+ ],
+ "USA Bally Sports Indiana (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Indiana.us"
+ ],
+ "USA Bally Sports Indiana Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Indiana.us"
+ ],
+ "USA Bally Sports Indiana HD (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Indiana.us"
+ ],
+ "USA Bally Sports Kansas City": [
+  "FANDUEL1",
+  "FanDuel.Sports.Midwest.-.Kansas.City.us"
+ ],
+ "USA Bally Sports Kansas City (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Midwest.-.Kansas.City.us"
+ ],
+ "USA Bally Sports Kansas City Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Midwest.-.Kansas.City.us"
+ ],
+ "USA Bally Sports Midwest": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Midwest.St..Louis.us"
+ ],
+ "USA Bally Sports Midwest (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Midwest.St..Louis.us"
+ ],
+ "USA Bally Sports Midwest Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Midwest.Extra.-.Iowa.us"
+ ],
+ "USA Bally Sports Midwest Kansas City (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Midwest.-.Kansas.City.us"
+ ],
+ "USA Bally Sports New Orleans": [
+  "FANDUEL1",
+  "FanDuel.Sports.New.Orleans.us"
+ ],
+ "USA Bally Sports New Orleans (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.New.Orleans.us"
+ ],
+ "USA Bally Sports New Orleans Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.New.Orleans.us"
+ ],
+ "USA Bally Sports North": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.North.us"
+ ],
+ "USA Bally Sports North Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.North.Extra.us"
+ ],
+ "USA Bally Sports North LHD": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.North.us"
+ ],
+ "USA Bally Sports North Out of Market (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.North.us"
+ ],
+ "USA Bally Sports Ohio": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio (HU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio 11 (Evansville) (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio 11 (Evansville) (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio 9 (Charleston Huntington Feed) (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio Plus (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio Plus 5 (Louisville_Lex) (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Ohio Plus 9 (Charleston) (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Bally Sports Oklahoma": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Oklahoma.us"
+ ],
+ "USA Bally Sports Oklahoma (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Oklahoma.us"
+ ],
+ "USA Bally Sports Oklahoma (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Oklahoma.us"
+ ],
+ "USA Bally Sports Oklahoma Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Oklahoma.us"
+ ],
+ "USA Bally Sports SUN (FU)": [
+  "FANDUEL1",
+  "Fanduel.Sports.Sun.us"
+ ],
+ "USA Bally Sports San Diego": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.San.Diego.us"
+ ],
+ "USA Bally Sports San Diego (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.San.Diego.us"
+ ],
+ "USA Bally Sports San Diego Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.San.Diego.us"
+ ],
+ "USA Bally Sports Socal": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.SoCal.us"
+ ],
+ "USA Bally Sports Socal (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.SoCal.us"
+ ],
+ "USA Bally Sports Socal (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.SoCal.us"
+ ],
+ "USA Bally Sports South": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South.us"
+ ],
+ "USA Bally Sports South (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South.us"
+ ],
+ "USA Bally Sports South Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South.us"
+ ],
+ "USA Bally Sports South Extra (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South.us"
+ ],
+ "USA Bally Sports South Georgia (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Southeast.-.Georgia.us"
+ ],
+ "USA Bally Sports South Georgia HD (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Southeast.-.Georgia.us"
+ ],
+ "USA Bally Sports South LHD": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South.us"
+ ],
+ "USA Bally Sports South Plus (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South.us"
+ ],
+ "USA Bally Sports Southeast (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southeast.us"
+ ],
+ "USA Bally Sports Southeast (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southeast.us"
+ ],
+ "USA Bally Sports Southeast (Georgia)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Southeast.-.Georgia.us"
+ ],
+ "USA Bally Sports Southeast (North Carolina)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Southeast.-.North.Carolina.us"
+ ],
+ "USA Bally Sports Southeast (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southeast.us"
+ ],
+ "USA Bally Sports Southeast Memphis (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southeast.-.Tennessee.us"
+ ],
+ "USA Bally Sports Southwest (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Southwest (Feed 6) (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Southwest (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Southwest (TW Waco) HD (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Southwest Extra": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Southwest TX6 (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Southwest TX8 (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Southwest Zone 2 (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Bally Sports Sun Plus (HU)": [
+  "FANDUEL1",
+  "Fanduel.Sports.Sun.us"
+ ],
+ "USA Bally Sports West (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports West (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports West (HU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports West (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports West (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports West - Alt HD (SP)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports West LHD": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports West Plus (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.West.us"
+ ],
+ "USA Bally Sports Wisconsin": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Wisconsin.us"
+ ],
+ "USA Bally Sports Wisconsin (D)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Wisconsin.us"
+ ],
+ "USA Bally Sports Wisconsin (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Wisconsin.us"
+ ],
+ "USA Bally Sports Wisconsin (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Wisconsin.us"
+ ],
+ "USA Bally Sports Wisconsin Plus (DTV)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Wisconsin.us"
+ ],
+ "USA Bally Sports Wisconsin+ (FU)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Wisconsin.us"
+ ],
+ "USA Bein Sports UHD": [
+  "US2",
+  "beIN.Sports.USA.HD.us2"
+ ],
+ "USA Bein Sports en Espanol UHD": [
+  "US2",
+  "beIN.Sports.En.Español.HD.us2"
+ ],
+ "USA Big Ten Network Overflow 2": [
+  "US2",
+  "Big.Ten.Network.Overflow.HD.us2"
+ ],
+ "USA Big Ten Network Overflow 3": [
+  "US2",
+  "Big.Ten.Network.Overflow.HD.us2"
+ ],
+ "USA Big Ten Network Overflow 4": [
+  "US2",
+  "Big.Ten.Network.Overflow.HD.us2"
+ ],
+ "USA Big Ten Network UHD": [
+  "US2",
+  "Big.Ten.Network.HD.us2"
+ ],
+ "USA Billiard TV": [
+  "US2",
+  "Billiard.TV.us2"
+ ],
+ "USA CBS SPORTS HQ": [
+  "US2",
+  "CBS.Sports.HQ.us2"
+ ],
+ "USA CBS Sports Golazo Network (PC)": [
+  "US2",
+  "CBS.Sports.Golazo.Network.us2"
+ ],
+ "USA CBS Sports Network (SHD)": [
+  "US2",
+  "CBS.Sports.Network.HD.us2"
+ ],
+ "USA CBS Sports Network UHD": [
+  "US2",
+  "CBS.Sports.Network.HD.us2"
+ ],
+ "USA DIY Network": [
+  "US2",
+  "Magnolia.Network.HD.us2"
+ ],
+ "USA Disney XD": [
+  "US2",
+  "Disney.XD.HD.us2"
+ ],
+ "USA Disney XD West": [
+  "US2",
+  "Disney.XD.HD.(Pacific).us2"
+ ],
+ "USA E! East (SHD)": [
+  "US2",
+  "E!.Entertainment.Television.HD.us2"
+ ],
+ "USA ESPN (SHD)": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "USA ESPN 2 (SHD)": [
+  "US2",
+  "ESPN2.HD.us2"
+ ],
+ "USA ESPN 2 LHD": [
+  "US2",
+  "ESPN2.HD.us2"
+ ],
+ "USA ESPN 2 UHD": [
+  "US2",
+  "ESPN2.HD.us2"
+ ],
+ "USA ESPN Deportes (SHD)": [
+  "US2",
+  "ESPN.Deportes.HD.us2"
+ ],
+ "USA ESPN News (SHD)": [
+  "US2",
+  "ESPNEWS.HD.us2"
+ ],
+ "USA ESPN News LHD": [
+  "US2",
+  "ESPNEWS.HD.us2"
+ ],
+ "USA ESPN News UHD": [
+  "US2",
+  "ESPNEWS.HD.us2"
+ ],
+ "USA ESPN SEC Network": [
+  "US2",
+  "SEC.Network.HD.us2"
+ ],
+ "USA ESPN UHD": [
+  "US2",
+  "ESPN.HD.us2"
+ ],
+ "USA ESPNU": [
+  "US2",
+  "ESPNU.HD.us2"
+ ],
+ "USA ESPNU (SHD)": [
+  "US2",
+  "ESPNU.HD.us2"
+ ],
+ "USA ESPNU UHD": [
+  "US2",
+  "ESPNU.HD.us2"
+ ],
+ "USA FOX Deportes (SHD)": [
+  "US2",
+  "Fox.Deportes.HD.us2"
+ ],
+ "USA FOX Soccer Plus LHD": [
+  "US2",
+  "Fox.Soccer.Plus.HD.us2"
+ ],
+ "USA FOX Sports Ohio LHD": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA FOX Sports Southwest": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA FOX Sports Tennessee": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.South-.Tennessee.(USA).us"
+ ],
+ "USA FanDuel Racing": [
+  "FANDUEL1",
+  "Fanduel.Racing.us"
+ ],
+ "USA FanDuel TV": [
+  "FANDUEL1",
+  "FanDuel.TV.us"
+ ],
+ "USA Fanduel Sports Southwest (SHD)": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Southwest.us"
+ ],
+ "USA Fight Network": [
+  "US2",
+  "Fight.Network.us2"
+ ],
+ "USA Food Network (SHD)": [
+  "US2",
+  "Food.Network.HD.us2"
+ ],
+ "USA Fox News Channel (SHD)": [
+  "US2",
+  "Fox.News.Channel.HD.us2"
+ ],
+ "USA Fox Soccer Plus": [
+  "US2",
+  "Fox.Soccer.Plus.HD.us2"
+ ],
+ "USA Fox Sports 1 (SHD)": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "USA Fox Sports 1 LHD": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "USA Fox Sports 1 UHD": [
+  "US2",
+  "FS1.HD.us2"
+ ],
+ "USA Fox Sports 2": [
+  "US2",
+  "FS2.HD.us2"
+ ],
+ "USA Fox Sports 2 UHD": [
+  "US2",
+  "FS2.HD.us2"
+ ],
+ "USA Fox Sports Ohio": [
+  "FANDUEL1",
+  "FanDuel.Sports.Network.Ohio.-.Cleveland.us"
+ ],
+ "USA Fox Sports Sun (South Florida)": [
+  "FANDUEL1",
+  "Fanduel.Sports.Sun.us"
+ ],
+ "USA Freeform (SHD)": [
+  "US2",
+  "Freeform.HD.us2"
+ ],
+ "USA Golf Channel (SHD)": [
+  "US2",
+  "Golf.Channel.HD.us2"
+ ],
+ "USA Golf Channel LHD": [
+  "US2",
+  "Golf.Channel.HD.us2"
+ ],
+ "USA Golf Channel UHD": [
+  "US2",
+  "Golf.Channel.HD.us2"
+ ],
+ "USA MASN": [
+  "US2",
+  "MASN.-.Mid.Atlantic.Sports.Network.us2"
+ ],
+ "USA MASN 2": [
+  "US2",
+  "MASN2.-.Mid.Atlantic.Sports.Network.2.HD.us2"
+ ],
+ "USA MGM+ Marquee": [
+  "US2",
+  "MGM+.Marquee.HD.us2"
+ ],
+ "USA MLB Network Alternate": [
+  "US2",
+  "MLB.Network.HD.Alternate.us2"
+ ],
+ "USA MLB Network LHD": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "USA MLB Network UHD": [
+  "US2",
+  "MLB.Network.HD.us2"
+ ],
+ "USA MSG": [
+  "US2",
+  "MSG.National.us2"
+ ],
+ "USA MSG 2": [
+  "US2",
+  "MSG2.HD.us2"
+ ],
+ "USA MSG 2 Plus": [
+  "US2",
+  "MSG.Plus.us2"
+ ],
+ "USA MSG Plus": [
+  "US2",
+  "MSG.Plus.us2"
+ ],
+ "USA MSGSN": [
+  "US2",
+  "MSG.Sportsnet.Zone.1.HD.us2"
+ ],
+ "USA MSGSN 2  Zone 2 (SHD)": [
+  "US2",
+  "MSG.Plus.(Zone.2).us2"
+ ],
+ "USA Marquee Sports Network": [
+  "US2",
+  "Marquee.Sports.Network.HD.us2"
+ ],
+ "USA Monumental Sports network": [
+  "US2",
+  "Monumental.Sports.Network.HD.us2"
+ ],
+ "USA NBA TV": [
+  "US2",
+  "NBA.TV.HD.us2"
+ ],
+ "USA NBA TV LHD": [
+  "US2",
+  "NBA.TV.HD.us2"
+ ],
+ "USA NBA TV UHD": [
+  "US2",
+  "NBA.TV.HD.us2"
+ ],
+ "USA NBC Sports (PC)": [
+  "US2",
+  "NBC.Sports.HD.1.us2"
+ ],
+ "USA NBC Sports Bay Area": [
+  "US2",
+  "NBC.Sports.Bay.Area.HD.us2"
+ ],
+ "USA NBC Sports Bay Area Plus": [
+  "US2",
+  "NBC.Sports.Bay.Area.Plus.us2"
+ ],
+ "USA NBC Sports Boston LHD": [
+  "US2",
+  "NBC.Sports.Boston.HD.us2"
+ ],
+ "USA NBC Sports California": [
+  "US2",
+  "NBC.Sports.California.SAT.us2"
+ ],
+ "USA NBC Sports California Plus": [
+  "US2",
+  "NBC.Sports.California.Plus.us2"
+ ],
+ "USA NBC Sports California Plus 2": [
+  "US2",
+  "NBC.Sports.California.Plus.3.us2"
+ ],
+ "USA NBC Sports Chicago": [
+  "US2",
+  "CHSN.Chicago.Sports.Network.us2"
+ ],
+ "USA NBC Sports Chicago Plus 2": [
+  "US2",
+  "CHSN.Plus.us2"
+ ],
+ "USA NBC Sports Chicago Plus LHD": [
+  "US2",
+  "CHSN.Plus.us2"
+ ],
+ "USA NBC Sports Philadelphia": [
+  "US2",
+  "NBC.Sports.Philadelphia.HD.us2"
+ ],
+ "USA NBC Sports Philadelphia Plus": [
+  "US2",
+  "NBC.Sports.Philadelphia.Plus.us2"
+ ],
+ "USA NBC Sports Washington LHD": [
+  "US2",
+  "Monumental.Sports.Network.HD.us2"
+ ],
+ "USA NESN Plus": [
+  "US2",
+  "NESN+.New.England.Sports.Network.Plus.us2"
+ ],
+ "USA NFL Network (SHD)": [
+  "US2",
+  "NFL.Network.HD.us2"
+ ],
+ "USA NFL Network LHD": [
+  "US2",
+  "NFL.Network.HD.us2"
+ ],
+ "USA NFL Network UHD": [
+  "US2",
+  "NFL.Network.HD.us2"
+ ],
+ "USA NHL Network UHD": [
+  "US2",
+  "NHL.Network.HD.us2"
+ ],
+ "USA Next Level Sports": [
+  "US2",
+  "Next.Level.Sports.HD.us2"
+ ],
+ "USA OWN": [
+  "US2",
+  "Oprah.Winfrey.Network.HD.us2"
+ ],
+ "USA Root Sports NorthWest": [
+  "US2",
+  "ROOT.Sports.Northwest.HD.us2"
+ ],
+ "USA Root Sports Northwest Plus": [
+  "US2",
+  "Root.Sports.Northwest.Plus.us2"
+ ],
+ "USA Root Sports Plus": [
+  "US2",
+  "Root.Sports.Northwest.Plus.us2"
+ ],
+ "USA SEC Network": [
+  "US2",
+  "SEC.Network.HD.us2"
+ ],
+ "USA SEC Network (SHD)": [
+  "US2",
+  "SEC.Network.HD.us2"
+ ],
+ "USA Spectrum SportsNet LA Dodgers": [
+  "US2",
+  "Spectrum.SportsNet.LA.Dodgers.HD.us2"
+ ],
+ "USA Spectrum SportsNet Lakers (HD)": [
+  "US2",
+  "Spectrum.SportsNet.Lakers.HD.us2"
+ ],
+ "USA Spectrum SportsNet Lakers (SHD)": [
+  "US2",
+  "Spectrum.SportsNet.Lakers.HD.us2"
+ ],
+ "USA Spectrum SportsNet Lakers Alternate": [
+  "US2",
+  "Spectrum.SportsNet.Lakers.HD.us2"
+ ],
+ "USA SportsGrid": [
+  "US2",
+  "SportsGrid.us2"
+ ],
+ "USA SportsNet New York (SHD)": [
+  "US2",
+  "SNY.SportsNet.New.York.HD.us2"
+ ],
+ "USA SportsNet New York SNY": [
+  "US2",
+  "SNY.SportsNet.New.York.HD.us2"
+ ],
+ "USA Sportsman": [
+  "US2",
+  "Sportsman.Channel.us2"
+ ],
+ "USA Sundance": [
+  "US2",
+  "SundanceTV.HD.us2"
+ ],
+ "USA Syfy East (SHD)": [
+  "US2",
+  "Syfy.HD.us2"
+ ],
+ "USA TBS East (SHD)": [
+  "US2",
+  "TBS.HD.us2"
+ ],
+ "USA TCM (SHD)": [
+  "US2",
+  "Turner.Classic.Movies.HD.us2"
+ ],
+ "USA TNT West": [
+  "US2",
+  "TNT.HD.(Pacific).us2"
+ ],
+ "USA Tastemade": [
+  "US2",
+  "Tastemade.us2"
+ ],
+ "USA Telemundo Boston WNEU": [
+  "US2",
+  "Telemundo.Satellite.Feed.us2"
+ ],
+ "USA Telemundo Fresno KNSO": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "USA Telemundo Las Vegas KBLR": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "USA Telemundo San Diego KUAN": [
+  "US2",
+  "Telemundo.Satellite.Feed.Pacific.us2"
+ ],
+ "USA Tennis Channel": [
+  "US2",
+  "Tennis.Channel.HD.us2"
+ ],
+ "USA Tennis Channel (SHD)": [
+  "US2",
+  "Tennis.Channel.HD.us2"
+ ],
+ "USA Tennis Channel UHD": [
+  "US2",
+  "Tennis.Channel.HD.us2"
+ ],
+ "USA Travel East (SHD)": [
+  "US2",
+  "The.Travel.Channel.HD.us2"
+ ],
+ "USA TyC Sports": [
+  "US2",
+  "TyC.Sports.Internacional.USA.us2"
+ ],
+ "USA Usa Network West": [
+  "US2",
+  "USA.Network.HD.(Pacific).us2"
+ ],
+ "USA VSIN": [
+  "US2",
+  "VSIN.Vegas.Sports.and.Information.Network.us2"
+ ],
+ "USA WWE UHD": [
+  "US2",
+  "WWE.Network.us2"
+ ],
+ "USA We TV UHD": [
+  "US2",
+  "WE.tv.HD.us2"
+ ],
+ "USA Willow Cricket": [
+  "US2",
+  "Willow.Cricket.HD.us2"
+ ],
+ "USA Willow Cricket Extra": [
+  "US2",
+  "Willow.Cricket.HD.us2"
+ ],
+ "USA World Fishing Network": [
+  "US2",
+  "World.Fishing.Network.HD.(US).us2"
+ ],
+ "USA YES Network LHD": [
+  "US2",
+  "Yes.Network.us2"
+ ],
+ "USA YES Network UHD": [
+  "US2",
+  "Yes.Network.us2"
+ ],
+ "USA Yes Network (SHD)": [
+  "US2",
+  "Yes.Network.us2"
+ ],
+ "USA beIN SPORTS enEspanol": [
+  "US2",
+  "beIN.Sports.En.Español.HD.us2"
+ ],
+ "USA beIN Sports (SHD)": [
+  "US2",
+  "beIN.Sports.USA.HD.us2"
+ ]
+}
