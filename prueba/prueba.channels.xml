@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="mi.tv" site_id="mx#fox-sports" lang="es" xmltv_id="FoxSports.MX">FOX Sports (MX)</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-2" lang="es" xmltv_id="FoxSports2.MX">FOX Sports 2 (MX)</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-3" lang="es" xmltv_id="FoxSports3.MX">FOX Sports 3 (MX)</channel>
+  <channel site="mi.tv" site_id="co#fox-sports" lang="es" xmltv_id="FoxSports.CO">FOX Sports (CO)</channel>
+  <channel site="mi.tv" site_id="co#fox-sports-2" lang="es" xmltv_id="FoxSports2.CO">FOX Sports 2 (CO)</channel>
+  <channel site="mi.tv" site_id="co#fox-sports-3" lang="es" xmltv_id="FoxSports3.CO">FOX Sports 3 (CO)</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-hd" lang="es" xmltv_id="FoxSports.AR">FOX Sports (AR)</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-3" lang="es" xmltv_id="FoxSports3.AR">FOX Sports 3 (AR)</channel>
+  <channel site="mi.tv" site_id="ar#telemundo" lang="es" xmltv_id="TelemundoInternacional.AR">Telemundo Internacional</channel>
+  <channel site="mi.tv" site_id="co#espn-plus" lang="es" xmltv_id="ESPNExtra.CO">ESPN Extra (CO)</channel>
+  <channel site="mi.tv" site_id="ar#espn-1" lang="es" xmltv_id="ESPNExtra.AR">ESPN Extra (AR)</channel>
+  <channel site="mi.tv" site_id="co#discovery-civilization" lang="es" xmltv_id="DiscoveryCivilization.CO">Discovery Civilization</channel>
+  <channel site="mi.tv" site_id="cl#via-x" lang="es" xmltv_id="ViaX.CL">Via X</channel>
+  <channel site="directv.com.ar" site_id="1580#CA26HD" lang="es" xmltv_id="Canal26.AR">Canal 26 HD</channel>
+  <channel site="directv.com.ar" site_id="718#CRON" lang="es" xmltv_id="CronicaTV.AR">Cronica TV</channel>
+  <channel site="directv.com.ar" site_id="1294#ESPHD" lang="es" xmltv_id="ESPNPremium.AR">ESPN Premium (HD)</channel>
+  <channel site="tvpassport.com" site_id="latv-wlmf-ld-miami-fl/29450" lang="en" xmltv_id="AmericaTeVe.TVP">America Teve (tvpassport)</channel>
+  <channel site="tvpassport.com" site_id="ultra-familia/14999" lang="en" xmltv_id="UltraFamilia.TVP">Ultra Familia</channel>
+  <channel site="streamingtvguides.com" site_id="UCLAS" lang="en" xmltv_id="UltraClasico.STG">Ultra Clasico</channel>
+  <channel site="streamingtvguides.com" site_id="ULTMEX" lang="en" xmltv_id="UltraMex.STG">Ultra Mex</channel>
+  <channel site="streamingtvguides.com" site_id="UMACHO" lang="en" xmltv_id="UltraMacho.STG">Ultra Macho</channel>
+  <channel site="i.mjh.nz" site_id="Roku/all#0e9a0d968d225a3eb93784404f7edadf" lang="en" xmltv_id="AmericaTeVe.ROKU">AmericaTeve (Roku)</channel>
+  <channel site="i.mjh.nz" site_id="Roku/all#5a28fbf15c135b51b3638e8bd02d6577" lang="en" xmltv_id="NUnivision.ROKU">N+ Univision 24/7</channel>
+  <channel site="i.mjh.nz" site_id="Plex/mx#608049aefa2b8ae93c2c3a63-6970fa30bde579fb712623ff" lang="es" xmltv_id="NatureTime.PLEXMX">Nature Time (Plex MX)</channel>
+  <channel site="i.mjh.nz" site_id="Plex/mx#608049aefa2b8ae93c2c3a63-688d32e9a6fe30698ab42005" lang="es" xmltv_id="KanalDDrama.PLEXMX">Vive Kanal D Drama (Plex MX)</channel>
+  <channel site="pluto.tv" site_id="639751f81a36b400072b8f5a" lang="es" xmltv_id="KanalDDrama.PLUTO">Vive Kanal D Drama (Pluto)</channel>
+</channels>

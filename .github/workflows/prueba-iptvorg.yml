@@ -1,0 +1,44 @@
+name: Prueba iptv-org
+# Only by hand: tries the iptv-org/epg grabber on the channels missing from the guide. Changes nothing published.
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          path: epg
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Instalar el recolector
+        working-directory: epg
+        run: npm ci || npm install
+      - name: Recolectar
+        working-directory: epg
+        run: npm run grab --- --channels=../prueba/prueba.channels.xml --output=../prueba/prueba.xml --days=2 --maxConnections=2 --timeout=30000 || true
+      - name: Resumen
+        run: |
+          python3 - <<'PY' | tee -a "$GITHUB_STEP_SUMMARY"
+          import re, collections, os
+          p = "prueba/prueba.xml"
+          d = open(p, encoding="utf-8").read() if os.path.exists(p) else ""
+          c = collections.Counter(re.findall(r'<programme[^>]*channel="([^"]+)"', d))
+          ids = re.findall(r'xmltv_id="([^"]+)"', open("prueba/prueba.channels.xml").read())
+          print("| Canal | Programas | Primer título |\n|---|---|---|")
+          for i in ids:
+              m = re.search(r'channel="' + re.escape(i) + r'"[^>]*>\s*<title[^>]*>([^<]*)', d)
+              print(f"| {i} | {c.get(i, 0)} | {m.group(1)[:50] if m else '-'} |")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: prueba-iptvorg
+          path: prueba/prueba.xml
+          retention-days: 3
+          if-no-files-found: ignore
