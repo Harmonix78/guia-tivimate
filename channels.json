@@ -95,6 +95,10 @@
   "US2",
   "beIN.Sports.USA.HD.us2"
  ],
+ "BEIN SPORTS XTRA HD": [
+  "PLEX1",
+  "plex.tv.beIN.SPORTS.XTRA.plex"
+ ],
  "BIG TEN": [
   "US2",
   "Big.Ten.Network.HD.us2"
@@ -106,6 +110,18 @@
  "BRAVO HD": [
   "US2",
   "Bravo.HD.us2"
+ ],
+ "BT SPORTS 1 HD": [
+  "UK1",
+  "TNT.Sports.1.HD.uk"
+ ],
+ "BT SPORTS 2 HD": [
+  "UK1",
+  "TNT.Sports.1.HD.uk"
+ ],
+ "BT SPORTS 4 HD": [
+  "UK1",
+  "Channel.5.HD.uk"
  ],
  "CA A&E": [
   "CA2",
@@ -979,10 +995,6 @@
   "CL1",
   "Canal.Multipremier.cl"
  ],
- "CINE Y SERIES HD | PARAMOUNT": [
-  "MX1",
-  "Canal.Paramount.Channel.(México).mx"
- ],
  "CINE Y SERIES HD | SONY": [
   "MX1",
   "Canal.Sony.(México).mx"
@@ -1008,8 +1020,8 @@
   "Canal.TNT.Novelas.(México).mx"
  ],
  "CINE Y SERIES HD | TNT SERIES": [
-  "MX1",
-  "Canal.TNT.Series.(México).mx"
+  "CO1",
+  "TNT.Series.co"
  ],
  "CINE Y SERIES HD | ULTRA CINE": [
   "SV1",
@@ -1130,6 +1142,10 @@
  "CINE Y SERIES | GOLDEN PREMIER FHD": [
   "MX1",
   "Canal.Golden.Premier.mx"
+ ],
+ "CINE Y SERIES | HBO 2 WEST FHD": [
+  "MX1",
+  "Canal.HBO.2.Latinoamérica.mx"
  ],
  "CINE Y SERIES | HBO EXTREME FHD": [
   "MX1",
@@ -1287,10 +1303,6 @@
   "MX1",
   "Canal.HTV.mx"
  ],
- "CLARO TV | MTV 00'S": [
-  "MX1",
-  "Canal.MTV.00s.mx"
- ],
  "CLARO TV | MTV 80": [
   "US2",
   "MTV.-.Music.Television.HD.us2"
@@ -1406,6 +1418,10 @@
  "CULTURA HD | HOLATV": [
   "MX1",
   "Canal.¡HOLA!.TV.mx"
+ ],
+ "CULTURA HD | HOMEANDHEALTH": [
+  "MX1",
+  "Canal.Discovery.Home.&.Health.(México).mx"
  ],
  "CULTURA HD | HTV": [
   "MX1",
@@ -2179,6 +2195,10 @@
   "CO1",
   "E!.Entertainment.TV.co"
  ],
+ "ELEVEN SPORTS NETWORK HD": [
+  "US2",
+  "Next.Level.Sports.HD.us2"
+ ],
  "ENTRETENIMIENTO | AZCORAZON": [
   "ES1",
   "AZ.Corazón.es"
@@ -2213,7 +2233,7 @@
  ],
  "ENTRETENIMIENTO | MAS CHIC": [
   "MX1",
-  "Canal.Más.Chic.Latinoamérica.mx"
+  "Canal.AMC.Series.(México).mx"
  ],
  "ENTRETENIMIENTO | MTV": [
   "MX1",
@@ -3019,10 +3039,6 @@
   "SV1",
   "Canal.Semillitas.sv"
  ],
- "INF | TEEN NICK": [
-  "MX1",
-  "Canal.TeenNick.mx"
- ],
  "INF | TOONCAST": [
   "MX1",
   "Canal.Tooncast.mx"
@@ -3344,8 +3360,8 @@
   "Canal.Las.Estrellas.Latinoamérica.sv"
  ],
  "Latinos | CARACOL HD": [
-  "CO1",
-  "Caracol.co"
+  "MX1",
+  "Canal.Caracol.Internacional.mx"
  ],
  "Latinos | CINEMAX HD": [
   "MX1",
@@ -3451,10 +3467,6 @@
   "US2",
   "Nick.Jr.HD.us2"
  ],
- "Latinos | PARAMOUNT HD": [
-  "MX1",
-  "Canal.Paramount.Channel.(México).mx"
- ],
  "Latinos | SONY CHANNEL HD": [
   "MX1",
   "Canal.Sony.(México).mx"
@@ -3482,10 +3494,6 @@
  "Latinos | TNT HD": [
   "MX1",
   "Canal.TNT.(México).mx"
- ],
- "Latinos | TNT SERIES HD": [
-  "MX1",
-  "Canal.TNT.Series.(México).mx"
  ],
  "Latinos | UNIMAS HD": [
   "US2",
@@ -3759,6 +3767,10 @@
   "US2",
   "ABC.News.Live.us2"
  ],
+ "NOTICIAS | AMX Noticias": [
+  "MX1",
+  "Canal.DW.(Latinoamérica).mx"
+ ],
  "NOTICIAS | Aljazeera": [
   "ES1",
   "Al.Jazeera.English.es"
@@ -3778,6 +3790,10 @@
  "NOTICIAS | CNN CHILE UHD": [
   "CL1",
   "Canal.CNN.Chile.cl"
+ ],
+ "NOTICIAS | Chilevision Noticias": [
+  "CL1",
+  "Canal.Chilevisión.(CHV).cl"
  ],
  "NOTICIAS | DW NOTICIAS MX": [
   "MX1",
@@ -3899,17 +3915,13 @@
   "US_LOCALS1",
   "WTXF-DT.us_locals1"
  ],
+ "PAC 12 NETWORK HD": [
+  "CA2",
+  "[CPAC].Cable.Public.Affairs.Channel.HD.ca2"
+ ],
  "PARAMOUNT NETWORK HD": [
   "US2",
   "Paramount.Network.HD.us2"
- ],
- "Paramount Channel HD": [
-  "MX1",
-  "Canal.Paramount.Channel.(México).mx"
- ],
- "Paramount Network": [
-  "MX1",
-  "Canal.Paramount.Channel.(México).mx"
  ],
  "Pasiones HD": [
   "CO1",
@@ -4127,6 +4139,10 @@
   "US2",
   "truTV.HD.us2"
  ],
+ "TSN 1 CA": [
+  "CA2",
+  "TSN.1.ca2"
+ ],
  "TUDN USA HD": [
   "US2",
   "TUDN.us2"
@@ -4191,6 +4207,10 @@
   "SV1",
   "Canal.Azteca.7..(México).sv"
  ],
+ "UHD |  Canal 5 Nacional HD℠": [
+  "MX1",
+  "Canal.5.de.México.(XHGC).mx"
+ ],
  "UHD |  Univision Network HD": [
   "CL1",
   "Canal.Univision.(Chile).cl"
@@ -4210,6 +4230,14 @@
  "UHD | AXN®": [
   "MX1",
   "Canal.AXN.(México).mx"
+ ],
+ "UHD | AZ CLICK ®": [
+  "MX1",
+  "Canal.Clic.mx"
+ ],
+ "UHD | Azteca 13": [
+  "MX1",
+  "Canal.TUDN.(México).mx"
  ],
  "UHD | BOOMERANG": [
   "US2",
@@ -4271,6 +4299,10 @@
   "MX1",
   "Canal.Discovery.Theater.(Latinoamérica).mx"
  ],
+ "UHD | DISCOVERY TLC ®": [
+  "MX1",
+  "Canal.TLC.(México).mx"
+ ],
  "UHD | DISCOVERY TURBO ®": [
   "MX1",
   "Canal.Discovery.Turbo.(Latinoamérica).mx"
@@ -4291,6 +4323,10 @@
   "CO1",
   "E!.Entertainment.TV.co"
  ],
+ "UHD | ESPN 2 SUR ®": [
+  "SV1",
+  "Canal.ESPN.2.(Sur).sv"
+ ],
  "UHD | ESPN 2 ®": [
   "MX1",
   "ESPN.2.mx"
@@ -4299,13 +4335,33 @@
   "MX1",
   "ESPN.3.mx"
  ],
+ "UHD | ESPN 4 SUR ®": [
+  "SV1",
+  "Canal.ESPN.4.(Sur).sv"
+ ],
+ "UHD | ESPN SUR ®": [
+  "SV1",
+  "Canal.ESPN.(Sur).sv"
+ ],
  "UHD | ESPN ®": [
   "CO1",
   "ESPN.co"
  ],
+ "UHD | ESTRELLA NOTICIAS": [
+  "US2",
+  "ESTRELLA.NEWS.us2"
+ ],
  "UHD | ESTRELLA TV": [
   "SV1",
   "Canal.Estrella.TV.sv"
+ ],
+ "UHD | ESTRELLA TV MIAMI®": [
+  "US2",
+  "Estrella.TV.us2"
+ ],
+ "UHD | EURO NEWS ESPAÑOL ®": [
+  "ES1",
+  "Euronews.es"
  ],
  "UHD | FILMS-ARTS": [
   "MX1",
@@ -4324,16 +4380,16 @@
   "Canal.Fox.News.mx"
  ],
  "UHD | FOX SPORTS 1": [
-  "MX1",
-  "Canal.Fox.Sports.(México).mx"
+  "SV1",
+  "Canal.Fox.Sports.(Cono.Norte).sv"
  ],
  "UHD | FOX SPORTS 2": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "SV1",
+  "Canal.Fox.Sports.2.(Cono.Norte).sv"
  ],
  "UHD | FOX SPORTS 3": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "SV1",
+  "Canal.Fox.Sports.3.(Cono.Norte).sv"
  ],
  "UHD | FOX SPORTS HD": [
   "MX1",
@@ -4412,8 +4468,8 @@
   "Canal.Las.Estrellas.(Argentina).ar"
  ],
  "UHD | MTV LIVE": [
-  "CO1",
-  "MTV.Live.co"
+  "SV1",
+  "Canal.Discovery.Kids.(Latinoamérica).sv"
  ],
  "UHD | MTV®": [
   "MX1",
@@ -4476,8 +4532,8 @@
   "Canal.Syfy.(España).sv"
  ],
  "UHD | TEEN NICK ®": [
-  "MX1",
-  "Canal.TeenNick.mx"
+  "ES1",
+  "CGTN.Español.es"
  ],
  "UHD | TELEMUNDO ®": [
   "MX1",
@@ -4534,6 +4590,10 @@
  "UHD | WIN SPORTS ®": [
   "CO1",
   "Win.Sports.co"
+ ],
+ "UNICABLE HD": [
+  "MX1",
+  "Canal.Unicable.(México).mx"
  ],
  "UNIMAS HD": [
   "US2",
@@ -6910,6 +6970,10 @@
  "USA | TNT HD": [
   "US2",
   "TNT.HD.us2"
+ ],
+ "USA | UNIVERSAL KIDS HD": [
+  "MX1",
+  "Canal.Disney.Channel.(México).mx"
  ],
  "USA | WCIU Chicago": [
   "US_LOCALS1",
