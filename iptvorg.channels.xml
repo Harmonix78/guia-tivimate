@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Channels epgshare01 doesn't carry, read by iptv-org/epg's grabber in the daily workflow (tested 2026-11-24).
+     xmltv_id is the key channels.json uses as ["IPTVORG", "<xmltv_id>"]. -->
+<channels>
+  <channel site="mi.tv" site_id="mx#fox-sports" lang="es" xmltv_id="FoxSports.MX">FOX Sports (México)</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-2" lang="es" xmltv_id="FoxSports2.MX">FOX Sports 2 (México)</channel>
+  <channel site="mi.tv" site_id="mx#fox-sports-3" lang="es" xmltv_id="FoxSports3.MX">FOX Sports 3 (México)</channel>
+  <channel site="mi.tv" site_id="co#fox-sports" lang="es" xmltv_id="FoxSports.LATAM">FOX Sports (Latinoamérica)</channel>
+  <channel site="mi.tv" site_id="co#fox-sports-2" lang="es" xmltv_id="FoxSports2.LATAM">FOX Sports 2 (Latinoamérica)</channel>
+  <channel site="mi.tv" site_id="co#fox-sports-3" lang="es" xmltv_id="FoxSports3.LATAM">FOX Sports 3 (Latinoamérica)</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-hd" lang="es" xmltv_id="FoxSports.AR">FOX Sports (Argentina)</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-2" lang="es" xmltv_id="FoxSports2.AR">FOX Sports 2 (Argentina)</channel>
+  <channel site="mi.tv" site_id="ar#fox-sports-3" lang="es" xmltv_id="FoxSports3.AR">FOX Sports 3 (Argentina)</channel>
+  <channel site="mi.tv" site_id="co#espn-plus" lang="es" xmltv_id="ESPNExtra.LATAM">ESPN Extra</channel>
+  <channel site="mi.tv" site_id="cl#via-x" lang="es" xmltv_id="ViaX.CL">Vía X</channel>
+  <channel site="mi.tv" site_id="ar#26-tv" lang="es" xmltv_id="Canal26.AR">Canal 26</channel>
+  <channel site="mi.tv" site_id="ar#cronica" lang="es" xmltv_id="CronicaTV.AR">Crónica TV</channel>
+  <channel site="i.mjh.nz" site_id="Roku/all#0e9a0d968d225a3eb93784404f7edadf" lang="es" xmltv_id="AmericaTeVe.US">América TeVe</channel>
+  <channel site="i.mjh.nz" site_id="Roku/all#5a28fbf15c135b51b3638e8bd02d6577" lang="es" xmltv_id="NUnivision.US">N+ Univision 24/7</channel>
+  <channel site="i.mjh.nz" site_id="Plex/mx#608049aefa2b8ae93c2c3a63-688d32e9a6fe30698ab42005" lang="es" xmltv_id="KanalDDrama.LATAM">Vive Kanal D Drama</channel>
+  <channel site="tvpassport.com" site_id="ultra-familia/14999" lang="es" xmltv_id="UltraFamilia.US">Ultra Familia</channel>
+  <channel site="pluto.tv" site_id="60dd6b1da79e4d0007309455" lang="es" xmltv_id="NatureTime.ES">Nature Time</channel>
+</channels>

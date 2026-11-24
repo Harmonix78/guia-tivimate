@@ -1,12 +1,15 @@
 """Builds guide.xml.gz for TiviMate: only the channels in channels.json, each renamed to the exact name it has in the
 playlist, so TiviMate matches them by name with no manual work.
 
-channels.json: {"playlist channel name": ["epgshare01 file", "epgshare01 channel id"], ...}
+channels.json: {"playlist channel name": ["epgshare01 file", "epgshare01 channel id"], ...}; the file can also be
+"IPTVORG", with the xmltv_id of an entry in iptvorg.channels.xml (iptv-org/epg's grabber, run before this).
 """
 import datetime as dt, gzip, json, sys, urllib.request, xml.etree.ElementTree as ET
 from collections import defaultdict
 
 BASE = "https://epgshare01.online/epgshare01/epg_ripper_{}.xml.gz"
+# Sources that aren't epgshare01 files: guides made by an earlier step of the workflow (iptvorg.channels.xml).
+LOCAL = {"IPTVORG": "iptvorg.xml"}
 # Only what TiviMate will show: from 6 hours ago to 48 hours ahead (the sources carry a day or two of the past).
 NOW = dt.datetime.now(dt.timezone.utc)
 FROM, UNTIL = NOW - dt.timedelta(hours=6), NOW + dt.timedelta(hours=48)
@@ -24,9 +27,13 @@ for name, (src, cid) in channels.items():
 out_channels, out_programmes, found = {}, [], set()
 per_name = defaultdict(int)
 for src, ids in sorted(by_source.items()):
-    req = urllib.request.Request(BASE.format(src), headers={"User-Agent": "guia-tivimate/1.0"})
     try:
-        with urllib.request.urlopen(req, timeout=300) as r, gzip.GzipFile(fileobj=r) as g:
+        if src in LOCAL:   # a guide made earlier in this run (iptv-org's grabber); missing = that step failed
+            stream = open(LOCAL[src], "rb")
+        else:
+            req = urllib.request.Request(BASE.format(src), headers={"User-Agent": "guia-tivimate/1.0"})
+            stream = gzip.GzipFile(fileobj=urllib.request.urlopen(req, timeout=300))
+        with stream as g:
             n = 0
             for _, el in ET.iterparse(g, events=("end",)):
                 cid = el.get("id") if el.tag == "channel" else el.get("channel") if el.tag == "programme" else None

@@ -67,6 +67,22 @@
   "US_LOCALS1",
   "KLRT-DT.us_locals1"
  ],
+ "ARG |  Canal 26 Noticias HD": [
+  "IPTVORG",
+  "Canal26.AR"
+ ],
+ "ARG | Canal 26  HD": [
+  "IPTVORG",
+  "Canal26.AR"
+ ],
+ "ARGENTINA l Canal 26": [
+  "IPTVORG",
+  "Canal26.AR"
+ ],
+ "ARGENTINA l Cronica": [
+  "IPTVORG",
+  "CronicaTV.AR"
+ ],
  "AZ | PHOENIX-PRESCOTT | FOX - KSAZ": [
   "US_LOCALS1",
   "KSAZ-DT.us_locals1"
@@ -860,8 +876,8 @@
   "KTVT-DT.us_locals1"
  ],
  "CHAMPIONS |  FOX SPORTS 1 ARG": [
-  "US2",
-  "FS1.HD.us2"
+  "IPTVORG",
+  "FoxSports.AR"
  ],
  "CHAMPIONS | CBS SPORTS NETWORK": [
   "US2",
@@ -896,12 +912,12 @@
   "Canal.ESPN.Premium.(Chile).sv"
  ],
  "CHAMPIONS | FOX SPORTS 2 ARG": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "IPTVORG",
+  "FoxSports2.AR"
  ],
  "CHAMPIONS | FOX SPORTS 3 ARG": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "IPTVORG",
+  "FoxSports3.AR"
  ],
  "CHAMPIONS | MOVISTAR LIGA DE CAMPEONES HD": [
   "ES1",
@@ -1030,6 +1046,10 @@
  "CINE Y SERIES HD | ULTRA DOCU": [
   "SV1",
   "Canal.Ultra.Docu.sv"
+ ],
+ "CINE Y SERIES HD | ULTRA FAMILIA": [
+  "IPTVORG",
+  "UltraFamilia.US"
  ],
  "CINE Y SERIES HD | ULTRA KIDS": [
   "SV1",
@@ -1303,6 +1323,10 @@
   "MX1",
   "Canal.HTV.mx"
  ],
+ "CLARO TV | MTV 00'S": [
+  "IPTVORG",
+  "ViaX.CL"
+ ],
  "CLARO TV | MTV 80": [
   "US2",
   "MTV.-.Music.Television.HD.us2"
@@ -1346,6 +1370,10 @@
  "CO | GRAND JUNCTION-MONTROSE | FOX - KFQX": [
   "US_LOCALS1",
   "KFQX-DT.us_locals1"
+ ],
+ "COL| FOX SPORTS 3 FHD": [
+  "IPTVORG",
+  "FoxSports3.LATAM"
  ],
  "COMEDY CENTRAL HD": [
   "US2",
@@ -1555,6 +1583,10 @@
   "CO1",
   "NAT.GEO.co"
  ],
+ "CULTURA | NATURE TIME FHD": [
+  "IPTVORG",
+  "NatureTime.ES"
+ ],
  "CULTURA | NBC UNIVERSO WEST HD": [
   "US2",
   "UNIVERSO.HD.us2"
@@ -1606,6 +1638,10 @@
  "Claro Sports": [
   "MX1",
   "Claro.Sports.1.mx"
+ ],
+ "Cronica Tv HD": [
+  "IPTVORG",
+  "CronicaTV.AR"
  ],
  "DAZN ES | DAZN 1 HD": [
   "ES1",
@@ -1668,16 +1704,16 @@
   "FS1.HD.us2"
  ],
  "DHD |  FOX SPORTS 2 MX": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "IPTVORG",
+  "FoxSports2.MX"
  ],
  "DHD |  FOX SPORTS 2 USA": [
   "US2",
   "FS2.HD.us2"
  ],
  "DHD |  FOX SPORTS 3 MX": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "IPTVORG",
+  "FoxSports3.MX"
  ],
  "DHD |  GOLF CHANNEL USA": [
   "US2",
@@ -1808,20 +1844,20 @@
   "Fight.Network.us2"
  ],
  "DHD | FOX SPORTS 1 ARG": [
-  "US2",
-  "FS1.HD.us2"
+  "IPTVORG",
+  "FoxSports.AR"
  ],
  "DHD | FOX SPORTS 1 MX": [
-  "MX1",
-  "Canal.Fox.Sports.(México).mx"
+  "IPTVORG",
+  "FoxSports.MX"
  ],
  "DHD | FOX SPORTS 2 ARG": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "IPTVORG",
+  "FoxSports2.AR"
  ],
  "DHD | FOX SPORTS 3 ARG": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "IPTVORG",
+  "FoxSports3.AR"
  ],
  "DHD | FOX SPORTS PREMIUM MX": [
   "MX1",
@@ -2092,16 +2128,16 @@
   "Fox.Soccer.Plus.HD.us2"
  ],
  "Dep. +3Mbps | FOX SPORTS 1 MX HD": [
-  "MX1",
-  "Canal.Fox.Sports.(México).mx"
+  "IPTVORG",
+  "FoxSports.MX"
  ],
  "Dep. +3Mbps | FOX SPORTS 2 MX HD": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "IPTVORG",
+  "FoxSports2.MX"
  ],
  "Dep. +3Mbps | FOX SPORTS 3 MX HD": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "IPTVORG",
+  "FoxSports3.MX"
  ],
  "Dep. +3Mbps | FOX SPORTS PREMIUM HD": [
   "MX1",
@@ -2195,6 +2231,10 @@
   "CO1",
   "E!.Entertainment.TV.co"
  ],
+ "EC | FOX SPORTS 2 HD": [
+  "IPTVORG",
+  "FoxSports2.LATAM"
+ ],
  "ELEVEN SPORTS NETWORK HD": [
   "US2",
   "Next.Level.Sports.HD.us2"
@@ -2206,6 +2246,10 @@
  "ENTRETENIMIENTO | COMEDY CENTRAL": [
   "MX1",
   "Canal.Comedy.Central.(México).mx"
+ ],
+ "ENTRETENIMIENTO | D DRAMA": [
+  "IPTVORG",
+  "KanalDDrama.LATAM"
  ],
  "ENTRETENIMIENTO | DISTRITO COMEDIA": [
   "MX1",
@@ -2815,9 +2859,17 @@
   "MX1",
   "ESPN.3.mx"
  ],
+ "Espn Extra": [
+  "IPTVORG",
+  "ESPNExtra.LATAM"
+ ],
  "Espn Premium": [
   "SV1",
   "Canal.ESPN.Premium.(Chile).sv"
+ ],
+ "F1 | FOX SPORTS ARG": [
+  "IPTVORG",
+  "FoxSports.AR"
  ],
  "FL | FORT MYERS-NAPLES | FOX - WFTX": [
   "US_LOCALS1",
@@ -2894,6 +2946,10 @@
  "GOLF CHANNEL HD": [
   "US2",
   "Golf.Channel.HD.us2"
+ ],
+ "GT | FOX SPORTS GT": [
+  "IPTVORG",
+  "FoxSports.LATAM"
  ],
  "HALLMARK HD": [
   "US2",
@@ -3174,6 +3230,10 @@
  "LAT |  Univision New York HD": [
   "US2",
   "Univision.Network.HD.us2"
+ ],
+ "LAT |  Univision Noticias HD": [
+  "IPTVORG",
+  "NUnivision.US"
  ],
  "LAT |  Univision Philadelphia HD": [
   "US2",
@@ -3628,12 +3688,12 @@
   "ESPN.2.mx"
  ],
  "MX Fox Sports 1": [
-  "MX1",
-  "Canal.Fox.Sports.(México).mx"
+  "IPTVORG",
+  "FoxSports.MX"
  ],
  "MX Fox Sports 3": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "IPTVORG",
+  "FoxSports3.MX"
  ],
  "MX Golf HD": [
   "MX1",
@@ -3664,20 +3724,20 @@
   "ESPN.MX.mx"
  ],
  "MX | FOX SPORTS 2 HD": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "IPTVORG",
+  "FoxSports2.MX"
  ],
  "MX | FOX SPORTS 3 HD": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "IPTVORG",
+  "FoxSports3.MX"
  ],
  "MX | FOX SPORTS HD": [
-  "MX1",
-  "Canal.Fox.Sports.(México).mx"
+  "IPTVORG",
+  "FoxSports.MX"
  ],
  "MX | Fox Sports 2": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "IPTVORG",
+  "FoxSports2.MX"
  ],
  "MX |* ADRENALINA FHD": [
   "MX1",
@@ -3692,16 +3752,16 @@
   "ESPN.3.mx"
  ],
  "MX |* FOX SPORTS  1 HD": [
-  "MX1",
-  "Canal.Fox.Sports.(México).mx"
+  "IPTVORG",
+  "FoxSports.MX"
  ],
  "MX |* FOX SPORTS 2 HD": [
-  "MX1",
-  "Canal.Fox.Sports.2.(México).mx"
+  "IPTVORG",
+  "FoxSports2.MX"
  ],
  "MX |* FOX SPORTS 3 HD": [
-  "MX1",
-  "Canal.Fox.Sports.3.(México).mx"
+  "IPTVORG",
+  "FoxSports3.MX"
  ],
  "MX |* TUDN HD": [
   "MX1",
@@ -3791,6 +3851,10 @@
   "CL1",
   "Canal.CNN.Chile.cl"
  ],
+ "NOTICIAS | Canal 26": [
+  "IPTVORG",
+  "Canal26.AR"
+ ],
  "NOTICIAS | Chilevision Noticias": [
   "CL1",
   "Canal.Chilevisión.(CHV).cl"
@@ -3834,6 +3898,10 @@
  "NOTICIAS | Telesur": [
   "ES1",
   "teleSUR.es"
+ ],
+ "NOTICIAS | UNIVISION NOTICIAS": [
+  "IPTVORG",
+  "NUnivision.US"
  ],
  "NOTICIAS | WEATHER CHANNEL US": [
   "US2",
@@ -3950,6 +4018,22 @@
  "SC | MYRTLE BEACH-FLORENCE | FOX - WFXB": [
   "US_LOCALS1",
   "WFXB-DT.us_locals1"
+ ],
+ "SD | Fox Sports 1 MX": [
+  "IPTVORG",
+  "FoxSports.MX"
+ ],
+ "SD | Fox Sports 2 Ar": [
+  "IPTVORG",
+  "FoxSports2.AR"
+ ],
+ "SD | Fox Sports 2 MX": [
+  "IPTVORG",
+  "FoxSports2.MX"
+ ],
+ "SD | Fox Sports 3 MX": [
+  "IPTVORG",
+  "FoxSports3.MX"
  ],
  "SD | SIOUX FALLS | FOX - KTTW": [
   "US_LOCALS1",
@@ -4380,20 +4464,24 @@
   "Canal.Fox.News.mx"
  ],
  "UHD | FOX SPORTS 1": [
-  "SV1",
-  "Canal.Fox.Sports.(Cono.Norte).sv"
+  "IPTVORG",
+  "FoxSports.LATAM"
  ],
  "UHD | FOX SPORTS 2": [
-  "SV1",
-  "Canal.Fox.Sports.2.(Cono.Norte).sv"
+  "IPTVORG",
+  "FoxSports2.LATAM"
  ],
  "UHD | FOX SPORTS 3": [
-  "SV1",
-  "Canal.Fox.Sports.3.(Cono.Norte).sv"
+  "IPTVORG",
+  "FoxSports3.LATAM"
+ ],
+ "UHD | FOX SPORTS 3 SUR ®": [
+  "IPTVORG",
+  "FoxSports3.AR"
  ],
  "UHD | FOX SPORTS HD": [
-  "MX1",
-  "Canal.Fox.Sports.(México).mx"
+  "IPTVORG",
+  "FoxSports.MX"
  ],
  "UHD | FX": [
   "MX1",
@@ -4694,6 +4782,10 @@
  "US LAT |  Univision TLnovelas": [
   "US2",
   "Univision.TL.Novelas.us2"
+ ],
+ "US LAT | AMERICA TEVE": [
+  "IPTVORG",
+  "AmericaTeVe.US"
  ],
  "US LAT | Centroamerica TV": [
   "US2",
@@ -5066,6 +5158,10 @@
  "US LAT | Univision Network": [
   "US2",
   "Univision.Network.HD.us2"
+ ],
+ "US LAT | Univision Now: Univision Noticias": [
+  "IPTVORG",
+  "NUnivision.US"
  ],
  "US LAT | Univision San Angelo": [
   "US2",

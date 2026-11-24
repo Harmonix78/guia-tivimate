@@ -23,6 +23,24 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      # Channels epgshare01 doesn't carry (iptvorg.channels.xml), from iptv-org/epg's grabber. If it fails, the guide
+      # is still built from epgshare01 alone (build_guide.py skips a missing iptvorg.xml).
+      - uses: actions/checkout@v4
+        continue-on-error: true
+        with:
+          repository: iptv-org/epg
+          path: epg
+      - uses: actions/setup-node@v4
+        continue-on-error: true
+        with:
+          node-version: 22
+      - name: Canales de iptv-org
+        continue-on-error: true
+        timeout-minutes: 15
+        working-directory: epg
+        run: |
+          npm ci || npm install
+          npm run grab --- --channels=../iptvorg.channels.xml --output=../iptvorg.xml --days=2 --maxConnections=2
       - name: Generar la guía
         run: |
           python build_guide.py
