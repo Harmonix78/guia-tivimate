@@ -120,8 +120,8 @@
   "Big.Ten.Network.HD.us2"
  ],
  "BOOMERANG HD": [
-  "US2",
-  "Boomerang.us2"
+  "MX1",
+  "Canal.Cartoonito.(México).mx"
  ],
  "BRAVO HD": [
   "US2",
@@ -1099,6 +1099,10 @@
   "MX1",
   "Canal.AXN.(México).mx"
  ],
+ "CINE Y SERIES | AZ-CINEMA FHD": [
+  "IPTVORG",
+  "AzCinema.MX"
+ ],
  "CINE Y SERIES | CINE DINAMITA FHD": [
   "US2",
   "Cinema.Dinamita.us2"
@@ -1736,16 +1740,16 @@
   "Claro.Sports.1.mx"
  ],
  "DHD | DSPORTS +": [
-  "CO1",
-  "DSPORTS.+(DTS+).co"
+  "DIRECTVSPORTS1",
+  "DSPORTS.+.HD.dtvsp"
  ],
  "DHD | DSPORTS 1": [
-  "CO1",
-  "DIRECTV.SPORTS.HD(DTVSHD).co"
+  "DIRECTVSPORTS1",
+  "DSPORTS.(ARG).dtvsp"
  ],
  "DHD | DSPORTS 2": [
-  "CO1",
-  "DSPORTS.2.(DTS2).co"
+  "DIRECTVSPORTS1",
+  "DSPORTS.2.HD.dtvsp"
  ],
  "DHD | ESPN 1 ARG": [
   "AR1",
@@ -2288,8 +2292,8 @@
   "Canal.TLNovelas.(México).mx"
  ],
  "ENTRETENIMIENTO | TELEMUNDO MIAMI HD": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWSCV.us"
  ],
  "ENTRETENIMIENTO | UNICABLE HD": [
   "MX1",
@@ -3156,28 +3160,28 @@
   "Galavision.Cable.Network.HD.(Pacific).us2"
  ],
  "LAT |  Telemundo Dallas": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKXTX.us"
  ],
  "LAT |  Telemundo Denver": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKDEN.us"
  ],
  "LAT |  Telemundo Houston HD": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKTMD.us"
  ],
  "LAT |  Telemundo Las Vegas": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKBLR.us"
  ],
  "LAT |  Telemundo San Antonio": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKVDA.us"
  ],
  "LAT |  Telemundo33 Chicago": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWSNS.us"
  ],
  "LAT |  Unimas Colorado Springs - KGHB": [
   "US_LOCALS1",
@@ -4180,16 +4184,16 @@
   "Canal.Space.(México).mx"
  ],
  "TELEMUNDO BOSTON HD": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWNEU.us"
  ],
  "TELEMUNDO LOS ANGELES HD": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKVEA.us"
  ],
  "TELEMUNDO SACRAMENTO HD": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKCSO.us"
  ],
  "TENNIS CHANNEL HD": [
   "US2",
@@ -4833,7 +4837,7 @@
  ],
  "US LAT | Galavision (Los Angeles)": [
   "US2",
-  "Galavision.Cable.Network.HD.us2"
+  "Galavision.Cable.Network.HD.(Pacific).us2"
  ],
  "US LAT | Galavision East (SHD)": [
   "US2",
@@ -4844,176 +4848,176 @@
   "Galavision.Cable.Network.HD.(Pacific).us2"
  ],
  "US LAT | TELEMUNDO 44 CHARLOTTE": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWSOC2.us"
  ],
  "US LAT | TELEMUNDO 47 NEW YORK": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWNJU.us"
  ],
  "US LAT | TELEMUNDO 51 MIAMI": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWSCV.us"
  ],
  "US LAT | TELEMUNDO LOS ANGELES": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKVEA.us"
  ],
  "US LAT | TELEMUNDO PHOENIX": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKTAZ.us"
  ],
  "US LAT | TELEMUNDO SAN FRANCISCO": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKSTS.us"
  ],
  "US LAT | Telemundo  El Paso": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKTDO.us"
  ],
  "US LAT | Telemundo 13 Colorado Springs": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKRDO2.us"
  ],
  "US LAT | Telemundo 14 Sioux City": [
   "US2",
   "Telemundo.Satellite.Feed.us2"
  ],
  "US LAT | Telemundo 17 Providence": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWRIW.us"
  ],
  "US LAT | Telemundo 20 Salt Lake City": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKTMW.us"
  ],
  "US LAT | Telemundo 44 BALTIMORE": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWZDC.us"
  ],
  "US LAT | Telemundo 45 Richmond": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWZTD.us"
  ],
  "US LAT | Telemundo 47 Atlanta": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWKTB.us"
  ],
  "US LAT | Telemundo 47 New York": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWNJU.us"
  ],
  "US LAT | Telemundo 48 Seattle": [
   "US2",
   "Telemundo.Satellite.Feed.Pacific.us2"
  ],
  "US LAT | Telemundo 51": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWSCV.us"
  ],
  "US LAT | Telemundo 51 Fresno": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKNSO.us"
  ],
  "US LAT | Telemundo 52 Corona": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKVEA.us"
  ],
  "US LAT | Telemundo 52 Honolulu": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKLEI.us"
  ],
  "US LAT | Telemundo 62 Philadelphia": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWWSI.us"
  ],
  "US LAT | Telemundo Albuquerque": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKASA.us"
  ],
  "US LAT | Telemundo Boston": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWNEU.us"
  ],
  "US LAT | Telemundo Fayetteville": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKEGW.us"
  ],
  "US LAT | Telemundo Kansas City": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKGKC.us"
  ],
  "US LAT | Telemundo Lincoln": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKFDY.us"
  ],
  "US LAT | Telemundo McAllen 40": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKTLM.us"
  ],
  "US LAT | Telemundo Medford": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKFBI.us"
  ],
  "US LAT | Telemundo Miami": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWSCV.us"
  ],
  "US LAT | Telemundo Orlando": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWTMO.us"
  ],
  "US LAT | Telemundo Phoenix": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKTAZ.us"
  ],
  "US LAT | Telemundo Poway Etc": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKUAN.us"
  ],
  "US LAT | Telemundo Rio Grande City": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKTLM.us"
  ],
  "US LAT | Telemundo Sacramento": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKCSO.us"
  ],
  "US LAT | Telemundo San Antonio": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKVDA.us"
  ],
  "US LAT | Telemundo San Diego": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKUAN.us"
  ],
  "US LAT | Telemundo San Francisco": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKSTS.us"
  ],
  "US LAT | Telemundo San Jose": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKSTS.us"
  ],
  "US LAT | Telemundo San Luis Obispo": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKTAS.us"
  ],
  "US LAT | Telemundo Tampa": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWRMD.us"
  ],
  "US LAT | Telemundo Tyler": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKLTV3.us"
  ],
  "US LAT | Telemundo Washington": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWZDC.us"
  ],
  "US LAT | Telemundo Washington DC 44": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWZDC.us"
  ],
  "US LAT | UNIMAS 31 AUSTIN": [
   "US2",
@@ -6772,20 +6776,20 @@
   "Tastemade.us2"
  ],
  "USA Telemundo Boston WNEU": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoWNEU.us"
  ],
  "USA Telemundo Fresno KNSO": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKNSO.us"
  ],
  "USA Telemundo Las Vegas KBLR": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKBLR.us"
  ],
  "USA Telemundo San Diego KUAN": [
-  "US2",
-  "Telemundo.Satellite.Feed.Pacific.us2"
+  "IPTVORG",
+  "TelemundoKUAN.us"
  ],
  "USA Tennis Channel": [
   "US2",
@@ -7772,12 +7776,12 @@
   "UniMas.us2"
  ],
  "USL: TELEMUNDO DENVER(KDEN)": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKDEN.us"
  ],
  "USL: TELEMUNDO TUCSON(KHRR)": [
-  "US2",
-  "Telemundo.Satellite.Feed.us2"
+  "IPTVORG",
+  "TelemundoKHRR.us"
  ],
  "USL: UNIMAS BOSTON(WUTF)": [
   "US2",
